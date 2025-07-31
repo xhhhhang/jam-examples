@@ -1,0 +1,68 @@
+[
+  {
+    "id": "1442432310",
+    "audio_path": "examples/1442432310/reference_audio.mp3",
+    "lrc_path": "examples/1442432310/lyrics.json",
+    "duration": 150
+  },
+  {
+    "id": "1343528196",
+    "audio_path": "examples/1343528196/reference_audio.mp3",
+    "lrc_path": "examples/1343528196/lyrics.json",
+    "duration": 166
+  },
+  {
+    "id": "2104626655",
+    "audio_path": "examples/2104626655/reference_audio.mp3",
+    "lrc_path": "examples/2104626655/lyrics.json",
+    "duration": 125
+  },
+  {
+    "id": "2569101",
+    "audio_path": "examples/2569101/reference_audio.mp3",
+    "lrc_path": "examples/2569101/lyrics.json",
+    "duration": 201
+  },
+  {
+    "id": "26870994",
+    "audio_path": "examples/26870994/reference_audio.mp3",
+    "lrc_path": "examples/26870994/lyrics.json",
+    "duration": 133
+  },
+  {
+    "id": "2065854128",
+    "audio_path": "examples/2065854128/reference_audio.mp3",
+    "lrc_path": "examples/2065854128/lyrics.json",
+    "duration": 144
+  },
+  {
+    "id": "492092743",
+    "audio_path": "examples/492092743/reference_audio.mp3",
+    "lrc_path": "examples/492092743/lyrics.json",
+    "duration": 217
+  },
+  {
+    "id": "2130451215",
+    "audio_path": "examples/2130451215/reference_audio.mp3",
+    "lrc_path": "examples/2130451215/lyrics.json",
+    "duration": 151
+  },
+  {
+    "id": "1337972",
+    "audio_path": "examples/1337972/reference_audio.mp3",
+    "lrc_path": "examples/1337972/lyrics.json",
+    "duration": 155
+  },
+  {
+    "id": "520458906",
+    "audio_path": "examples/520458906/reference_audio.mp3",
+    "lrc_path": "examples/520458906/lyrics.json",
+    "duration": 190
+  },
+  {
+    "id": "1473031024",
+    "audio_path": "examples/1473031024/reference_audio.mp3",
+    "lrc_path": "examples/1473031024/lyrics.json",
+    "duration": 192
+  }
+]
