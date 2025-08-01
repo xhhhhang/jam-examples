@@ -1,10 +1,10 @@
 [
     {
-        "id": "Heroin - Hybrid Minds, Brodie",
-        "audio_path": "examples/Hybrid Minds, Brodie - Heroin.mp3",
-        "lrc_path": "examples/Hybrid Minds, Brodie - Heroin.json",
-        "duration": 182,
-        "bpm": 176
+        "id": "Follow Excitement! - Rizzle Kicks, Rachel Chinouriri",
+        "audio_path": "examples/Rizzle Kicks, Rachel Chinouriri - Follow Excitement!.mp3",
+        "lrc_path": "examples/Rizzle Kicks, Rachel Chinouriri - Follow Excitement!.json",
+        "duration": 148,
+        "bpm": 105
     },
     {
         "id": "Parallel Theory - Kwengface",
@@ -14,6 +14,13 @@
         "bpm": 95
     },
     {
+        "id": "Sincerely, Your Son - Waylon Wyatt",
+        "audio_path": "examples/Waylon Wyatt - Sincerely, Your Son.mp3",
+        "lrc_path": "examples/Waylon Wyatt - Sincerely, Your Son.json",
+        "duration": 229,
+        "bpm": 87
+    },
+    {
         "id": "Avalanche - Jade Bird",
         "audio_path": "examples/Jade Bird - Avalanche.mp3",
         "lrc_path": "examples/Jade Bird - Avalanche.json",
@@ -21,18 +28,18 @@
         "bpm": 171
     },
     {
-        "id": "Follow Excitement! - Rizzle Kicks, Rachel Chinouriri",
-        "audio_path": "examples/Rizzle Kicks, Rachel Chinouriri - Follow Excitement!.mp3",
-        "lrc_path": "examples/Rizzle Kicks, Rachel Chinouriri - Follow Excitement!.json",
-        "duration": 148,
-        "bpm": 105
-    },
-    {
         "id": "A Day Off In Margaritaville - Liang Lawrence",
         "audio_path": "examples/Liang Lawrence - A Day Off In Margaritaville.mp3",
         "lrc_path": "examples/Liang Lawrence - A Day Off In Margaritaville.json",
         "duration": 172,
         "bpm": 98
+    },
+    {
+        "id": "Heroin - Hybrid Minds, Brodie",
+        "audio_path": "examples/Hybrid Minds, Brodie - Heroin.mp3",
+        "lrc_path": "examples/Hybrid Minds, Brodie - Heroin.json",
+        "duration": 182,
+        "bpm": 176
     },
     {
         "id": "paper doll - quinnie",
@@ -54,13 +61,6 @@
         "lrc_path": "examples/Miley Cyrus - Easy Lover.json",
         "duration": 186,
         "bpm": 107
-    },
-    {
-        "id": "Sincerely, Your Son - Waylon Wyatt",
-        "audio_path": "examples/Waylon Wyatt - Sincerely, Your Son.mp3",
-        "lrc_path": "examples/Waylon Wyatt - Sincerely, Your Son.json",
-        "duration": 229,
-        "bpm": 87
     },
     {
         "id": "This Song - Conan Gray",
