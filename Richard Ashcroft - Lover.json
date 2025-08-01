@@ -1,0 +1,7147 @@
+{
+  "char": [
+    {
+      "char": [
+        "Yeah"
+      ],
+      "start_offset": 262,
+      "end_offset": 265,
+      "start": 20.96,
+      "end": 21.2
+    },
+    {
+      "char": [
+        ","
+      ],
+      "start_offset": 265,
+      "end_offset": 265,
+      "start": 21.2,
+      "end": 21.2
+    },
+    {
+      "char": [
+        "yeah"
+      ],
+      "start_offset": 267,
+      "end_offset": 270,
+      "start": 21.36,
+      "end": 21.6
+    },
+    {
+      "char": [
+        ","
+      ],
+      "start_offset": 270,
+      "end_offset": 270,
+      "start": 21.6,
+      "end": 21.6
+    },
+    {
+      "char": [
+        "yeah"
+      ],
+      "start_offset": 272,
+      "end_offset": 275,
+      "start": 21.76,
+      "end": 22.0
+    },
+    {
+      "char": [
+        ","
+      ],
+      "start_offset": 275,
+      "end_offset": 275,
+      "start": 22.0,
+      "end": 22.0
+    },
+    {
+      "char": [
+        "yeah"
+      ],
+      "start_offset": 276,
+      "end_offset": 280,
+      "start": 22.080000000000002,
+      "end": 22.400000000000002
+    },
+    {
+      "char": [
+        "We"
+      ],
+      "start_offset": 295,
+      "end_offset": 296,
+      "start": 23.6,
+      "end": 23.68
+    },
+    {
+      "char": [
+        "yeah"
+      ],
+      "start_offset": 299,
+      "end_offset": 302,
+      "start": 23.92,
+      "end": 24.16
+    },
+    {
+      "char": [
+        ","
+      ],
+      "start_offset": 302,
+      "end_offset": 302,
+      "start": 24.16,
+      "end": 24.16
+    },
+    {
+      "char": [
+        "yeah"
+      ],
+      "start_offset": 303,
+      "end_offset": 306,
+      "start": 24.240000000000002,
+      "end": 24.48
+    },
+    {
+      "char": [
+        ","
+      ],
+      "start_offset": 306,
+      "end_offset": 306,
+      "start": 24.48,
+      "end": 24.48
+    },
+    {
+      "char": [
+        "yeah"
+      ],
+      "start_offset": 307,
+      "end_offset": 309,
+      "start": 24.560000000000002,
+      "end": 24.72
+    },
+    {
+      "char": [
+        ","
+      ],
+      "start_offset": 309,
+      "end_offset": 309,
+      "start": 24.72,
+      "end": 24.72
+    },
+    {
+      "char": [
+        "yeah"
+      ],
+      "start_offset": 310,
+      "end_offset": 313,
+      "start": 24.8,
+      "end": 25.04
+    },
+    {
+      "char": [
+        "It"
+      ],
+      "start_offset": 366,
+      "end_offset": 367,
+      "start": 29.28,
+      "end": 29.36
+    },
+    {
+      "char": [
+        "'"
+      ],
+      "start_offset": 367,
+      "end_offset": 367,
+      "start": 29.36,
+      "end": 29.36
+    },
+    {
+      "char": [
+        "s"
+      ],
+      "start_offset": 368,
+      "end_offset": 370,
+      "start": 29.44,
+      "end": 29.6
+    },
+    {
+      "char": [
+        "just"
+      ],
+      "start_offset": 370,
+      "end_offset": 373,
+      "start": 29.6,
+      "end": 29.84
+    },
+    {
+      "char": [
+        "like"
+      ],
+      "start_offset": 373,
+      "end_offset": 375,
+      "start": 29.84,
+      "end": 30.0
+    },
+    {
+      "char": [
+        "lo"
+      ],
+      "start_offset": 377,
+      "end_offset": 379,
+      "start": 30.16,
+      "end": 30.32
+    },
+    {
+      "char": [
+        "ver"
+      ],
+      "start_offset": 379,
+      "end_offset": 381,
+      "start": 30.32,
+      "end": 30.48
+    },
+    {
+      "char": [
+        "Wh"
+      ],
+      "start_offset": 386,
+      "end_offset": 388,
+      "start": 30.88,
+      "end": 31.04
+    },
+    {
+      "char": [
+        "y"
+      ],
+      "start_offset": 388,
+      "end_offset": 391,
+      "start": 31.04,
+      "end": 31.28
+    },
+    {
+      "char": [
+        "we"
+      ],
+      "start_offset": 394,
+      "end_offset": 398,
+      "start": 31.52,
+      "end": 31.84
+    },
+    {
+      "char": [
+        "so"
+      ],
+      "start_offset": 402,
+      "end_offset": 406,
+      "start": 32.160000000000004,
+      "end": 32.480000000000004
+    },
+    {
+      "char": [
+        "str"
+      ],
+      "start_offset": 406,
+      "end_offset": 410,
+      "start": 32.480000000000004,
+      "end": 32.8
+    },
+    {
+      "char": [
+        "ong"
+      ],
+      "start_offset": 414,
+      "end_offset": 418,
+      "start": 33.12,
+      "end": 33.44
+    },
+    {
+      "char": [
+        "to"
+      ],
+      "start_offset": 418,
+      "end_offset": 422,
+      "start": 33.44,
+      "end": 33.76
+    },
+    {
+      "char": [
+        "get"
+      ],
+      "start_offset": 422,
+      "end_offset": 425,
+      "start": 33.76,
+      "end": 34.0
+    },
+    {
+      "char": [
+        "her"
+      ],
+      "start_offset": 425,
+      "end_offset": 429,
+      "start": 34.0,
+      "end": 34.32
+    },
+    {
+      "char": [
+        "I"
+      ],
+      "start_offset": 433,
+      "end_offset": 434,
+      "start": 34.64,
+      "end": 34.72
+    },
+    {
+      "char": [
+        "'"
+      ],
+      "start_offset": 434,
+      "end_offset": 434,
+      "start": 34.72,
+      "end": 34.72
+    },
+    {
+      "char": [
+        "m"
+      ],
+      "start_offset": 435,
+      "end_offset": 437,
+      "start": 34.800000000000004,
+      "end": 34.96
+    },
+    {
+      "char": [
+        "like"
+      ],
+      "start_offset": 437,
+      "end_offset": 440,
+      "start": 34.96,
+      "end": 35.2
+    },
+    {
+      "char": [
+        "lo"
+      ],
+      "start_offset": 440,
+      "end_offset": 442,
+      "start": 35.2,
+      "end": 35.36
+    },
+    {
+      "char": [
+        "ver"
+      ],
+      "start_offset": 442,
+      "end_offset": 444,
+      "start": 35.36,
+      "end": 35.52
+    },
+    {
+      "char": [
+        ","
+      ],
+      "start_offset": 444,
+      "end_offset": 444,
+      "start": 35.52,
+      "end": 35.52
+    },
+    {
+      "char": [
+        "o"
+      ],
+      "start_offset": 448,
+      "end_offset": 450,
+      "start": 35.84,
+      "end": 36.0
+    },
+    {
+      "char": [
+        "h"
+      ],
+      "start_offset": 450,
+      "end_offset": 450,
+      "start": 36.0,
+      "end": 36.0
+    },
+    {
+      "char": [
+        "M"
+      ],
+      "start_offset": 456,
+      "end_offset": 459,
+      "start": 36.480000000000004,
+      "end": 36.72
+    },
+    {
+      "char": [
+        "ay"
+      ],
+      "start_offset": 459,
+      "end_offset": 459,
+      "start": 36.72,
+      "end": 36.72
+    },
+    {
+      "char": [
+        "be"
+      ],
+      "start_offset": 459,
+      "end_offset": 462,
+      "start": 36.72,
+      "end": 36.96
+    },
+    {
+      "char": [
+        "we"
+      ],
+      "start_offset": 462,
+      "end_offset": 466,
+      "start": 36.96,
+      "end": 37.28
+    },
+    {
+      "char": [
+        "just"
+      ],
+      "start_offset": 466,
+      "end_offset": 470,
+      "start": 37.28,
+      "end": 37.6
+    },
+    {
+      "char": [
+        "b"
+      ],
+      "start_offset": 470,
+      "end_offset": 472,
+      "start": 37.6,
+      "end": 37.76
+    },
+    {
+      "char": [
+        "ir"
+      ],
+      "start_offset": 472,
+      "end_offset": 474,
+      "start": 37.76,
+      "end": 37.92
+    },
+    {
+      "char": [
+        "d"
+      ],
+      "start_offset": 474,
+      "end_offset": 475,
+      "start": 37.92,
+      "end": 38.0
+    },
+    {
+      "char": [
+        "s"
+      ],
+      "start_offset": 475,
+      "end_offset": 478,
+      "start": 38.0,
+      "end": 38.24
+    },
+    {
+      "char": [
+        "of"
+      ],
+      "start_offset": 478,
+      "end_offset": 481,
+      "start": 38.24,
+      "end": 38.480000000000004
+    },
+    {
+      "char": [
+        "a"
+      ],
+      "start_offset": 481,
+      "end_offset": 485,
+      "start": 38.480000000000004,
+      "end": 38.800000000000004
+    },
+    {
+      "char": [
+        "fe"
+      ],
+      "start_offset": 485,
+      "end_offset": 489,
+      "start": 38.800000000000004,
+      "end": 39.12
+    },
+    {
+      "char": [
+        "ather"
+      ],
+      "start_offset": 489,
+      "end_offset": 492,
+      "start": 39.12,
+      "end": 39.36
+    },
+    {
+      "char": [
+        "It"
+      ],
+      "start_offset": 495,
+      "end_offset": 496,
+      "start": 39.6,
+      "end": 39.68
+    },
+    {
+      "char": [
+        "'"
+      ],
+      "start_offset": 496,
+      "end_offset": 496,
+      "start": 39.68,
+      "end": 39.68
+    },
+    {
+      "char": [
+        "s"
+      ],
+      "start_offset": 497,
+      "end_offset": 499,
+      "start": 39.76,
+      "end": 39.92
+    },
+    {
+      "char": [
+        "like"
+      ],
+      "start_offset": 499,
+      "end_offset": 502,
+      "start": 39.92,
+      "end": 40.160000000000004
+    },
+    {
+      "char": [
+        "lo"
+      ],
+      "start_offset": 502,
+      "end_offset": 504,
+      "start": 40.160000000000004,
+      "end": 40.32
+    },
+    {
+      "char": [
+        "ver"
+      ],
+      "start_offset": 504,
+      "end_offset": 506,
+      "start": 40.32,
+      "end": 40.480000000000004
+    },
+    {
+      "char": [
+        ","
+      ],
+      "start_offset": 506,
+      "end_offset": 506,
+      "start": 40.480000000000004,
+      "end": 40.480000000000004
+    },
+    {
+      "char": [
+        "o"
+      ],
+      "start_offset": 512,
+      "end_offset": 515,
+      "start": 40.96,
+      "end": 41.2
+    },
+    {
+      "char": [
+        "h"
+      ],
+      "start_offset": 515,
+      "end_offset": 515,
+      "start": 41.2,
+      "end": 41.2
+    },
+    {
+      "char": [
+        "yeah"
+      ],
+      "start_offset": 517,
+      "end_offset": 519,
+      "start": 41.36,
+      "end": 41.52
+    },
+    {
+      "char": [
+        "I"
+      ],
+      "start_offset": 526,
+      "end_offset": 527,
+      "start": 42.08,
+      "end": 42.160000000000004
+    },
+    {
+      "char": [
+        "'"
+      ],
+      "start_offset": 527,
+      "end_offset": 527,
+      "start": 42.160000000000004,
+      "end": 42.160000000000004
+    },
+    {
+      "char": [
+        "m"
+      ],
+      "start_offset": 529,
+      "end_offset": 530,
+      "start": 42.32,
+      "end": 42.4
+    },
+    {
+      "char": [
+        "the"
+      ],
+      "start_offset": 530,
+      "end_offset": 533,
+      "start": 42.4,
+      "end": 42.64
+    },
+    {
+      "char": [
+        "j"
+      ],
+      "start_offset": 533,
+      "end_offset": 535,
+      "start": 42.64,
+      "end": 42.800000000000004
+    },
+    {
+      "char": [
+        "e"
+      ],
+      "start_offset": 535,
+      "end_offset": 537,
+      "start": 42.800000000000004,
+      "end": 42.96
+    },
+    {
+      "char": [
+        "al"
+      ],
+      "start_offset": 537,
+      "end_offset": 539,
+      "start": 42.96,
+      "end": 43.12
+    },
+    {
+      "char": [
+        "ous"
+      ],
+      "start_offset": 539,
+      "end_offset": 542,
+      "start": 43.12,
+      "end": 43.36
+    },
+    {
+      "char": [
+        "ty"
+      ],
+      "start_offset": 546,
+      "end_offset": 548,
+      "start": 43.68,
+      "end": 43.84
+    },
+    {
+      "char": [
+        "pe"
+      ],
+      "start_offset": 548,
+      "end_offset": 551,
+      "start": 43.84,
+      "end": 44.08
+    },
+    {
+      "char": [
+        ","
+      ],
+      "start_offset": 551,
+      "end_offset": 551,
+      "start": 44.08,
+      "end": 44.08
+    },
+    {
+      "char": [
+        "but"
+      ],
+      "start_offset": 554,
+      "end_offset": 557,
+      "start": 44.32,
+      "end": 44.56
+    },
+    {
+      "char": [
+        "I"
+      ],
+      "start_offset": 557,
+      "end_offset": 558,
+      "start": 44.56,
+      "end": 44.64
+    },
+    {
+      "char": [
+        "'"
+      ],
+      "start_offset": 558,
+      "end_offset": 558,
+      "start": 44.64,
+      "end": 44.64
+    },
+    {
+      "char": [
+        "m"
+      ],
+      "start_offset": 559,
+      "end_offset": 561,
+      "start": 44.72,
+      "end": 44.88
+    },
+    {
+      "char": [
+        "like"
+      ],
+      "start_offset": 561,
+      "end_offset": 564,
+      "start": 44.88,
+      "end": 45.12
+    },
+    {
+      "char": [
+        "lo"
+      ],
+      "start_offset": 564,
+      "end_offset": 566,
+      "start": 45.12,
+      "end": 45.28
+    },
+    {
+      "char": [
+        "ver"
+      ],
+      "start_offset": 566,
+      "end_offset": 568,
+      "start": 45.28,
+      "end": 45.44
+    },
+    {
+      "char": [
+        "Th"
+      ],
+      "start_offset": 574,
+      "end_offset": 575,
+      "start": 45.92,
+      "end": 46.0
+    },
+    {
+      "char": [
+        "es"
+      ],
+      "start_offset": 575,
+      "end_offset": 576,
+      "start": 46.0,
+      "end": 46.08
+    },
+    {
+      "char": [
+        "e"
+      ],
+      "start_offset": 576,
+      "end_offset": 578,
+      "start": 46.08,
+      "end": 46.24
+    },
+    {
+      "char": [
+        "em"
+      ],
+      "start_offset": 578,
+      "end_offset": 581,
+      "start": 46.24,
+      "end": 46.480000000000004
+    },
+    {
+      "char": [
+        "ot"
+      ],
+      "start_offset": 581,
+      "end_offset": 585,
+      "start": 46.480000000000004,
+      "end": 46.800000000000004
+    },
+    {
+      "char": [
+        "ions"
+      ],
+      "start_offset": 585,
+      "end_offset": 588,
+      "start": 46.800000000000004,
+      "end": 47.04
+    },
+    {
+      "char": [
+        "I"
+      ],
+      "start_offset": 590,
+      "end_offset": 594,
+      "start": 47.2,
+      "end": 47.52
+    },
+    {
+      "char": [
+        "know"
+      ],
+      "start_offset": 594,
+      "end_offset": 597,
+      "start": 47.52,
+      "end": 47.76
+    },
+    {
+      "char": [
+        "they"
+      ],
+      "start_offset": 599,
+      "end_offset": 601,
+      "start": 47.92,
+      "end": 48.08
+    },
+    {
+      "char": [
+        "'"
+      ],
+      "start_offset": 601,
+      "end_offset": 601,
+      "start": 48.08,
+      "end": 48.08
+    },
+    {
+      "char": [
+        "re"
+      ],
+      "start_offset": 602,
+      "end_offset": 604,
+      "start": 48.160000000000004,
+      "end": 48.32
+    },
+    {
+      "char": [
+        "not"
+      ],
+      "start_offset": 604,
+      "end_offset": 608,
+      "start": 48.32,
+      "end": 48.64
+    },
+    {
+      "char": [
+        "right"
+      ],
+      "start_offset": 608,
+      "end_offset": 611,
+      "start": 48.64,
+      "end": 48.88
+    },
+    {
+      "char": [
+        "You"
+      ],
+      "start_offset": 647,
+      "end_offset": 648,
+      "start": 51.76,
+      "end": 51.84
+    },
+    {
+      "char": [
+        "got"
+      ],
+      "start_offset": 651,
+      "end_offset": 653,
+      "start": 52.08,
+      "end": 52.24
+    },
+    {
+      "char": [
+        "the"
+      ],
+      "start_offset": 653,
+      "end_offset": 655,
+      "start": 52.24,
+      "end": 52.4
+    },
+    {
+      "char": [
+        "f"
+      ],
+      "start_offset": 657,
+      "end_offset": 659,
+      "start": 52.56,
+      "end": 52.72
+    },
+    {
+      "char": [
+        "an"
+      ],
+      "start_offset": 659,
+      "end_offset": 661,
+      "start": 52.72,
+      "end": 52.88
+    },
+    {
+      "char": [
+        "cy"
+      ],
+      "start_offset": 661,
+      "end_offset": 663,
+      "start": 52.88,
+      "end": 53.04
+    },
+    {
+      "char": [
+        "e"
+      ],
+      "start_offset": 670,
+      "end_offset": 672,
+      "start": 53.6,
+      "end": 53.76
+    },
+    {
+      "char": [
+        "y"
+      ],
+      "start_offset": 672,
+      "end_offset": 674,
+      "start": 53.76,
+      "end": 53.92
+    },
+    {
+      "char": [
+        "es"
+      ],
+      "start_offset": 674,
+      "end_offset": 676,
+      "start": 53.92,
+      "end": 54.08
+    },
+    {
+      "char": [
+        "I"
+      ],
+      "start_offset": 679,
+      "end_offset": 680,
+      "start": 54.32,
+      "end": 54.4
+    },
+    {
+      "char": [
+        "'"
+      ],
+      "start_offset": 680,
+      "end_offset": 680,
+      "start": 54.4,
+      "end": 54.4
+    },
+    {
+      "char": [
+        "m"
+      ],
+      "start_offset": 681,
+      "end_offset": 683,
+      "start": 54.480000000000004,
+      "end": 54.64
+    },
+    {
+      "char": [
+        "just"
+      ],
+      "start_offset": 683,
+      "end_offset": 686,
+      "start": 54.64,
+      "end": 54.88
+    },
+    {
+      "char": [
+        "like"
+      ],
+      "start_offset": 686,
+      "end_offset": 690,
+      "start": 54.88,
+      "end": 55.2
+    },
+    {
+      "char": [
+        "lo"
+      ],
+      "start_offset": 690,
+      "end_offset": 692,
+      "start": 55.2,
+      "end": 55.36
+    },
+    {
+      "char": [
+        "ver"
+      ],
+      "start_offset": 692,
+      "end_offset": 695,
+      "start": 55.36,
+      "end": 55.6
+    },
+    {
+      "char": [
+        "And"
+      ],
+      "start_offset": 711,
+      "end_offset": 714,
+      "start": 56.88,
+      "end": 57.120000000000005
+    },
+    {
+      "char": [
+        "I"
+      ],
+      "start_offset": 714,
+      "end_offset": 717,
+      "start": 57.120000000000005,
+      "end": 57.36
+    },
+    {
+      "char": [
+        "could"
+      ],
+      "start_offset": 717,
+      "end_offset": 719,
+      "start": 57.36,
+      "end": 57.52
+    },
+    {
+      "char": [
+        "f"
+      ],
+      "start_offset": 721,
+      "end_offset": 723,
+      "start": 57.68,
+      "end": 57.84
+    },
+    {
+      "char": [
+        "all"
+      ],
+      "start_offset": 723,
+      "end_offset": 725,
+      "start": 57.84,
+      "end": 58.0
+    },
+    {
+      "char": [
+        "for"
+      ],
+      "start_offset": 725,
+      "end_offset": 728,
+      "start": 58.0,
+      "end": 58.24
+    },
+    {
+      "char": [
+        "that"
+      ],
+      "start_offset": 728,
+      "end_offset": 732,
+      "start": 58.24,
+      "end": 58.56
+    },
+    {
+      "char": [
+        "sm"
+      ],
+      "start_offset": 732,
+      "end_offset": 735,
+      "start": 58.56,
+      "end": 58.800000000000004
+    },
+    {
+      "char": [
+        "ile"
+      ],
+      "start_offset": 735,
+      "end_offset": 738,
+      "start": 58.800000000000004,
+      "end": 59.04
+    },
+    {
+      "char": [
+        "I"
+      ],
+      "start_offset": 764,
+      "end_offset": 766,
+      "start": 61.120000000000005,
+      "end": 61.28
+    },
+    {
+      "char": [
+        "was"
+      ],
+      "start_offset": 766,
+      "end_offset": 768,
+      "start": 61.28,
+      "end": 61.44
+    },
+    {
+      "char": [
+        "feel"
+      ],
+      "start_offset": 768,
+      "end_offset": 771,
+      "start": 61.44,
+      "end": 61.68
+    },
+    {
+      "char": [
+        "ing"
+      ],
+      "start_offset": 771,
+      "end_offset": 773,
+      "start": 61.68,
+      "end": 61.84
+    },
+    {
+      "char": [
+        "l"
+      ],
+      "start_offset": 773,
+      "end_offset": 775,
+      "start": 61.84,
+      "end": 62.0
+    },
+    {
+      "char": [
+        "ow"
+      ],
+      "start_offset": 775,
+      "end_offset": 778,
+      "start": 62.0,
+      "end": 62.24
+    },
+    {
+      "char": [
+        ","
+      ],
+      "start_offset": 778,
+      "end_offset": 778,
+      "start": 62.24,
+      "end": 62.24
+    },
+    {
+      "char": [
+        "now"
+      ],
+      "start_offset": 780,
+      "end_offset": 783,
+      "start": 62.4,
+      "end": 62.64
+    },
+    {
+      "char": [
+        "h"
+      ],
+      "start_offset": 783,
+      "end_offset": 785,
+      "start": 62.64,
+      "end": 62.800000000000004
+    },
+    {
+      "char": [
+        "ere"
+      ],
+      "start_offset": 785,
+      "end_offset": 787,
+      "start": 62.800000000000004,
+      "end": 62.96
+    },
+    {
+      "char": [
+        "to"
+      ],
+      "start_offset": 787,
+      "end_offset": 788,
+      "start": 62.96,
+      "end": 63.04
+    },
+    {
+      "char": [
+        "go"
+      ],
+      "start_offset": 788,
+      "end_offset": 791,
+      "start": 63.04,
+      "end": 63.28
+    },
+    {
+      "char": [
+        "And"
+      ],
+      "start_offset": 795,
+      "end_offset": 797,
+      "start": 63.6,
+      "end": 63.76
+    },
+    {
+      "char": [
+        "you"
+      ],
+      "start_offset": 797,
+      "end_offset": 799,
+      "start": 63.76,
+      "end": 63.92
+    },
+    {
+      "char": [
+        "br"
+      ],
+      "start_offset": 799,
+      "end_offset": 801,
+      "start": 63.92,
+      "end": 64.08
+    },
+    {
+      "char": [
+        "ing"
+      ],
+      "start_offset": 801,
+      "end_offset": 803,
+      "start": 64.08,
+      "end": 64.24
+    },
+    {
+      "char": [
+        "me"
+      ],
+      "start_offset": 803,
+      "end_offset": 806,
+      "start": 64.24,
+      "end": 64.48
+    },
+    {
+      "char": [
+        "h"
+      ],
+      "start_offset": 806,
+      "end_offset": 808,
+      "start": 64.48,
+      "end": 64.64
+    },
+    {
+      "char": [
+        "ope"
+      ],
+      "start_offset": 808,
+      "end_offset": 810,
+      "start": 64.64,
+      "end": 64.8
+    },
+    {
+      "char": [
+        "now"
+      ],
+      "start_offset": 811,
+      "end_offset": 813,
+      "start": 64.88,
+      "end": 65.04
+    },
+    {
+      "char": [
+        ","
+      ],
+      "start_offset": 813,
+      "end_offset": 813,
+      "start": 65.04,
+      "end": 65.04
+    },
+    {
+      "char": [
+        "lo"
+      ],
+      "start_offset": 815,
+      "end_offset": 816,
+      "start": 65.2,
+      "end": 65.28
+    },
+    {
+      "char": [
+        "ver"
+      ],
+      "start_offset": 816,
+      "end_offset": 818,
+      "start": 65.28,
+      "end": 65.44
+    },
+    {
+      "char": [
+        "And"
+      ],
+      "start_offset": 826,
+      "end_offset": 827,
+      "start": 66.08,
+      "end": 66.16
+    },
+    {
+      "char": [
+        "I"
+      ],
+      "start_offset": 827,
+      "end_offset": 828,
+      "start": 66.16,
+      "end": 66.24
+    },
+    {
+      "char": [
+        "was"
+      ],
+      "start_offset": 828,
+      "end_offset": 831,
+      "start": 66.24,
+      "end": 66.48
+    },
+    {
+      "char": [
+        "in"
+      ],
+      "start_offset": 831,
+      "end_offset": 833,
+      "start": 66.48,
+      "end": 66.64
+    },
+    {
+      "char": [
+        "se"
+      ],
+      "start_offset": 833,
+      "end_offset": 836,
+      "start": 66.64,
+      "end": 66.88
+    },
+    {
+      "char": [
+        "c"
+      ],
+      "start_offset": 836,
+      "end_offset": 837,
+      "start": 66.88,
+      "end": 66.96000000000001
+    },
+    {
+      "char": [
+        "ure"
+      ],
+      "start_offset": 837,
+      "end_offset": 839,
+      "start": 66.96000000000001,
+      "end": 67.12
+    },
+    {
+      "char": [
+        ","
+      ],
+      "start_offset": 839,
+      "end_offset": 839,
+      "start": 67.12,
+      "end": 67.12
+    },
+    {
+      "char": [
+        "I"
+      ],
+      "start_offset": 842,
+      "end_offset": 844,
+      "start": 67.36,
+      "end": 67.52
+    },
+    {
+      "char": [
+        "was"
+      ],
+      "start_offset": 844,
+      "end_offset": 847,
+      "start": 67.52,
+      "end": 67.76
+    },
+    {
+      "char": [
+        "on"
+      ],
+      "start_offset": 847,
+      "end_offset": 849,
+      "start": 67.76,
+      "end": 67.92
+    },
+    {
+      "char": [
+        "the"
+      ],
+      "start_offset": 849,
+      "end_offset": 851,
+      "start": 67.92,
+      "end": 68.08
+    },
+    {
+      "char": [
+        "fl"
+      ],
+      "start_offset": 851,
+      "end_offset": 852,
+      "start": 68.08,
+      "end": 68.16
+    },
+    {
+      "char": [
+        "o"
+      ],
+      "start_offset": 852,
+      "end_offset": 854,
+      "start": 68.16,
+      "end": 68.32000000000001
+    },
+    {
+      "char": [
+        "or"
+      ],
+      "start_offset": 854,
+      "end_offset": 856,
+      "start": 68.32000000000001,
+      "end": 68.48
+    },
+    {
+      "char": [
+        "And"
+      ],
+      "start_offset": 858,
+      "end_offset": 860,
+      "start": 68.64,
+      "end": 68.8
+    },
+    {
+      "char": [
+        "you"
+      ],
+      "start_offset": 860,
+      "end_offset": 862,
+      "start": 68.8,
+      "end": 68.96000000000001
+    },
+    {
+      "char": [
+        "l"
+      ],
+      "start_offset": 862,
+      "end_offset": 864,
+      "start": 68.96000000000001,
+      "end": 69.12
+    },
+    {
+      "char": [
+        "it"
+      ],
+      "start_offset": 864,
+      "end_offset": 866,
+      "start": 69.12,
+      "end": 69.28
+    },
+    {
+      "char": [
+        "that"
+      ],
+      "start_offset": 866,
+      "end_offset": 869,
+      "start": 69.28,
+      "end": 69.52
+    },
+    {
+      "char": [
+        "f"
+      ],
+      "start_offset": 869,
+      "end_offset": 871,
+      "start": 69.52,
+      "end": 69.68
+    },
+    {
+      "char": [
+        "ire"
+      ],
+      "start_offset": 871,
+      "end_offset": 873,
+      "start": 69.68,
+      "end": 69.84
+    },
+    {
+      "char": [
+        "I"
+      ],
+      "start_offset": 890,
+      "end_offset": 891,
+      "start": 71.2,
+      "end": 71.28
+    },
+    {
+      "char": [
+        "'"
+      ],
+      "start_offset": 891,
+      "end_offset": 891,
+      "start": 71.28,
+      "end": 71.28
+    },
+    {
+      "char": [
+        "m"
+      ],
+      "start_offset": 893,
+      "end_offset": 894,
+      "start": 71.44,
+      "end": 71.52
+    },
+    {
+      "char": [
+        "talk"
+      ],
+      "start_offset": 894,
+      "end_offset": 897,
+      "start": 71.52,
+      "end": 71.76
+    },
+    {
+      "char": [
+        "ing"
+      ],
+      "start_offset": 897,
+      "end_offset": 899,
+      "start": 71.76,
+      "end": 71.92
+    },
+    {
+      "char": [
+        "about"
+      ],
+      "start_offset": 901,
+      "end_offset": 903,
+      "start": 72.08,
+      "end": 72.24
+    },
+    {
+      "char": [
+        "my"
+      ],
+      "start_offset": 905,
+      "end_offset": 909,
+      "start": 72.4,
+      "end": 72.72
+    },
+    {
+      "char": [
+        "love"
+      ],
+      "start_offset": 909,
+      "end_offset": 913,
+      "start": 72.72,
+      "end": 73.04
+    },
+    {
+      "char": [
+        "Yeah"
+      ],
+      "start_offset": 951,
+      "end_offset": 952,
+      "start": 76.08,
+      "end": 76.16
+    },
+    {
+      "char": [
+        ","
+      ],
+      "start_offset": 952,
+      "end_offset": 952,
+      "start": 76.16,
+      "end": 76.16
+    },
+    {
+      "char": [
+        "I"
+      ],
+      "start_offset": 953,
+      "end_offset": 954,
+      "start": 76.24,
+      "end": 76.32000000000001
+    },
+    {
+      "char": [
+        "'"
+      ],
+      "start_offset": 954,
+      "end_offset": 954,
+      "start": 76.32000000000001,
+      "end": 76.32000000000001
+    },
+    {
+      "char": [
+        "m"
+      ],
+      "start_offset": 955,
+      "end_offset": 956,
+      "start": 76.4,
+      "end": 76.48
+    },
+    {
+      "char": [
+        "talk"
+      ],
+      "start_offset": 956,
+      "end_offset": 958,
+      "start": 76.48,
+      "end": 76.64
+    },
+    {
+      "char": [
+        "ing"
+      ],
+      "start_offset": 960,
+      "end_offset": 962,
+      "start": 76.8,
+      "end": 76.96000000000001
+    },
+    {
+      "char": [
+        "about"
+      ],
+      "start_offset": 964,
+      "end_offset": 966,
+      "start": 77.12,
+      "end": 77.28
+    },
+    {
+      "char": [
+        "my"
+      ],
+      "start_offset": 967,
+      "end_offset": 971,
+      "start": 77.36,
+      "end": 77.68
+    },
+    {
+      "char": [
+        "love"
+      ],
+      "start_offset": 971,
+      "end_offset": 973,
+      "start": 77.68,
+      "end": 77.84
+    },
+    {
+      "char": [
+        "J"
+      ],
+      "start_offset": 983,
+      "end_offset": 984,
+      "start": 78.64,
+      "end": 78.72
+    },
+    {
+      "char": [
+        "ust"
+      ],
+      "start_offset": 984,
+      "end_offset": 986,
+      "start": 78.72,
+      "end": 78.88
+    },
+    {
+      "char": [
+        "talk"
+      ],
+      "start_offset": 988,
+      "end_offset": 991,
+      "start": 79.04,
+      "end": 79.28
+    },
+    {
+      "char": [
+        "ing"
+      ],
+      "start_offset": 991,
+      "end_offset": 993,
+      "start": 79.28,
+      "end": 79.44
+    },
+    {
+      "char": [
+        "about"
+      ],
+      "start_offset": 995,
+      "end_offset": 998,
+      "start": 79.60000000000001,
+      "end": 79.84
+    },
+    {
+      "char": [
+        "my"
+      ],
+      "start_offset": 998,
+      "end_offset": 1002,
+      "start": 79.84,
+      "end": 80.16
+    },
+    {
+      "char": [
+        "love"
+      ],
+      "start_offset": 1002,
+      "end_offset": 1006,
+      "start": 80.16,
+      "end": 80.48
+    },
+    {
+      "char": [
+        "I"
+      ],
+      "start_offset": 1015,
+      "end_offset": 1016,
+      "start": 81.2,
+      "end": 81.28
+    },
+    {
+      "char": [
+        "'"
+      ],
+      "start_offset": 1016,
+      "end_offset": 1016,
+      "start": 81.28,
+      "end": 81.28
+    },
+    {
+      "char": [
+        "m"
+      ],
+      "start_offset": 1017,
+      "end_offset": 1019,
+      "start": 81.36,
+      "end": 81.52
+    },
+    {
+      "char": [
+        "talk"
+      ],
+      "start_offset": 1019,
+      "end_offset": 1022,
+      "start": 81.52,
+      "end": 81.76
+    },
+    {
+      "char": [
+        "ing"
+      ],
+      "start_offset": 1022,
+      "end_offset": 1024,
+      "start": 81.76,
+      "end": 81.92
+    },
+    {
+      "char": [
+        "about"
+      ],
+      "start_offset": 1026,
+      "end_offset": 1028,
+      "start": 82.08,
+      "end": 82.24
+    },
+    {
+      "char": [
+        "my"
+      ],
+      "start_offset": 1031,
+      "end_offset": 1035,
+      "start": 82.48,
+      "end": 82.8
+    },
+    {
+      "char": [
+        "love"
+      ],
+      "start_offset": 1035,
+      "end_offset": 1039,
+      "start": 82.8,
+      "end": 83.12
+    },
+    {
+      "char": [
+        "Yeah"
+      ],
+      "start_offset": 1075,
+      "end_offset": 1077,
+      "start": 86.0,
+      "end": 86.16
+    },
+    {
+      "char": [
+        ","
+      ],
+      "start_offset": 1077,
+      "end_offset": 1077,
+      "start": 86.16,
+      "end": 86.16
+    },
+    {
+      "char": [
+        "I"
+      ],
+      "start_offset": 1078,
+      "end_offset": 1079,
+      "start": 86.24,
+      "end": 86.32000000000001
+    },
+    {
+      "char": [
+        "'"
+      ],
+      "start_offset": 1079,
+      "end_offset": 1079,
+      "start": 86.32000000000001,
+      "end": 86.32000000000001
+    },
+    {
+      "char": [
+        "m"
+      ],
+      "start_offset": 1080,
+      "end_offset": 1081,
+      "start": 86.4,
+      "end": 86.48
+    },
+    {
+      "char": [
+        "talk"
+      ],
+      "start_offset": 1081,
+      "end_offset": 1083,
+      "start": 86.48,
+      "end": 86.64
+    },
+    {
+      "char": [
+        "ing"
+      ],
+      "start_offset": 1085,
+      "end_offset": 1087,
+      "start": 86.8,
+      "end": 86.96000000000001
+    },
+    {
+      "char": [
+        "about"
+      ],
+      "start_offset": 1089,
+      "end_offset": 1091,
+      "start": 87.12,
+      "end": 87.28
+    },
+    {
+      "char": [
+        "my"
+      ],
+      "start_offset": 1093,
+      "end_offset": 1096,
+      "start": 87.44,
+      "end": 87.68
+    },
+    {
+      "char": [
+        "love"
+      ],
+      "start_offset": 1096,
+      "end_offset": 1100,
+      "start": 87.68,
+      "end": 88.0
+    },
+    {
+      "char": [
+        "It"
+      ],
+      "start_offset": 1116,
+      "end_offset": 1117,
+      "start": 89.28,
+      "end": 89.36
+    },
+    {
+      "char": [
+        "'"
+      ],
+      "start_offset": 1117,
+      "end_offset": 1117,
+      "start": 89.36,
+      "end": 89.36
+    },
+    {
+      "char": [
+        "s"
+      ],
+      "start_offset": 1118,
+      "end_offset": 1120,
+      "start": 89.44,
+      "end": 89.60000000000001
+    },
+    {
+      "char": [
+        "just"
+      ],
+      "start_offset": 1120,
+      "end_offset": 1123,
+      "start": 89.60000000000001,
+      "end": 89.84
+    },
+    {
+      "char": [
+        "that"
+      ],
+      "start_offset": 1123,
+      "end_offset": 1126,
+      "start": 89.84,
+      "end": 90.08
+    },
+    {
+      "char": [
+        "love"
+      ],
+      "start_offset": 1126,
+      "end_offset": 1129,
+      "start": 90.08,
+      "end": 90.32000000000001
+    },
+    {
+      "char": [
+        "What"
+      ],
+      "start_offset": 1143,
+      "end_offset": 1145,
+      "start": 91.44,
+      "end": 91.60000000000001
+    },
+    {
+      "char": [
+        "you"
+      ],
+      "start_offset": 1147,
+      "end_offset": 1149,
+      "start": 91.76,
+      "end": 91.92
+    },
+    {
+      "char": [
+        "gonna"
+      ],
+      "start_offset": 1151,
+      "end_offset": 1155,
+      "start": 92.08,
+      "end": 92.4
+    },
+    {
+      "char": [
+        "do"
+      ],
+      "start_offset": 1159,
+      "end_offset": 1163,
+      "start": 92.72,
+      "end": 93.04
+    },
+    {
+      "char": [
+        "with"
+      ],
+      "start_offset": 1163,
+      "end_offset": 1167,
+      "start": 93.04,
+      "end": 93.36
+    },
+    {
+      "char": [
+        "your"
+      ],
+      "start_offset": 1167,
+      "end_offset": 1170,
+      "start": 93.36,
+      "end": 93.60000000000001
+    },
+    {
+      "char": [
+        "life"
+      ],
+      "start_offset": 1170,
+      "end_offset": 1171,
+      "start": 93.60000000000001,
+      "end": 93.68
+    },
+    {
+      "char": [
+        "?"
+      ],
+      "start_offset": 1171,
+      "end_offset": 1171,
+      "start": 93.68,
+      "end": 93.68
+    },
+    {
+      "char": [
+        "I"
+      ],
+      "start_offset": 1179,
+      "end_offset": 1180,
+      "start": 94.32000000000001,
+      "end": 94.4
+    },
+    {
+      "char": [
+        "'"
+      ],
+      "start_offset": 1180,
+      "end_offset": 1180,
+      "start": 94.4,
+      "end": 94.4
+    },
+    {
+      "char": [
+        "m"
+      ],
+      "start_offset": 1181,
+      "end_offset": 1183,
+      "start": 94.48,
+      "end": 94.64
+    },
+    {
+      "char": [
+        "just"
+      ],
+      "start_offset": 1183,
+      "end_offset": 1186,
+      "start": 94.64,
+      "end": 94.88
+    },
+    {
+      "char": [
+        "like"
+      ],
+      "start_offset": 1186,
+      "end_offset": 1188,
+      "start": 94.88,
+      "end": 95.04
+    },
+    {
+      "char": [
+        "lo"
+      ],
+      "start_offset": 1190,
+      "end_offset": 1192,
+      "start": 95.2,
+      "end": 95.36
+    },
+    {
+      "char": [
+        "ver"
+      ],
+      "start_offset": 1192,
+      "end_offset": 1195,
+      "start": 95.36,
+      "end": 95.60000000000001
+    },
+    {
+      "char": [
+        ","
+      ],
+      "start_offset": 1195,
+      "end_offset": 1195,
+      "start": 95.60000000000001,
+      "end": 95.60000000000001
+    },
+    {
+      "char": [
+        "o"
+      ],
+      "start_offset": 1198,
+      "end_offset": 1199,
+      "start": 95.84,
+      "end": 95.92
+    },
+    {
+      "char": [
+        "o"
+      ],
+      "start_offset": 1199,
+      "end_offset": 1200,
+      "start": 95.92,
+      "end": 96.0
+    },
+    {
+      "char": [
+        "h"
+      ],
+      "start_offset": 1200,
+      "end_offset": 1201,
+      "start": 96.0,
+      "end": 96.08
+    },
+    {
+      "char": [
+        "I"
+      ],
+      "start_offset": 1207,
+      "end_offset": 1208,
+      "start": 96.56,
+      "end": 96.64
+    },
+    {
+      "char": [
+        "'"
+      ],
+      "start_offset": 1208,
+      "end_offset": 1208,
+      "start": 96.64,
+      "end": 96.64
+    },
+    {
+      "char": [
+        "m"
+      ],
+      "start_offset": 1209,
+      "end_offset": 1212,
+      "start": 96.72,
+      "end": 96.96000000000001
+    },
+    {
+      "char": [
+        "al"
+      ],
+      "start_offset": 1212,
+      "end_offset": 1215,
+      "start": 96.96000000000001,
+      "end": 97.2
+    },
+    {
+      "char": [
+        "ive"
+      ],
+      "start_offset": 1218,
+      "end_offset": 1222,
+      "start": 97.44,
+      "end": 97.76
+    },
+    {
+      "char": [
+        "t"
+      ],
+      "start_offset": 1226,
+      "end_offset": 1229,
+      "start": 98.08,
+      "end": 98.32000000000001
+    },
+    {
+      "char": [
+        "on"
+      ],
+      "start_offset": 1229,
+      "end_offset": 1232,
+      "start": 98.32000000000001,
+      "end": 98.56
+    },
+    {
+      "char": [
+        "ight"
+      ],
+      "start_offset": 1232,
+      "end_offset": 1234,
+      "start": 98.56,
+      "end": 98.72
+    },
+    {
+      "char": [
+        "I"
+      ],
+      "start_offset": 1242,
+      "end_offset": 1243,
+      "start": 99.36,
+      "end": 99.44
+    },
+    {
+      "char": [
+        "'"
+      ],
+      "start_offset": 1243,
+      "end_offset": 1243,
+      "start": 99.44,
+      "end": 99.44
+    },
+    {
+      "char": [
+        "m"
+      ],
+      "start_offset": 1244,
+      "end_offset": 1246,
+      "start": 99.52,
+      "end": 99.68
+    },
+    {
+      "char": [
+        "just"
+      ],
+      "start_offset": 1246,
+      "end_offset": 1249,
+      "start": 99.68,
+      "end": 99.92
+    },
+    {
+      "char": [
+        "like"
+      ],
+      "start_offset": 1249,
+      "end_offset": 1252,
+      "start": 99.92,
+      "end": 100.16
+    },
+    {
+      "char": [
+        "lo"
+      ],
+      "start_offset": 1252,
+      "end_offset": 1255,
+      "start": 100.16,
+      "end": 100.4
+    },
+    {
+      "char": [
+        "ver"
+      ],
+      "start_offset": 1255,
+      "end_offset": 1257,
+      "start": 100.4,
+      "end": 100.56
+    },
+    {
+      "char": [
+        ","
+      ],
+      "start_offset": 1257,
+      "end_offset": 1257,
+      "start": 100.56,
+      "end": 100.56
+    },
+    {
+      "char": [
+        "o"
+      ],
+      "start_offset": 1260,
+      "end_offset": 1262,
+      "start": 100.8,
+      "end": 100.96000000000001
+    },
+    {
+      "char": [
+        "h"
+      ],
+      "start_offset": 1262,
+      "end_offset": 1262,
+      "start": 100.96000000000001,
+      "end": 100.96000000000001
+    },
+    {
+      "char": [
+        "K"
+      ],
+      "start_offset": 1267,
+      "end_offset": 1269,
+      "start": 101.36,
+      "end": 101.52
+    },
+    {
+      "char": [
+        "ar"
+      ],
+      "start_offset": 1269,
+      "end_offset": 1270,
+      "start": 101.52,
+      "end": 101.60000000000001
+    },
+    {
+      "char": [
+        "m"
+      ],
+      "start_offset": 1270,
+      "end_offset": 1272,
+      "start": 101.60000000000001,
+      "end": 101.76
+    },
+    {
+      "char": [
+        "a"
+      ],
+      "start_offset": 1272,
+      "end_offset": 1273,
+      "start": 101.76,
+      "end": 101.84
+    },
+    {
+      "char": [
+        "com"
+      ],
+      "start_offset": 1275,
+      "end_offset": 1277,
+      "start": 102.0,
+      "end": 102.16
+    },
+    {
+      "char": [
+        "es"
+      ],
+      "start_offset": 1277,
+      "end_offset": 1279,
+      "start": 102.16,
+      "end": 102.32000000000001
+    },
+    {
+      "char": [
+        "in"
+      ],
+      "start_offset": 1279,
+      "end_offset": 1282,
+      "start": 102.32000000000001,
+      "end": 102.56
+    },
+    {
+      "char": [
+        "a"
+      ],
+      "start_offset": 1282,
+      "end_offset": 1284,
+      "start": 102.56,
+      "end": 102.72
+    },
+    {
+      "char": [
+        "m"
+      ],
+      "start_offset": 1284,
+      "end_offset": 1286,
+      "start": 102.72,
+      "end": 102.88
+    },
+    {
+      "char": [
+        "ill"
+      ],
+      "start_offset": 1286,
+      "end_offset": 1288,
+      "start": 102.88,
+      "end": 103.04
+    },
+    {
+      "char": [
+        "ion"
+      ],
+      "start_offset": 1288,
+      "end_offset": 1291,
+      "start": 103.04,
+      "end": 103.28
+    },
+    {
+      "char": [
+        "different"
+      ],
+      "start_offset": 1291,
+      "end_offset": 1295,
+      "start": 103.28,
+      "end": 103.60000000000001
+    },
+    {
+      "char": [
+        "way"
+      ],
+      "start_offset": 1295,
+      "end_offset": 1296,
+      "start": 103.60000000000001,
+      "end": 103.68
+    },
+    {
+      "char": [
+        "s"
+      ],
+      "start_offset": 1296,
+      "end_offset": 1300,
+      "start": 103.68,
+      "end": 104.0
+    },
+    {
+      "char": [
+        "I"
+      ],
+      "start_offset": 1304,
+      "end_offset": 1305,
+      "start": 104.32000000000001,
+      "end": 104.4
+    },
+    {
+      "char": [
+        "'"
+      ],
+      "start_offset": 1305,
+      "end_offset": 1305,
+      "start": 104.4,
+      "end": 104.4
+    },
+    {
+      "char": [
+        "m"
+      ],
+      "start_offset": 1306,
+      "end_offset": 1308,
+      "start": 104.48,
+      "end": 104.64
+    },
+    {
+      "char": [
+        "just"
+      ],
+      "start_offset": 1308,
+      "end_offset": 1311,
+      "start": 104.64,
+      "end": 104.88
+    },
+    {
+      "char": [
+        "like"
+      ],
+      "start_offset": 1311,
+      "end_offset": 1314,
+      "start": 104.88,
+      "end": 105.12
+    },
+    {
+      "char": [
+        "lo"
+      ],
+      "start_offset": 1314,
+      "end_offset": 1316,
+      "start": 105.12,
+      "end": 105.28
+    },
+    {
+      "char": [
+        "ver"
+      ],
+      "start_offset": 1316,
+      "end_offset": 1319,
+      "start": 105.28,
+      "end": 105.52
+    },
+    {
+      "char": [
+        "C"
+      ],
+      "start_offset": 1323,
+      "end_offset": 1324,
+      "start": 105.84,
+      "end": 105.92
+    },
+    {
+      "char": [
+        "l"
+      ],
+      "start_offset": 1324,
+      "end_offset": 1326,
+      "start": 105.92,
+      "end": 106.08
+    },
+    {
+      "char": [
+        "ass"
+      ],
+      "start_offset": 1326,
+      "end_offset": 1328,
+      "start": 106.08,
+      "end": 106.24000000000001
+    },
+    {
+      "char": [
+        "feel"
+      ],
+      "start_offset": 1330,
+      "end_offset": 1332,
+      "start": 106.4,
+      "end": 106.56
+    },
+    {
+      "char": [
+        "ings"
+      ],
+      "start_offset": 1335,
+      "end_offset": 1337,
+      "start": 106.8,
+      "end": 106.96000000000001
+    },
+    {
+      "char": [
+        "are"
+      ],
+      "start_offset": 1339,
+      "end_offset": 1343,
+      "start": 107.12,
+      "end": 107.44
+    },
+    {
+      "char": [
+        "sh"
+      ],
+      "start_offset": 1343,
+      "end_offset": 1347,
+      "start": 107.44,
+      "end": 107.76
+    },
+    {
+      "char": [
+        "at"
+      ],
+      "start_offset": 1347,
+      "end_offset": 1349,
+      "start": 107.76,
+      "end": 107.92
+    },
+    {
+      "char": [
+        "t"
+      ],
+      "start_offset": 1349,
+      "end_offset": 1353,
+      "start": 107.92,
+      "end": 108.24000000000001
+    },
+    {
+      "char": [
+        "ered"
+      ],
+      "start_offset": 1353,
+      "end_offset": 1356,
+      "start": 108.24000000000001,
+      "end": 108.48
+    },
+    {
+      "char": [
+        "again"
+      ],
+      "start_offset": 1356,
+      "end_offset": 1360,
+      "start": 108.48,
+      "end": 108.8
+    },
+    {
+      "char": [
+        "And"
+      ],
+      "start_offset": 1367,
+      "end_offset": 1370,
+      "start": 109.36,
+      "end": 109.60000000000001
+    },
+    {
+      "char": [
+        "I"
+      ],
+      "start_offset": 1370,
+      "end_offset": 1371,
+      "start": 109.60000000000001,
+      "end": 109.68
+    },
+    {
+      "char": [
+        "'"
+      ],
+      "start_offset": 1371,
+      "end_offset": 1371,
+      "start": 109.68,
+      "end": 109.68
+    },
+    {
+      "char": [
+        "m"
+      ],
+      "start_offset": 1372,
+      "end_offset": 1373,
+      "start": 109.76,
+      "end": 109.84
+    },
+    {
+      "char": [
+        "like"
+      ],
+      "start_offset": 1373,
+      "end_offset": 1376,
+      "start": 109.84,
+      "end": 110.08
+    },
+    {
+      "char": [
+        "lo"
+      ],
+      "start_offset": 1376,
+      "end_offset": 1378,
+      "start": 110.08,
+      "end": 110.24000000000001
+    },
+    {
+      "char": [
+        "ver"
+      ],
+      "start_offset": 1378,
+      "end_offset": 1381,
+      "start": 110.24000000000001,
+      "end": 110.48
+    },
+    {
+      "char": [
+        "I"
+      ],
+      "start_offset": 1389,
+      "end_offset": 1391,
+      "start": 111.12,
+      "end": 111.28
+    },
+    {
+      "char": [
+        "was"
+      ],
+      "start_offset": 1391,
+      "end_offset": 1393,
+      "start": 111.28,
+      "end": 111.44
+    },
+    {
+      "char": [
+        "feel"
+      ],
+      "start_offset": 1393,
+      "end_offset": 1396,
+      "start": 111.44,
+      "end": 111.68
+    },
+    {
+      "char": [
+        "ing"
+      ],
+      "start_offset": 1396,
+      "end_offset": 1398,
+      "start": 111.68,
+      "end": 111.84
+    },
+    {
+      "char": [
+        "l"
+      ],
+      "start_offset": 1398,
+      "end_offset": 1400,
+      "start": 111.84,
+      "end": 112.0
+    },
+    {
+      "char": [
+        "ow"
+      ],
+      "start_offset": 1400,
+      "end_offset": 1403,
+      "start": 112.0,
+      "end": 112.24000000000001
+    },
+    {
+      "char": [
+        ","
+      ],
+      "start_offset": 1403,
+      "end_offset": 1403,
+      "start": 112.24000000000001,
+      "end": 112.24000000000001
+    },
+    {
+      "char": [
+        "now"
+      ],
+      "start_offset": 1405,
+      "end_offset": 1408,
+      "start": 112.4,
+      "end": 112.64
+    },
+    {
+      "char": [
+        "h"
+      ],
+      "start_offset": 1408,
+      "end_offset": 1410,
+      "start": 112.64,
+      "end": 112.8
+    },
+    {
+      "char": [
+        "ere"
+      ],
+      "start_offset": 1410,
+      "end_offset": 1412,
+      "start": 112.8,
+      "end": 112.96000000000001
+    },
+    {
+      "char": [
+        "to"
+      ],
+      "start_offset": 1412,
+      "end_offset": 1413,
+      "start": 112.96000000000001,
+      "end": 113.04
+    },
+    {
+      "char": [
+        "go"
+      ],
+      "start_offset": 1413,
+      "end_offset": 1416,
+      "start": 113.04,
+      "end": 113.28
+    },
+    {
+      "char": [
+        "And"
+      ],
+      "start_offset": 1420,
+      "end_offset": 1422,
+      "start": 113.60000000000001,
+      "end": 113.76
+    },
+    {
+      "char": [
+        "you"
+      ],
+      "start_offset": 1422,
+      "end_offset": 1425,
+      "start": 113.76,
+      "end": 114.0
+    },
+    {
+      "char": [
+        "br"
+      ],
+      "start_offset": 1425,
+      "end_offset": 1426,
+      "start": 114.0,
+      "end": 114.08
+    },
+    {
+      "char": [
+        "ing"
+      ],
+      "start_offset": 1426,
+      "end_offset": 1428,
+      "start": 114.08,
+      "end": 114.24000000000001
+    },
+    {
+      "char": [
+        "me"
+      ],
+      "start_offset": 1428,
+      "end_offset": 1431,
+      "start": 114.24000000000001,
+      "end": 114.48
+    },
+    {
+      "char": [
+        "h"
+      ],
+      "start_offset": 1431,
+      "end_offset": 1433,
+      "start": 114.48,
+      "end": 114.64
+    },
+    {
+      "char": [
+        "ope"
+      ],
+      "start_offset": 1433,
+      "end_offset": 1434,
+      "start": 114.64,
+      "end": 114.72
+    },
+    {
+      "char": [
+        "now"
+      ],
+      "start_offset": 1435,
+      "end_offset": 1436,
+      "start": 114.8,
+      "end": 114.88
+    },
+    {
+      "char": [
+        ","
+      ],
+      "start_offset": 1436,
+      "end_offset": 1436,
+      "start": 114.88,
+      "end": 114.88
+    },
+    {
+      "char": [
+        "lo"
+      ],
+      "start_offset": 1440,
+      "end_offset": 1442,
+      "start": 115.2,
+      "end": 115.36
+    },
+    {
+      "char": [
+        "ver"
+      ],
+      "start_offset": 1442,
+      "end_offset": 1444,
+      "start": 115.36,
+      "end": 115.52
+    },
+    {
+      "char": [
+        "And"
+      ],
+      "start_offset": 1451,
+      "end_offset": 1452,
+      "start": 116.08,
+      "end": 116.16
+    },
+    {
+      "char": [
+        "I"
+      ],
+      "start_offset": 1452,
+      "end_offset": 1453,
+      "start": 116.16,
+      "end": 116.24000000000001
+    },
+    {
+      "char": [
+        "was"
+      ],
+      "start_offset": 1453,
+      "end_offset": 1456,
+      "start": 116.24000000000001,
+      "end": 116.48
+    },
+    {
+      "char": [
+        "in"
+      ],
+      "start_offset": 1456,
+      "end_offset": 1458,
+      "start": 116.48,
+      "end": 116.64
+    },
+    {
+      "char": [
+        "se"
+      ],
+      "start_offset": 1458,
+      "end_offset": 1461,
+      "start": 116.64,
+      "end": 116.88
+    },
+    {
+      "char": [
+        "c"
+      ],
+      "start_offset": 1461,
+      "end_offset": 1462,
+      "start": 116.88,
+      "end": 116.96000000000001
+    },
+    {
+      "char": [
+        "ure"
+      ],
+      "start_offset": 1462,
+      "end_offset": 1464,
+      "start": 116.96000000000001,
+      "end": 117.12
+    },
+    {
+      "char": [
+        ","
+      ],
+      "start_offset": 1464,
+      "end_offset": 1464,
+      "start": 117.12,
+      "end": 117.12
+    },
+    {
+      "char": [
+        "I"
+      ],
+      "start_offset": 1467,
+      "end_offset": 1469,
+      "start": 117.36,
+      "end": 117.52
+    },
+    {
+      "char": [
+        "was"
+      ],
+      "start_offset": 1469,
+      "end_offset": 1472,
+      "start": 117.52,
+      "end": 117.76
+    },
+    {
+      "char": [
+        "on"
+      ],
+      "start_offset": 1472,
+      "end_offset": 1474,
+      "start": 117.76,
+      "end": 117.92
+    },
+    {
+      "char": [
+        "the"
+      ],
+      "start_offset": 1474,
+      "end_offset": 1476,
+      "start": 117.92,
+      "end": 118.08
+    },
+    {
+      "char": [
+        "fl"
+      ],
+      "start_offset": 1476,
+      "end_offset": 1477,
+      "start": 118.08,
+      "end": 118.16
+    },
+    {
+      "char": [
+        "o"
+      ],
+      "start_offset": 1477,
+      "end_offset": 1479,
+      "start": 118.16,
+      "end": 118.32000000000001
+    },
+    {
+      "char": [
+        "or"
+      ],
+      "start_offset": 1479,
+      "end_offset": 1481,
+      "start": 118.32000000000001,
+      "end": 118.48
+    },
+    {
+      "char": [
+        "And"
+      ],
+      "start_offset": 1483,
+      "end_offset": 1485,
+      "start": 118.64,
+      "end": 118.8
+    },
+    {
+      "char": [
+        "you"
+      ],
+      "start_offset": 1485,
+      "end_offset": 1487,
+      "start": 118.8,
+      "end": 118.96000000000001
+    },
+    {
+      "char": [
+        "l"
+      ],
+      "start_offset": 1487,
+      "end_offset": 1489,
+      "start": 118.96000000000001,
+      "end": 119.12
+    },
+    {
+      "char": [
+        "it"
+      ],
+      "start_offset": 1489,
+      "end_offset": 1491,
+      "start": 119.12,
+      "end": 119.28
+    },
+    {
+      "char": [
+        "that"
+      ],
+      "start_offset": 1491,
+      "end_offset": 1494,
+      "start": 119.28,
+      "end": 119.52
+    },
+    {
+      "char": [
+        "f"
+      ],
+      "start_offset": 1494,
+      "end_offset": 1496,
+      "start": 119.52,
+      "end": 119.68
+    },
+    {
+      "char": [
+        "ire"
+      ],
+      "start_offset": 1496,
+      "end_offset": 1498,
+      "start": 119.68,
+      "end": 119.84
+    },
+    {
+      "char": [
+        "I"
+      ],
+      "start_offset": 1515,
+      "end_offset": 1516,
+      "start": 121.2,
+      "end": 121.28
+    },
+    {
+      "char": [
+        "'"
+      ],
+      "start_offset": 1516,
+      "end_offset": 1516,
+      "start": 121.28,
+      "end": 121.28
+    },
+    {
+      "char": [
+        "m"
+      ],
+      "start_offset": 1517,
+      "end_offset": 1519,
+      "start": 121.36,
+      "end": 121.52
+    },
+    {
+      "char": [
+        "talk"
+      ],
+      "start_offset": 1519,
+      "end_offset": 1523,
+      "start": 121.52,
+      "end": 121.84
+    },
+    {
+      "char": [
+        "ing"
+      ],
+      "start_offset": 1523,
+      "end_offset": 1524,
+      "start": 121.84,
+      "end": 121.92
+    },
+    {
+      "char": [
+        "about"
+      ],
+      "start_offset": 1526,
+      "end_offset": 1528,
+      "start": 122.08,
+      "end": 122.24000000000001
+    },
+    {
+      "char": [
+        "my"
+      ],
+      "start_offset": 1531,
+      "end_offset": 1535,
+      "start": 122.48,
+      "end": 122.8
+    },
+    {
+      "char": [
+        "love"
+      ],
+      "start_offset": 1535,
+      "end_offset": 1539,
+      "start": 122.8,
+      "end": 123.12
+    },
+    {
+      "char": [
+        "Yeah"
+      ],
+      "start_offset": 1575,
+      "end_offset": 1577,
+      "start": 126.0,
+      "end": 126.16
+    },
+    {
+      "char": [
+        ","
+      ],
+      "start_offset": 1577,
+      "end_offset": 1577,
+      "start": 126.16,
+      "end": 126.16
+    },
+    {
+      "char": [
+        "I"
+      ],
+      "start_offset": 1578,
+      "end_offset": 1579,
+      "start": 126.24000000000001,
+      "end": 126.32000000000001
+    },
+    {
+      "char": [
+        "'"
+      ],
+      "start_offset": 1579,
+      "end_offset": 1579,
+      "start": 126.32000000000001,
+      "end": 126.32000000000001
+    },
+    {
+      "char": [
+        "m"
+      ],
+      "start_offset": 1580,
+      "end_offset": 1580,
+      "start": 126.4,
+      "end": 126.4
+    },
+    {
+      "char": [
+        "talk"
+      ],
+      "start_offset": 1580,
+      "end_offset": 1581,
+      "start": 126.4,
+      "end": 126.48
+    },
+    {
+      "char": [
+        "ing"
+      ],
+      "start_offset": 1583,
+      "end_offset": 1585,
+      "start": 126.64,
+      "end": 126.8
+    },
+    {
+      "char": [
+        "about"
+      ],
+      "start_offset": 1589,
+      "end_offset": 1591,
+      "start": 127.12,
+      "end": 127.28
+    },
+    {
+      "char": [
+        "my"
+      ],
+      "start_offset": 1592,
+      "end_offset": 1594,
+      "start": 127.36,
+      "end": 127.52
+    },
+    {
+      "char": [
+        "love"
+      ],
+      "start_offset": 1596,
+      "end_offset": 1598,
+      "start": 127.68,
+      "end": 127.84
+    },
+    {
+      "char": [
+        "J"
+      ],
+      "start_offset": 1608,
+      "end_offset": 1609,
+      "start": 128.64000000000001,
+      "end": 128.72
+    },
+    {
+      "char": [
+        "ust"
+      ],
+      "start_offset": 1609,
+      "end_offset": 1612,
+      "start": 128.72,
+      "end": 128.96
+    },
+    {
+      "char": [
+        "talk"
+      ],
+      "start_offset": 1612,
+      "end_offset": 1616,
+      "start": 128.96,
+      "end": 129.28
+    },
+    {
+      "char": [
+        "ing"
+      ],
+      "start_offset": 1616,
+      "end_offset": 1618,
+      "start": 129.28,
+      "end": 129.44
+    },
+    {
+      "char": [
+        "about"
+      ],
+      "start_offset": 1620,
+      "end_offset": 1623,
+      "start": 129.6,
+      "end": 129.84
+    },
+    {
+      "char": [
+        "my"
+      ],
+      "start_offset": 1623,
+      "end_offset": 1627,
+      "start": 129.84,
+      "end": 130.16
+    },
+    {
+      "char": [
+        "love"
+      ],
+      "start_offset": 1627,
+      "end_offset": 1629,
+      "start": 130.16,
+      "end": 130.32
+    },
+    {
+      "char": [
+        "I"
+      ],
+      "start_offset": 1640,
+      "end_offset": 1641,
+      "start": 131.2,
+      "end": 131.28
+    },
+    {
+      "char": [
+        "'"
+      ],
+      "start_offset": 1641,
+      "end_offset": 1641,
+      "start": 131.28,
+      "end": 131.28
+    },
+    {
+      "char": [
+        "m"
+      ],
+      "start_offset": 1642,
+      "end_offset": 1644,
+      "start": 131.36,
+      "end": 131.52
+    },
+    {
+      "char": [
+        "talk"
+      ],
+      "start_offset": 1644,
+      "end_offset": 1647,
+      "start": 131.52,
+      "end": 131.76
+    },
+    {
+      "char": [
+        "ing"
+      ],
+      "start_offset": 1647,
+      "end_offset": 1649,
+      "start": 131.76,
+      "end": 131.92000000000002
+    },
+    {
+      "char": [
+        "about"
+      ],
+      "start_offset": 1649,
+      "end_offset": 1651,
+      "start": 131.92000000000002,
+      "end": 132.08
+    },
+    {
+      "char": [
+        "my"
+      ],
+      "start_offset": 1655,
+      "end_offset": 1659,
+      "start": 132.4,
+      "end": 132.72
+    },
+    {
+      "char": [
+        "love"
+      ],
+      "start_offset": 1659,
+      "end_offset": 1663,
+      "start": 132.72,
+      "end": 133.04
+    },
+    {
+      "char": [
+        "Yeah"
+      ],
+      "start_offset": 1700,
+      "end_offset": 1702,
+      "start": 136.0,
+      "end": 136.16
+    },
+    {
+      "char": [
+        ","
+      ],
+      "start_offset": 1702,
+      "end_offset": 1702,
+      "start": 136.16,
+      "end": 136.16
+    },
+    {
+      "char": [
+        "I"
+      ],
+      "start_offset": 1703,
+      "end_offset": 1704,
+      "start": 136.24,
+      "end": 136.32
+    },
+    {
+      "char": [
+        "'"
+      ],
+      "start_offset": 1704,
+      "end_offset": 1704,
+      "start": 136.32,
+      "end": 136.32
+    },
+    {
+      "char": [
+        "m"
+      ],
+      "start_offset": 1705,
+      "end_offset": 1706,
+      "start": 136.4,
+      "end": 136.48
+    },
+    {
+      "char": [
+        "talk"
+      ],
+      "start_offset": 1706,
+      "end_offset": 1708,
+      "start": 136.48,
+      "end": 136.64000000000001
+    },
+    {
+      "char": [
+        "ing"
+      ],
+      "start_offset": 1708,
+      "end_offset": 1710,
+      "start": 136.64000000000001,
+      "end": 136.8
+    },
+    {
+      "char": [
+        "about"
+      ],
+      "start_offset": 1712,
+      "end_offset": 1714,
+      "start": 136.96,
+      "end": 137.12
+    },
+    {
+      "char": [
+        "my"
+      ],
+      "start_offset": 1717,
+      "end_offset": 1719,
+      "start": 137.36,
+      "end": 137.52
+    },
+    {
+      "char": [
+        "love"
+      ],
+      "start_offset": 1721,
+      "end_offset": 1725,
+      "start": 137.68,
+      "end": 138.0
+    },
+    {
+      "char": [
+        "And"
+      ],
+      "start_offset": 1865,
+      "end_offset": 1867,
+      "start": 149.20000000000002,
+      "end": 149.36
+    },
+    {
+      "char": [
+        "I"
+      ],
+      "start_offset": 1867,
+      "end_offset": 1868,
+      "start": 149.36,
+      "end": 149.44
+    },
+    {
+      "char": [
+        "'"
+      ],
+      "start_offset": 1868,
+      "end_offset": 1868,
+      "start": 149.44,
+      "end": 149.44
+    },
+    {
+      "char": [
+        "m"
+      ],
+      "start_offset": 1869,
+      "end_offset": 1871,
+      "start": 149.52,
+      "end": 149.68
+    },
+    {
+      "char": [
+        "just"
+      ],
+      "start_offset": 1871,
+      "end_offset": 1874,
+      "start": 149.68,
+      "end": 149.92000000000002
+    },
+    {
+      "char": [
+        "like"
+      ],
+      "start_offset": 1874,
+      "end_offset": 1877,
+      "start": 149.92000000000002,
+      "end": 150.16
+    },
+    {
+      "char": [
+        "love"
+      ],
+      "start_offset": 1877,
+      "end_offset": 1881,
+      "start": 150.16,
+      "end": 150.48
+    },
+    {
+      "char": [
+        "E"
+      ],
+      "start_offset": 1886,
+      "end_offset": 1888,
+      "start": 150.88,
+      "end": 151.04
+    },
+    {
+      "char": [
+        "ach"
+      ],
+      "start_offset": 1888,
+      "end_offset": 1890,
+      "start": 151.04,
+      "end": 151.20000000000002
+    },
+    {
+      "char": [
+        "tim"
+      ],
+      "start_offset": 1892,
+      "end_offset": 1895,
+      "start": 151.36,
+      "end": 151.6
+    },
+    {
+      "char": [
+        "es"
+      ],
+      "start_offset": 1895,
+      "end_offset": 1898,
+      "start": 151.6,
+      "end": 151.84
+    },
+    {
+      "char": [
+        "if"
+      ],
+      "start_offset": 1902,
+      "end_offset": 1904,
+      "start": 152.16,
+      "end": 152.32
+    },
+    {
+      "char": [
+        "God"
+      ],
+      "start_offset": 1906,
+      "end_offset": 1909,
+      "start": 152.48,
+      "end": 152.72
+    },
+    {
+      "char": [
+        "is"
+      ],
+      "start_offset": 1912,
+      "end_offset": 1914,
+      "start": 152.96,
+      "end": 153.12
+    },
+    {
+      "char": [
+        "per"
+      ],
+      "start_offset": 1916,
+      "end_offset": 1919,
+      "start": 153.28,
+      "end": 153.52
+    },
+    {
+      "char": [
+        "ple"
+      ],
+      "start_offset": 1919,
+      "end_offset": 1922,
+      "start": 153.52,
+      "end": 153.76
+    },
+    {
+      "char": [
+        "x"
+      ],
+      "start_offset": 1922,
+      "end_offset": 1924,
+      "start": 153.76,
+      "end": 153.92000000000002
+    },
+    {
+      "char": [
+        "ed"
+      ],
+      "start_offset": 1924,
+      "end_offset": 1926,
+      "start": 153.92000000000002,
+      "end": 154.08
+    },
+    {
+      "char": [
+        "It"
+      ],
+      "start_offset": 1929,
+      "end_offset": 1930,
+      "start": 154.32,
+      "end": 154.4
+    },
+    {
+      "char": [
+        "'"
+      ],
+      "start_offset": 1930,
+      "end_offset": 1930,
+      "start": 154.4,
+      "end": 154.4
+    },
+    {
+      "char": [
+        "s"
+      ],
+      "start_offset": 1931,
+      "end_offset": 1933,
+      "start": 154.48,
+      "end": 154.64000000000001
+    },
+    {
+      "char": [
+        "like"
+      ],
+      "start_offset": 1933,
+      "end_offset": 1935,
+      "start": 154.64000000000001,
+      "end": 154.8
+    },
+    {
+      "char": [
+        "the"
+      ],
+      "start_offset": 1935,
+      "end_offset": 1939,
+      "start": 154.8,
+      "end": 155.12
+    },
+    {
+      "char": [
+        "f"
+      ],
+      "start_offset": 1939,
+      "end_offset": 1942,
+      "start": 155.12,
+      "end": 155.36
+    },
+    {
+      "char": [
+        "ear"
+      ],
+      "start_offset": 1942,
+      "end_offset": 1944,
+      "start": 155.36,
+      "end": 155.52
+    },
+    {
+      "char": [
+        "is"
+      ],
+      "start_offset": 1944,
+      "end_offset": 1946,
+      "start": 155.52,
+      "end": 155.68
+    },
+    {
+      "char": [
+        "d"
+      ],
+      "start_offset": 1947,
+      "end_offset": 1949,
+      "start": 155.76,
+      "end": 155.92000000000002
+    },
+    {
+      "char": [
+        "ri"
+      ],
+      "start_offset": 1949,
+      "end_offset": 1952,
+      "start": 155.92000000000002,
+      "end": 156.16
+    },
+    {
+      "char": [
+        "ving"
+      ],
+      "start_offset": 1952,
+      "end_offset": 1954,
+      "start": 156.16,
+      "end": 156.32
+    },
+    {
+      "char": [
+        "you"
+      ],
+      "start_offset": 1954,
+      "end_offset": 1956,
+      "start": 156.32,
+      "end": 156.48
+    },
+    {
+      "char": [
+        "You"
+      ],
+      "start_offset": 1960,
+      "end_offset": 1964,
+      "start": 156.8,
+      "end": 157.12
+    },
+    {
+      "char": [
+        "don"
+      ],
+      "start_offset": 1964,
+      "end_offset": 1967,
+      "start": 157.12,
+      "end": 157.36
+    },
+    {
+      "char": [
+        "'"
+      ],
+      "start_offset": 1967,
+      "end_offset": 1967,
+      "start": 157.36,
+      "end": 157.36
+    },
+    {
+      "char": [
+        "t"
+      ],
+      "start_offset": 1971,
+      "end_offset": 1971,
+      "start": 157.68,
+      "end": 157.68
+    },
+    {
+      "char": [
+        "know"
+      ],
+      "start_offset": 1971,
+      "end_offset": 1975,
+      "start": 157.68,
+      "end": 158.0
+    },
+    {
+      "char": [
+        "what"
+      ],
+      "start_offset": 1975,
+      "end_offset": 1979,
+      "start": 158.0,
+      "end": 158.32
+    },
+    {
+      "char": [
+        "com"
+      ],
+      "start_offset": 1979,
+      "end_offset": 1981,
+      "start": 158.32,
+      "end": 158.48
+    },
+    {
+      "char": [
+        "es"
+      ],
+      "start_offset": 1981,
+      "end_offset": 1984,
+      "start": 158.48,
+      "end": 158.72
+    },
+    {
+      "char": [
+        "next"
+      ],
+      "start_offset": 1984,
+      "end_offset": 1987,
+      "start": 158.72,
+      "end": 158.96
+    },
+    {
+      "char": [
+        "It"
+      ],
+      "start_offset": 1991,
+      "end_offset": 1993,
+      "start": 159.28,
+      "end": 159.44
+    },
+    {
+      "char": [
+        "'"
+      ],
+      "start_offset": 1993,
+      "end_offset": 1993,
+      "start": 159.44,
+      "end": 159.44
+    },
+    {
+      "char": [
+        "s"
+      ],
+      "start_offset": 1995,
+      "end_offset": 1995,
+      "start": 159.6,
+      "end": 159.6
+    },
+    {
+      "char": [
+        "just"
+      ],
+      "start_offset": 1995,
+      "end_offset": 1998,
+      "start": 159.6,
+      "end": 159.84
+    },
+    {
+      "char": [
+        "like"
+      ],
+      "start_offset": 1998,
+      "end_offset": 2002,
+      "start": 159.84,
+      "end": 160.16
+    },
+    {
+      "char": [
+        "lo"
+      ],
+      "start_offset": 2002,
+      "end_offset": 2004,
+      "start": 160.16,
+      "end": 160.32
+    },
+    {
+      "char": [
+        "ving"
+      ],
+      "start_offset": 2004,
+      "end_offset": 2005,
+      "start": 160.32,
+      "end": 160.4
+    },
+    {
+      "char": [
+        "he"
+      ],
+      "start_offset": 2015,
+      "end_offset": 2018,
+      "start": 161.20000000000002,
+      "end": 161.44
+    },
+    {
+      "char": [
+        "al"
+      ],
+      "start_offset": 2018,
+      "end_offset": 2021,
+      "start": 161.44,
+      "end": 161.68
+    },
+    {
+      "char": [
+        "ing"
+      ],
+      "start_offset": 2021,
+      "end_offset": 2025,
+      "start": 161.68,
+      "end": 162.0
+    },
+    {
+      "char": [
+        "That"
+      ],
+      "start_offset": 2029,
+      "end_offset": 2033,
+      "start": 162.32,
+      "end": 162.64000000000001
+    },
+    {
+      "char": [
+        "sp"
+      ],
+      "start_offset": 2033,
+      "end_offset": 2036,
+      "start": 162.64000000000001,
+      "end": 162.88
+    },
+    {
+      "char": [
+        "ir"
+      ],
+      "start_offset": 2036,
+      "end_offset": 2039,
+      "start": 162.88,
+      "end": 163.12
+    },
+    {
+      "char": [
+        "it"
+      ],
+      "start_offset": 2039,
+      "end_offset": 2043,
+      "start": 163.12,
+      "end": 163.44
+    },
+    {
+      "char": [
+        "ual"
+      ],
+      "start_offset": 2043,
+      "end_offset": 2046,
+      "start": 163.44,
+      "end": 163.68
+    },
+    {
+      "char": [
+        "thing"
+      ],
+      "start_offset": 2046,
+      "end_offset": 2050,
+      "start": 163.68,
+      "end": 164.0
+    },
+    {
+      "char": [
+        "It"
+      ],
+      "start_offset": 2054,
+      "end_offset": 2055,
+      "start": 164.32,
+      "end": 164.4
+    },
+    {
+      "char": [
+        "'"
+      ],
+      "start_offset": 2055,
+      "end_offset": 2055,
+      "start": 164.4,
+      "end": 164.4
+    },
+    {
+      "char": [
+        "s"
+      ],
+      "start_offset": 2056,
+      "end_offset": 2058,
+      "start": 164.48,
+      "end": 164.64000000000001
+    },
+    {
+      "char": [
+        "just"
+      ],
+      "start_offset": 2058,
+      "end_offset": 2061,
+      "start": 164.64000000000001,
+      "end": 164.88
+    },
+    {
+      "char": [
+        "like"
+      ],
+      "start_offset": 2061,
+      "end_offset": 2064,
+      "start": 164.88,
+      "end": 165.12
+    },
+    {
+      "char": [
+        "lo"
+      ],
+      "start_offset": 2064,
+      "end_offset": 2066,
+      "start": 165.12,
+      "end": 165.28
+    },
+    {
+      "char": [
+        "ver"
+      ],
+      "start_offset": 2066,
+      "end_offset": 2068,
+      "start": 165.28,
+      "end": 165.44
+    },
+    {
+      "char": [
+        "You"
+      ],
+      "start_offset": 2082,
+      "end_offset": 2085,
+      "start": 166.56,
+      "end": 166.8
+    },
+    {
+      "char": [
+        "make"
+      ],
+      "start_offset": 2085,
+      "end_offset": 2089,
+      "start": 166.8,
+      "end": 167.12
+    },
+    {
+      "char": [
+        "my"
+      ],
+      "start_offset": 2089,
+      "end_offset": 2093,
+      "start": 167.12,
+      "end": 167.44
+    },
+    {
+      "char": [
+        "he"
+      ],
+      "start_offset": 2093,
+      "end_offset": 2097,
+      "start": 167.44,
+      "end": 167.76
+    },
+    {
+      "char": [
+        "art"
+      ],
+      "start_offset": 2097,
+      "end_offset": 2099,
+      "start": 167.76,
+      "end": 167.92000000000002
+    },
+    {
+      "char": [
+        "w"
+      ],
+      "start_offset": 2099,
+      "end_offset": 2102,
+      "start": 167.92000000000002,
+      "end": 168.16
+    },
+    {
+      "char": [
+        "an"
+      ],
+      "start_offset": 2102,
+      "end_offset": 2105,
+      "start": 168.16,
+      "end": 168.4
+    },
+    {
+      "char": [
+        "na"
+      ],
+      "start_offset": 2105,
+      "end_offset": 2109,
+      "start": 168.4,
+      "end": 168.72
+    },
+    {
+      "char": [
+        "s"
+      ],
+      "start_offset": 2109,
+      "end_offset": 2113,
+      "start": 168.72,
+      "end": 169.04
+    },
+    {
+      "char": [
+        "ing"
+      ],
+      "start_offset": 2113,
+      "end_offset": 2117,
+      "start": 169.04,
+      "end": 169.36
+    },
+    {
+      "char": [
+        "for"
+      ],
+      "start_offset": 2119,
+      "end_offset": 2122,
+      "start": 169.52,
+      "end": 169.76
+    },
+    {
+      "char": [
+        "you"
+      ],
+      "start_offset": 2122,
+      "end_offset": 2124,
+      "start": 169.76,
+      "end": 169.92000000000002
+    },
+    {
+      "char": [
+        "I"
+      ],
+      "start_offset": 2140,
+      "end_offset": 2141,
+      "start": 171.20000000000002,
+      "end": 171.28
+    },
+    {
+      "char": [
+        "'"
+      ],
+      "start_offset": 2141,
+      "end_offset": 2141,
+      "start": 171.28,
+      "end": 171.28
+    },
+    {
+      "char": [
+        "m"
+      ],
+      "start_offset": 2142,
+      "end_offset": 2144,
+      "start": 171.36,
+      "end": 171.52
+    },
+    {
+      "char": [
+        "talk"
+      ],
+      "start_offset": 2144,
+      "end_offset": 2147,
+      "start": 171.52,
+      "end": 171.76
+    },
+    {
+      "char": [
+        "ing"
+      ],
+      "start_offset": 2147,
+      "end_offset": 2149,
+      "start": 171.76,
+      "end": 171.92000000000002
+    },
+    {
+      "char": [
+        "about"
+      ],
+      "start_offset": 2151,
+      "end_offset": 2153,
+      "start": 172.08,
+      "end": 172.24
+    },
+    {
+      "char": [
+        "my"
+      ],
+      "start_offset": 2155,
+      "end_offset": 2159,
+      "start": 172.4,
+      "end": 172.72
+    },
+    {
+      "char": [
+        "love"
+      ],
+      "start_offset": 2159,
+      "end_offset": 2163,
+      "start": 172.72,
+      "end": 173.04
+    },
+    {
+      "char": [
+        "Yeah"
+      ],
+      "start_offset": 2201,
+      "end_offset": 2202,
+      "start": 176.08,
+      "end": 176.16
+    },
+    {
+      "char": [
+        ","
+      ],
+      "start_offset": 2202,
+      "end_offset": 2202,
+      "start": 176.16,
+      "end": 176.16
+    },
+    {
+      "char": [
+        "I"
+      ],
+      "start_offset": 2203,
+      "end_offset": 2204,
+      "start": 176.24,
+      "end": 176.32
+    },
+    {
+      "char": [
+        "'"
+      ],
+      "start_offset": 2204,
+      "end_offset": 2204,
+      "start": 176.32,
+      "end": 176.32
+    },
+    {
+      "char": [
+        "m"
+      ],
+      "start_offset": 2205,
+      "end_offset": 2206,
+      "start": 176.4,
+      "end": 176.48
+    },
+    {
+      "char": [
+        "talk"
+      ],
+      "start_offset": 2206,
+      "end_offset": 2208,
+      "start": 176.48,
+      "end": 176.64000000000001
+    },
+    {
+      "char": [
+        "ing"
+      ],
+      "start_offset": 2210,
+      "end_offset": 2212,
+      "start": 176.8,
+      "end": 176.96
+    },
+    {
+      "char": [
+        "about"
+      ],
+      "start_offset": 2214,
+      "end_offset": 2216,
+      "start": 177.12,
+      "end": 177.28
+    },
+    {
+      "char": [
+        "my"
+      ],
+      "start_offset": 2218,
+      "end_offset": 2221,
+      "start": 177.44,
+      "end": 177.68
+    },
+    {
+      "char": [
+        "love"
+      ],
+      "start_offset": 2221,
+      "end_offset": 2223,
+      "start": 177.68,
+      "end": 177.84
+    },
+    {
+      "char": [
+        "J"
+      ],
+      "start_offset": 2233,
+      "end_offset": 2234,
+      "start": 178.64000000000001,
+      "end": 178.72
+    },
+    {
+      "char": [
+        "ust"
+      ],
+      "start_offset": 2234,
+      "end_offset": 2236,
+      "start": 178.72,
+      "end": 178.88
+    },
+    {
+      "char": [
+        "talk"
+      ],
+      "start_offset": 2238,
+      "end_offset": 2241,
+      "start": 179.04,
+      "end": 179.28
+    },
+    {
+      "char": [
+        "ing"
+      ],
+      "start_offset": 2241,
+      "end_offset": 2243,
+      "start": 179.28,
+      "end": 179.44
+    },
+    {
+      "char": [
+        "about"
+      ],
+      "start_offset": 2245,
+      "end_offset": 2247,
+      "start": 179.6,
+      "end": 179.76
+    },
+    {
+      "char": [
+        "my"
+      ],
+      "start_offset": 2248,
+      "end_offset": 2251,
+      "start": 179.84,
+      "end": 180.08
+    },
+    {
+      "char": [
+        "love"
+      ],
+      "start_offset": 2251,
+      "end_offset": 2253,
+      "start": 180.08,
+      "end": 180.24
+    },
+    {
+      "char": [
+        "I"
+      ],
+      "start_offset": 2265,
+      "end_offset": 2266,
+      "start": 181.20000000000002,
+      "end": 181.28
+    },
+    {
+      "char": [
+        "'"
+      ],
+      "start_offset": 2266,
+      "end_offset": 2266,
+      "start": 181.28,
+      "end": 181.28
+    },
+    {
+      "char": [
+        "m"
+      ],
+      "start_offset": 2267,
+      "end_offset": 2269,
+      "start": 181.36,
+      "end": 181.52
+    },
+    {
+      "char": [
+        "talk"
+      ],
+      "start_offset": 2269,
+      "end_offset": 2271,
+      "start": 181.52,
+      "end": 181.68
+    },
+    {
+      "char": [
+        "ing"
+      ],
+      "start_offset": 2271,
+      "end_offset": 2273,
+      "start": 181.68,
+      "end": 181.84
+    },
+    {
+      "char": [
+        "about"
+      ],
+      "start_offset": 2275,
+      "end_offset": 2277,
+      "start": 182.0,
+      "end": 182.16
+    },
+    {
+      "char": [
+        "my"
+      ],
+      "start_offset": 2280,
+      "end_offset": 2284,
+      "start": 182.4,
+      "end": 182.72
+    },
+    {
+      "char": [
+        "love"
+      ],
+      "start_offset": 2284,
+      "end_offset": 2288,
+      "start": 182.72,
+      "end": 183.04
+    },
+    {
+      "char": [
+        "J"
+      ],
+      "start_offset": 2358,
+      "end_offset": 2359,
+      "start": 188.64000000000001,
+      "end": 188.72
+    },
+    {
+      "char": [
+        "ust"
+      ],
+      "start_offset": 2359,
+      "end_offset": 2360,
+      "start": 188.72,
+      "end": 188.8
+    },
+    {
+      "char": [
+        "talk"
+      ],
+      "start_offset": 2362,
+      "end_offset": 2365,
+      "start": 188.96,
+      "end": 189.20000000000002
+    },
+    {
+      "char": [
+        "ing"
+      ],
+      "start_offset": 2365,
+      "end_offset": 2367,
+      "start": 189.20000000000002,
+      "end": 189.36
+    },
+    {
+      "char": [
+        "about"
+      ],
+      "start_offset": 2369,
+      "end_offset": 2371,
+      "start": 189.52,
+      "end": 189.68
+    },
+    {
+      "char": [
+        "my"
+      ],
+      "start_offset": 2373,
+      "end_offset": 2375,
+      "start": 189.84,
+      "end": 190.0
+    },
+    {
+      "char": [
+        "love"
+      ],
+      "start_offset": 2377,
+      "end_offset": 2381,
+      "start": 190.16,
+      "end": 190.48
+    },
+    {
+      "char": [
+        "I"
+      ],
+      "start_offset": 2390,
+      "end_offset": 2391,
+      "start": 191.20000000000002,
+      "end": 191.28
+    },
+    {
+      "char": [
+        "'"
+      ],
+      "start_offset": 2391,
+      "end_offset": 2391,
+      "start": 191.28,
+      "end": 191.28
+    },
+    {
+      "char": [
+        "m"
+      ],
+      "start_offset": 2392,
+      "end_offset": 2394,
+      "start": 191.36,
+      "end": 191.52
+    },
+    {
+      "char": [
+        "talk"
+      ],
+      "start_offset": 2394,
+      "end_offset": 2397,
+      "start": 191.52,
+      "end": 191.76
+    },
+    {
+      "char": [
+        "ing"
+      ],
+      "start_offset": 2397,
+      "end_offset": 2399,
+      "start": 191.76,
+      "end": 191.92000000000002
+    },
+    {
+      "char": [
+        "about"
+      ],
+      "start_offset": 2401,
+      "end_offset": 2403,
+      "start": 192.08,
+      "end": 192.24
+    },
+    {
+      "char": [
+        "my"
+      ],
+      "start_offset": 2405,
+      "end_offset": 2409,
+      "start": 192.4,
+      "end": 192.72
+    },
+    {
+      "char": [
+        "love"
+      ],
+      "start_offset": 2409,
+      "end_offset": 2413,
+      "start": 192.72,
+      "end": 193.04
+    },
+    {
+      "char": [
+        "Yeah"
+      ],
+      "start_offset": 2451,
+      "end_offset": 2452,
+      "start": 196.08,
+      "end": 196.16
+    },
+    {
+      "char": [
+        ","
+      ],
+      "start_offset": 2452,
+      "end_offset": 2452,
+      "start": 196.16,
+      "end": 196.16
+    },
+    {
+      "char": [
+        "I"
+      ],
+      "start_offset": 2453,
+      "end_offset": 2454,
+      "start": 196.24,
+      "end": 196.32
+    },
+    {
+      "char": [
+        "'"
+      ],
+      "start_offset": 2454,
+      "end_offset": 2454,
+      "start": 196.32,
+      "end": 196.32
+    },
+    {
+      "char": [
+        "m"
+      ],
+      "start_offset": 2455,
+      "end_offset": 2456,
+      "start": 196.4,
+      "end": 196.48000000000002
+    },
+    {
+      "char": [
+        "talk"
+      ],
+      "start_offset": 2456,
+      "end_offset": 2458,
+      "start": 196.48000000000002,
+      "end": 196.64000000000001
+    },
+    {
+      "char": [
+        "ing"
+      ],
+      "start_offset": 2460,
+      "end_offset": 2462,
+      "start": 196.8,
+      "end": 196.96
+    },
+    {
+      "char": [
+        "about"
+      ],
+      "start_offset": 2464,
+      "end_offset": 2466,
+      "start": 197.12,
+      "end": 197.28
+    },
+    {
+      "char": [
+        "my"
+      ],
+      "start_offset": 2468,
+      "end_offset": 2471,
+      "start": 197.44,
+      "end": 197.68
+    },
+    {
+      "char": [
+        "love"
+      ],
+      "start_offset": 2471,
+      "end_offset": 2475,
+      "start": 197.68,
+      "end": 198.0
+    },
+    {
+      "char": [
+        "J"
+      ],
+      "start_offset": 2483,
+      "end_offset": 2484,
+      "start": 198.64000000000001,
+      "end": 198.72
+    },
+    {
+      "char": [
+        "ust"
+      ],
+      "start_offset": 2484,
+      "end_offset": 2486,
+      "start": 198.72,
+      "end": 198.88
+    },
+    {
+      "char": [
+        "talk"
+      ],
+      "start_offset": 2488,
+      "end_offset": 2491,
+      "start": 199.04,
+      "end": 199.28
+    },
+    {
+      "char": [
+        "ing"
+      ],
+      "start_offset": 2491,
+      "end_offset": 2493,
+      "start": 199.28,
+      "end": 199.44
+    },
+    {
+      "char": [
+        "about"
+      ],
+      "start_offset": 2495,
+      "end_offset": 2497,
+      "start": 199.6,
+      "end": 199.76
+    },
+    {
+      "char": [
+        "my"
+      ],
+      "start_offset": 2498,
+      "end_offset": 2502,
+      "start": 199.84,
+      "end": 200.16
+    },
+    {
+      "char": [
+        "love"
+      ],
+      "start_offset": 2502,
+      "end_offset": 2506,
+      "start": 200.16,
+      "end": 200.48000000000002
+    },
+    {
+      "char": [
+        "I"
+      ],
+      "start_offset": 2515,
+      "end_offset": 2516,
+      "start": 201.20000000000002,
+      "end": 201.28
+    },
+    {
+      "char": [
+        "'"
+      ],
+      "start_offset": 2516,
+      "end_offset": 2516,
+      "start": 201.28,
+      "end": 201.28
+    },
+    {
+      "char": [
+        "m"
+      ],
+      "start_offset": 2517,
+      "end_offset": 2519,
+      "start": 201.36,
+      "end": 201.52
+    },
+    {
+      "char": [
+        "talk"
+      ],
+      "start_offset": 2519,
+      "end_offset": 2523,
+      "start": 201.52,
+      "end": 201.84
+    },
+    {
+      "char": [
+        "ing"
+      ],
+      "start_offset": 2523,
+      "end_offset": 2524,
+      "start": 201.84,
+      "end": 201.92000000000002
+    },
+    {
+      "char": [
+        "about"
+      ],
+      "start_offset": 2526,
+      "end_offset": 2528,
+      "start": 202.08,
+      "end": 202.24
+    },
+    {
+      "char": [
+        "my"
+      ],
+      "start_offset": 2530,
+      "end_offset": 2534,
+      "start": 202.4,
+      "end": 202.72
+    },
+    {
+      "char": [
+        "love"
+      ],
+      "start_offset": 2534,
+      "end_offset": 2538,
+      "start": 202.72,
+      "end": 203.04
+    },
+    {
+      "char": [
+        "Yeah"
+      ],
+      "start_offset": 2575,
+      "end_offset": 2577,
+      "start": 206.0,
+      "end": 206.16
+    },
+    {
+      "char": [
+        ","
+      ],
+      "start_offset": 2577,
+      "end_offset": 2577,
+      "start": 206.16,
+      "end": 206.16
+    },
+    {
+      "char": [
+        "I"
+      ],
+      "start_offset": 2578,
+      "end_offset": 2579,
+      "start": 206.24,
+      "end": 206.32
+    },
+    {
+      "char": [
+        "'"
+      ],
+      "start_offset": 2579,
+      "end_offset": 2579,
+      "start": 206.32,
+      "end": 206.32
+    },
+    {
+      "char": [
+        "m"
+      ],
+      "start_offset": 2580,
+      "end_offset": 2581,
+      "start": 206.4,
+      "end": 206.48000000000002
+    },
+    {
+      "char": [
+        "talk"
+      ],
+      "start_offset": 2581,
+      "end_offset": 2583,
+      "start": 206.48000000000002,
+      "end": 206.64000000000001
+    },
+    {
+      "char": [
+        "ing"
+      ],
+      "start_offset": 2583,
+      "end_offset": 2585,
+      "start": 206.64000000000001,
+      "end": 206.8
+    },
+    {
+      "char": [
+        "about"
+      ],
+      "start_offset": 2587,
+      "end_offset": 2589,
+      "start": 206.96,
+      "end": 207.12
+    },
+    {
+      "char": [
+        "my"
+      ],
+      "start_offset": 2592,
+      "end_offset": 2594,
+      "start": 207.36,
+      "end": 207.52
+    },
+    {
+      "char": [
+        "love"
+      ],
+      "start_offset": 2596,
+      "end_offset": 2598,
+      "start": 207.68,
+      "end": 207.84
+    },
+    {
+      "char": [
+        "I"
+      ],
+      "start_offset": 2640,
+      "end_offset": 2641,
+      "start": 211.20000000000002,
+      "end": 211.28
+    },
+    {
+      "char": [
+        "'"
+      ],
+      "start_offset": 2641,
+      "end_offset": 2641,
+      "start": 211.28,
+      "end": 211.28
+    },
+    {
+      "char": [
+        "m"
+      ],
+      "start_offset": 2642,
+      "end_offset": 2644,
+      "start": 211.36,
+      "end": 211.52
+    },
+    {
+      "char": [
+        "talk"
+      ],
+      "start_offset": 2644,
+      "end_offset": 2647,
+      "start": 211.52,
+      "end": 211.76
+    },
+    {
+      "char": [
+        "ing"
+      ],
+      "start_offset": 2647,
+      "end_offset": 2649,
+      "start": 211.76,
+      "end": 211.92000000000002
+    },
+    {
+      "char": [
+        "about"
+      ],
+      "start_offset": 2649,
+      "end_offset": 2651,
+      "start": 211.92000000000002,
+      "end": 212.08
+    },
+    {
+      "char": [
+        "my"
+      ],
+      "start_offset": 2655,
+      "end_offset": 2659,
+      "start": 212.4,
+      "end": 212.72
+    },
+    {
+      "char": [
+        "love"
+      ],
+      "start_offset": 2659,
+      "end_offset": 2663,
+      "start": 212.72,
+      "end": 213.04
+    }
+  ],
+  "word": [
+    {
+      "word": "Yeah,",
+      "start_offset": 262,
+      "end_offset": 265,
+      "start": 20.96,
+      "end": 21.2
+    },
+    {
+      "word": "yeah,",
+      "start_offset": 267,
+      "end_offset": 270,
+      "start": 21.36,
+      "end": 21.6
+    },
+    {
+      "word": "yeah,",
+      "start_offset": 272,
+      "end_offset": 275,
+      "start": 21.76,
+      "end": 22.0
+    },
+    {
+      "word": "yeah",
+      "start_offset": 276,
+      "end_offset": 280,
+      "start": 22.080000000000002,
+      "end": 22.400000000000002
+    },
+    {
+      "word": "We",
+      "start_offset": 295,
+      "end_offset": 296,
+      "start": 23.6,
+      "end": 23.68
+    },
+    {
+      "word": "yeah,",
+      "start_offset": 299,
+      "end_offset": 302,
+      "start": 23.92,
+      "end": 24.16
+    },
+    {
+      "word": "yeah,",
+      "start_offset": 303,
+      "end_offset": 306,
+      "start": 24.240000000000002,
+      "end": 24.48
+    },
+    {
+      "word": "yeah,",
+      "start_offset": 307,
+      "end_offset": 309,
+      "start": 24.560000000000002,
+      "end": 24.72
+    },
+    {
+      "word": "yeah",
+      "start_offset": 310,
+      "end_offset": 313,
+      "start": 24.8,
+      "end": 25.04
+    },
+    {
+      "word": "It's",
+      "start_offset": 366,
+      "end_offset": 370,
+      "start": 29.28,
+      "end": 29.6
+    },
+    {
+      "word": "just",
+      "start_offset": 370,
+      "end_offset": 373,
+      "start": 29.6,
+      "end": 29.84
+    },
+    {
+      "word": "like",
+      "start_offset": 373,
+      "end_offset": 375,
+      "start": 29.84,
+      "end": 30.0
+    },
+    {
+      "word": "lover",
+      "start_offset": 377,
+      "end_offset": 381,
+      "start": 30.16,
+      "end": 30.48
+    },
+    {
+      "word": "Why",
+      "start_offset": 386,
+      "end_offset": 391,
+      "start": 30.88,
+      "end": 31.28
+    },
+    {
+      "word": "we",
+      "start_offset": 394,
+      "end_offset": 398,
+      "start": 31.52,
+      "end": 31.84
+    },
+    {
+      "word": "so",
+      "start_offset": 402,
+      "end_offset": 406,
+      "start": 32.160000000000004,
+      "end": 32.480000000000004
+    },
+    {
+      "word": "strong",
+      "start_offset": 406,
+      "end_offset": 418,
+      "start": 32.480000000000004,
+      "end": 33.44
+    },
+    {
+      "word": "together",
+      "start_offset": 418,
+      "end_offset": 429,
+      "start": 33.44,
+      "end": 34.32
+    },
+    {
+      "word": "I'm",
+      "start_offset": 433,
+      "end_offset": 437,
+      "start": 34.64,
+      "end": 34.96
+    },
+    {
+      "word": "like",
+      "start_offset": 437,
+      "end_offset": 440,
+      "start": 34.96,
+      "end": 35.2
+    },
+    {
+      "word": "lover,",
+      "start_offset": 440,
+      "end_offset": 444,
+      "start": 35.2,
+      "end": 35.52
+    },
+    {
+      "word": "oh",
+      "start_offset": 448,
+      "end_offset": 450,
+      "start": 35.84,
+      "end": 36.0
+    },
+    {
+      "word": "Maybe",
+      "start_offset": 456,
+      "end_offset": 462,
+      "start": 36.480000000000004,
+      "end": 36.96
+    },
+    {
+      "word": "we",
+      "start_offset": 462,
+      "end_offset": 466,
+      "start": 36.96,
+      "end": 37.28
+    },
+    {
+      "word": "just",
+      "start_offset": 466,
+      "end_offset": 470,
+      "start": 37.28,
+      "end": 37.6
+    },
+    {
+      "word": "birds",
+      "start_offset": 470,
+      "end_offset": 478,
+      "start": 37.6,
+      "end": 38.24
+    },
+    {
+      "word": "of",
+      "start_offset": 478,
+      "end_offset": 481,
+      "start": 38.24,
+      "end": 38.480000000000004
+    },
+    {
+      "word": "a",
+      "start_offset": 481,
+      "end_offset": 485,
+      "start": 38.480000000000004,
+      "end": 38.800000000000004
+    },
+    {
+      "word": "feather",
+      "start_offset": 485,
+      "end_offset": 492,
+      "start": 38.800000000000004,
+      "end": 39.36
+    },
+    {
+      "word": "It's",
+      "start_offset": 495,
+      "end_offset": 499,
+      "start": 39.6,
+      "end": 39.92
+    },
+    {
+      "word": "like",
+      "start_offset": 499,
+      "end_offset": 502,
+      "start": 39.92,
+      "end": 40.160000000000004
+    },
+    {
+      "word": "lover,",
+      "start_offset": 502,
+      "end_offset": 506,
+      "start": 40.160000000000004,
+      "end": 40.480000000000004
+    },
+    {
+      "word": "oh",
+      "start_offset": 512,
+      "end_offset": 515,
+      "start": 40.96,
+      "end": 41.2
+    },
+    {
+      "word": "yeah",
+      "start_offset": 517,
+      "end_offset": 519,
+      "start": 41.36,
+      "end": 41.52
+    },
+    {
+      "word": "I'm",
+      "start_offset": 526,
+      "end_offset": 530,
+      "start": 42.08,
+      "end": 42.4
+    },
+    {
+      "word": "the",
+      "start_offset": 530,
+      "end_offset": 533,
+      "start": 42.4,
+      "end": 42.64
+    },
+    {
+      "word": "jealous",
+      "start_offset": 533,
+      "end_offset": 542,
+      "start": 42.64,
+      "end": 43.36
+    },
+    {
+      "word": "type,",
+      "start_offset": 546,
+      "end_offset": 551,
+      "start": 43.68,
+      "end": 44.08
+    },
+    {
+      "word": "but",
+      "start_offset": 554,
+      "end_offset": 557,
+      "start": 44.32,
+      "end": 44.56
+    },
+    {
+      "word": "I'm",
+      "start_offset": 557,
+      "end_offset": 561,
+      "start": 44.56,
+      "end": 44.88
+    },
+    {
+      "word": "like",
+      "start_offset": 561,
+      "end_offset": 564,
+      "start": 44.88,
+      "end": 45.12
+    },
+    {
+      "word": "lover",
+      "start_offset": 564,
+      "end_offset": 568,
+      "start": 45.12,
+      "end": 45.44
+    },
+    {
+      "word": "These",
+      "start_offset": 574,
+      "end_offset": 578,
+      "start": 45.92,
+      "end": 46.24
+    },
+    {
+      "word": "emotions",
+      "start_offset": 578,
+      "end_offset": 588,
+      "start": 46.24,
+      "end": 47.04
+    },
+    {
+      "word": "I",
+      "start_offset": 590,
+      "end_offset": 594,
+      "start": 47.2,
+      "end": 47.52
+    },
+    {
+      "word": "know",
+      "start_offset": 594,
+      "end_offset": 597,
+      "start": 47.52,
+      "end": 47.76
+    },
+    {
+      "word": "they're",
+      "start_offset": 599,
+      "end_offset": 604,
+      "start": 47.92,
+      "end": 48.32
+    },
+    {
+      "word": "not",
+      "start_offset": 604,
+      "end_offset": 608,
+      "start": 48.32,
+      "end": 48.64
+    },
+    {
+      "word": "right",
+      "start_offset": 608,
+      "end_offset": 611,
+      "start": 48.64,
+      "end": 48.88
+    },
+    {
+      "word": "You",
+      "start_offset": 647,
+      "end_offset": 648,
+      "start": 51.76,
+      "end": 51.84
+    },
+    {
+      "word": "got",
+      "start_offset": 651,
+      "end_offset": 653,
+      "start": 52.08,
+      "end": 52.24
+    },
+    {
+      "word": "the",
+      "start_offset": 653,
+      "end_offset": 655,
+      "start": 52.24,
+      "end": 52.4
+    },
+    {
+      "word": "fancy",
+      "start_offset": 657,
+      "end_offset": 663,
+      "start": 52.56,
+      "end": 53.04
+    },
+    {
+      "word": "eyes",
+      "start_offset": 670,
+      "end_offset": 676,
+      "start": 53.6,
+      "end": 54.08
+    },
+    {
+      "word": "I'm",
+      "start_offset": 679,
+      "end_offset": 683,
+      "start": 54.32,
+      "end": 54.64
+    },
+    {
+      "word": "just",
+      "start_offset": 683,
+      "end_offset": 686,
+      "start": 54.64,
+      "end": 54.88
+    },
+    {
+      "word": "like",
+      "start_offset": 686,
+      "end_offset": 690,
+      "start": 54.88,
+      "end": 55.2
+    },
+    {
+      "word": "lover",
+      "start_offset": 690,
+      "end_offset": 695,
+      "start": 55.2,
+      "end": 55.6
+    },
+    {
+      "word": "And",
+      "start_offset": 711,
+      "end_offset": 714,
+      "start": 56.88,
+      "end": 57.120000000000005
+    },
+    {
+      "word": "I",
+      "start_offset": 714,
+      "end_offset": 717,
+      "start": 57.120000000000005,
+      "end": 57.36
+    },
+    {
+      "word": "could",
+      "start_offset": 717,
+      "end_offset": 719,
+      "start": 57.36,
+      "end": 57.52
+    },
+    {
+      "word": "fall",
+      "start_offset": 721,
+      "end_offset": 725,
+      "start": 57.68,
+      "end": 58.0
+    },
+    {
+      "word": "for",
+      "start_offset": 725,
+      "end_offset": 728,
+      "start": 58.0,
+      "end": 58.24
+    },
+    {
+      "word": "that",
+      "start_offset": 728,
+      "end_offset": 732,
+      "start": 58.24,
+      "end": 58.56
+    },
+    {
+      "word": "smile",
+      "start_offset": 732,
+      "end_offset": 738,
+      "start": 58.56,
+      "end": 59.04
+    },
+    {
+      "word": "I",
+      "start_offset": 764,
+      "end_offset": 766,
+      "start": 61.120000000000005,
+      "end": 61.28
+    },
+    {
+      "word": "was",
+      "start_offset": 766,
+      "end_offset": 768,
+      "start": 61.28,
+      "end": 61.44
+    },
+    {
+      "word": "feeling",
+      "start_offset": 768,
+      "end_offset": 773,
+      "start": 61.44,
+      "end": 61.84
+    },
+    {
+      "word": "low,",
+      "start_offset": 773,
+      "end_offset": 778,
+      "start": 61.84,
+      "end": 62.24
+    },
+    {
+      "word": "nowhere",
+      "start_offset": 780,
+      "end_offset": 787,
+      "start": 62.4,
+      "end": 62.96
+    },
+    {
+      "word": "to",
+      "start_offset": 787,
+      "end_offset": 788,
+      "start": 62.96,
+      "end": 63.04
+    },
+    {
+      "word": "go",
+      "start_offset": 788,
+      "end_offset": 791,
+      "start": 63.04,
+      "end": 63.28
+    },
+    {
+      "word": "And",
+      "start_offset": 795,
+      "end_offset": 797,
+      "start": 63.6,
+      "end": 63.76
+    },
+    {
+      "word": "you",
+      "start_offset": 797,
+      "end_offset": 799,
+      "start": 63.76,
+      "end": 63.92
+    },
+    {
+      "word": "bring",
+      "start_offset": 799,
+      "end_offset": 803,
+      "start": 63.92,
+      "end": 64.24
+    },
+    {
+      "word": "me",
+      "start_offset": 803,
+      "end_offset": 806,
+      "start": 64.24,
+      "end": 64.48
+    },
+    {
+      "word": "hope",
+      "start_offset": 806,
+      "end_offset": 810,
+      "start": 64.48,
+      "end": 64.8
+    },
+    {
+      "word": "now,",
+      "start_offset": 811,
+      "end_offset": 813,
+      "start": 64.88,
+      "end": 65.04
+    },
+    {
+      "word": "lover",
+      "start_offset": 815,
+      "end_offset": 818,
+      "start": 65.2,
+      "end": 65.44
+    },
+    {
+      "word": "And",
+      "start_offset": 826,
+      "end_offset": 827,
+      "start": 66.08,
+      "end": 66.16
+    },
+    {
+      "word": "I",
+      "start_offset": 827,
+      "end_offset": 828,
+      "start": 66.16,
+      "end": 66.24
+    },
+    {
+      "word": "was",
+      "start_offset": 828,
+      "end_offset": 831,
+      "start": 66.24,
+      "end": 66.48
+    },
+    {
+      "word": "insecure,",
+      "start_offset": 831,
+      "end_offset": 839,
+      "start": 66.48,
+      "end": 67.12
+    },
+    {
+      "word": "I",
+      "start_offset": 842,
+      "end_offset": 844,
+      "start": 67.36,
+      "end": 67.52
+    },
+    {
+      "word": "was",
+      "start_offset": 844,
+      "end_offset": 847,
+      "start": 67.52,
+      "end": 67.76
+    },
+    {
+      "word": "on",
+      "start_offset": 847,
+      "end_offset": 849,
+      "start": 67.76,
+      "end": 67.92
+    },
+    {
+      "word": "the",
+      "start_offset": 849,
+      "end_offset": 851,
+      "start": 67.92,
+      "end": 68.08
+    },
+    {
+      "word": "floor",
+      "start_offset": 851,
+      "end_offset": 856,
+      "start": 68.08,
+      "end": 68.48
+    },
+    {
+      "word": "And",
+      "start_offset": 858,
+      "end_offset": 860,
+      "start": 68.64,
+      "end": 68.8
+    },
+    {
+      "word": "you",
+      "start_offset": 860,
+      "end_offset": 862,
+      "start": 68.8,
+      "end": 68.96000000000001
+    },
+    {
+      "word": "lit",
+      "start_offset": 862,
+      "end_offset": 866,
+      "start": 68.96000000000001,
+      "end": 69.28
+    },
+    {
+      "word": "that",
+      "start_offset": 866,
+      "end_offset": 869,
+      "start": 69.28,
+      "end": 69.52
+    },
+    {
+      "word": "fire",
+      "start_offset": 869,
+      "end_offset": 873,
+      "start": 69.52,
+      "end": 69.84
+    },
+    {
+      "word": "I'm",
+      "start_offset": 890,
+      "end_offset": 894,
+      "start": 71.2,
+      "end": 71.52
+    },
+    {
+      "word": "talking",
+      "start_offset": 894,
+      "end_offset": 899,
+      "start": 71.52,
+      "end": 71.92
+    },
+    {
+      "word": "about",
+      "start_offset": 901,
+      "end_offset": 903,
+      "start": 72.08,
+      "end": 72.24
+    },
+    {
+      "word": "my",
+      "start_offset": 905,
+      "end_offset": 909,
+      "start": 72.4,
+      "end": 72.72
+    },
+    {
+      "word": "love",
+      "start_offset": 909,
+      "end_offset": 913,
+      "start": 72.72,
+      "end": 73.04
+    },
+    {
+      "word": "Yeah,",
+      "start_offset": 951,
+      "end_offset": 952,
+      "start": 76.08,
+      "end": 76.16
+    },
+    {
+      "word": "I'm",
+      "start_offset": 953,
+      "end_offset": 956,
+      "start": 76.24,
+      "end": 76.48
+    },
+    {
+      "word": "talking",
+      "start_offset": 956,
+      "end_offset": 962,
+      "start": 76.48,
+      "end": 76.96000000000001
+    },
+    {
+      "word": "about",
+      "start_offset": 964,
+      "end_offset": 966,
+      "start": 77.12,
+      "end": 77.28
+    },
+    {
+      "word": "my",
+      "start_offset": 967,
+      "end_offset": 971,
+      "start": 77.36,
+      "end": 77.68
+    },
+    {
+      "word": "love",
+      "start_offset": 971,
+      "end_offset": 973,
+      "start": 77.68,
+      "end": 77.84
+    },
+    {
+      "word": "Just",
+      "start_offset": 983,
+      "end_offset": 986,
+      "start": 78.64,
+      "end": 78.88
+    },
+    {
+      "word": "talking",
+      "start_offset": 988,
+      "end_offset": 993,
+      "start": 79.04,
+      "end": 79.44
+    },
+    {
+      "word": "about",
+      "start_offset": 995,
+      "end_offset": 998,
+      "start": 79.60000000000001,
+      "end": 79.84
+    },
+    {
+      "word": "my",
+      "start_offset": 998,
+      "end_offset": 1002,
+      "start": 79.84,
+      "end": 80.16
+    },
+    {
+      "word": "love",
+      "start_offset": 1002,
+      "end_offset": 1006,
+      "start": 80.16,
+      "end": 80.48
+    },
+    {
+      "word": "I'm",
+      "start_offset": 1015,
+      "end_offset": 1019,
+      "start": 81.2,
+      "end": 81.52
+    },
+    {
+      "word": "talking",
+      "start_offset": 1019,
+      "end_offset": 1024,
+      "start": 81.52,
+      "end": 81.92
+    },
+    {
+      "word": "about",
+      "start_offset": 1026,
+      "end_offset": 1028,
+      "start": 82.08,
+      "end": 82.24
+    },
+    {
+      "word": "my",
+      "start_offset": 1031,
+      "end_offset": 1035,
+      "start": 82.48,
+      "end": 82.8
+    },
+    {
+      "word": "love",
+      "start_offset": 1035,
+      "end_offset": 1039,
+      "start": 82.8,
+      "end": 83.12
+    },
+    {
+      "word": "Yeah,",
+      "start_offset": 1075,
+      "end_offset": 1077,
+      "start": 86.0,
+      "end": 86.16
+    },
+    {
+      "word": "I'm",
+      "start_offset": 1078,
+      "end_offset": 1081,
+      "start": 86.24,
+      "end": 86.48
+    },
+    {
+      "word": "talking",
+      "start_offset": 1081,
+      "end_offset": 1087,
+      "start": 86.48,
+      "end": 86.96000000000001
+    },
+    {
+      "word": "about",
+      "start_offset": 1089,
+      "end_offset": 1091,
+      "start": 87.12,
+      "end": 87.28
+    },
+    {
+      "word": "my",
+      "start_offset": 1093,
+      "end_offset": 1096,
+      "start": 87.44,
+      "end": 87.68
+    },
+    {
+      "word": "love",
+      "start_offset": 1096,
+      "end_offset": 1100,
+      "start": 87.68,
+      "end": 88.0
+    },
+    {
+      "word": "It's",
+      "start_offset": 1116,
+      "end_offset": 1120,
+      "start": 89.28,
+      "end": 89.60000000000001
+    },
+    {
+      "word": "just",
+      "start_offset": 1120,
+      "end_offset": 1123,
+      "start": 89.60000000000001,
+      "end": 89.84
+    },
+    {
+      "word": "that",
+      "start_offset": 1123,
+      "end_offset": 1126,
+      "start": 89.84,
+      "end": 90.08
+    },
+    {
+      "word": "love",
+      "start_offset": 1126,
+      "end_offset": 1129,
+      "start": 90.08,
+      "end": 90.32000000000001
+    },
+    {
+      "word": "What",
+      "start_offset": 1143,
+      "end_offset": 1145,
+      "start": 91.44,
+      "end": 91.60000000000001
+    },
+    {
+      "word": "you",
+      "start_offset": 1147,
+      "end_offset": 1149,
+      "start": 91.76,
+      "end": 91.92
+    },
+    {
+      "word": "gonna",
+      "start_offset": 1151,
+      "end_offset": 1155,
+      "start": 92.08,
+      "end": 92.4
+    },
+    {
+      "word": "do",
+      "start_offset": 1159,
+      "end_offset": 1163,
+      "start": 92.72,
+      "end": 93.04
+    },
+    {
+      "word": "with",
+      "start_offset": 1163,
+      "end_offset": 1167,
+      "start": 93.04,
+      "end": 93.36
+    },
+    {
+      "word": "your",
+      "start_offset": 1167,
+      "end_offset": 1170,
+      "start": 93.36,
+      "end": 93.60000000000001
+    },
+    {
+      "word": "life?",
+      "start_offset": 1170,
+      "end_offset": 1171,
+      "start": 93.60000000000001,
+      "end": 93.68
+    },
+    {
+      "word": "I'm",
+      "start_offset": 1179,
+      "end_offset": 1183,
+      "start": 94.32000000000001,
+      "end": 94.64
+    },
+    {
+      "word": "just",
+      "start_offset": 1183,
+      "end_offset": 1186,
+      "start": 94.64,
+      "end": 94.88
+    },
+    {
+      "word": "like",
+      "start_offset": 1186,
+      "end_offset": 1188,
+      "start": 94.88,
+      "end": 95.04
+    },
+    {
+      "word": "lover,",
+      "start_offset": 1190,
+      "end_offset": 1195,
+      "start": 95.2,
+      "end": 95.60000000000001
+    },
+    {
+      "word": "ooh",
+      "start_offset": 1198,
+      "end_offset": 1201,
+      "start": 95.84,
+      "end": 96.08
+    },
+    {
+      "word": "I'm",
+      "start_offset": 1207,
+      "end_offset": 1212,
+      "start": 96.56,
+      "end": 96.96000000000001
+    },
+    {
+      "word": "alive",
+      "start_offset": 1212,
+      "end_offset": 1222,
+      "start": 96.96000000000001,
+      "end": 97.76
+    },
+    {
+      "word": "tonight",
+      "start_offset": 1226,
+      "end_offset": 1234,
+      "start": 98.08,
+      "end": 98.72
+    },
+    {
+      "word": "I'm",
+      "start_offset": 1242,
+      "end_offset": 1246,
+      "start": 99.36,
+      "end": 99.68
+    },
+    {
+      "word": "just",
+      "start_offset": 1246,
+      "end_offset": 1249,
+      "start": 99.68,
+      "end": 99.92
+    },
+    {
+      "word": "like",
+      "start_offset": 1249,
+      "end_offset": 1252,
+      "start": 99.92,
+      "end": 100.16
+    },
+    {
+      "word": "lover,",
+      "start_offset": 1252,
+      "end_offset": 1257,
+      "start": 100.16,
+      "end": 100.56
+    },
+    {
+      "word": "oh",
+      "start_offset": 1260,
+      "end_offset": 1262,
+      "start": 100.8,
+      "end": 100.96000000000001
+    },
+    {
+      "word": "Karma",
+      "start_offset": 1267,
+      "end_offset": 1273,
+      "start": 101.36,
+      "end": 101.84
+    },
+    {
+      "word": "comes",
+      "start_offset": 1275,
+      "end_offset": 1279,
+      "start": 102.0,
+      "end": 102.32000000000001
+    },
+    {
+      "word": "in",
+      "start_offset": 1279,
+      "end_offset": 1282,
+      "start": 102.32000000000001,
+      "end": 102.56
+    },
+    {
+      "word": "a",
+      "start_offset": 1282,
+      "end_offset": 1284,
+      "start": 102.56,
+      "end": 102.72
+    },
+    {
+      "word": "million",
+      "start_offset": 1284,
+      "end_offset": 1291,
+      "start": 102.72,
+      "end": 103.28
+    },
+    {
+      "word": "different",
+      "start_offset": 1291,
+      "end_offset": 1295,
+      "start": 103.28,
+      "end": 103.60000000000001
+    },
+    {
+      "word": "ways",
+      "start_offset": 1295,
+      "end_offset": 1300,
+      "start": 103.60000000000001,
+      "end": 104.0
+    },
+    {
+      "word": "I'm",
+      "start_offset": 1304,
+      "end_offset": 1308,
+      "start": 104.32000000000001,
+      "end": 104.64
+    },
+    {
+      "word": "just",
+      "start_offset": 1308,
+      "end_offset": 1311,
+      "start": 104.64,
+      "end": 104.88
+    },
+    {
+      "word": "like",
+      "start_offset": 1311,
+      "end_offset": 1314,
+      "start": 104.88,
+      "end": 105.12
+    },
+    {
+      "word": "lover",
+      "start_offset": 1314,
+      "end_offset": 1319,
+      "start": 105.12,
+      "end": 105.52
+    },
+    {
+      "word": "Class",
+      "start_offset": 1323,
+      "end_offset": 1328,
+      "start": 105.84,
+      "end": 106.24000000000001
+    },
+    {
+      "word": "feelings",
+      "start_offset": 1330,
+      "end_offset": 1337,
+      "start": 106.4,
+      "end": 106.96000000000001
+    },
+    {
+      "word": "are",
+      "start_offset": 1339,
+      "end_offset": 1343,
+      "start": 107.12,
+      "end": 107.44
+    },
+    {
+      "word": "shattered",
+      "start_offset": 1343,
+      "end_offset": 1356,
+      "start": 107.44,
+      "end": 108.48
+    },
+    {
+      "word": "again",
+      "start_offset": 1356,
+      "end_offset": 1360,
+      "start": 108.48,
+      "end": 108.8
+    },
+    {
+      "word": "And",
+      "start_offset": 1367,
+      "end_offset": 1370,
+      "start": 109.36,
+      "end": 109.60000000000001
+    },
+    {
+      "word": "I'm",
+      "start_offset": 1370,
+      "end_offset": 1373,
+      "start": 109.60000000000001,
+      "end": 109.84
+    },
+    {
+      "word": "like",
+      "start_offset": 1373,
+      "end_offset": 1376,
+      "start": 109.84,
+      "end": 110.08
+    },
+    {
+      "word": "lover",
+      "start_offset": 1376,
+      "end_offset": 1381,
+      "start": 110.08,
+      "end": 110.48
+    },
+    {
+      "word": "I",
+      "start_offset": 1389,
+      "end_offset": 1391,
+      "start": 111.12,
+      "end": 111.28
+    },
+    {
+      "word": "was",
+      "start_offset": 1391,
+      "end_offset": 1393,
+      "start": 111.28,
+      "end": 111.44
+    },
+    {
+      "word": "feeling",
+      "start_offset": 1393,
+      "end_offset": 1398,
+      "start": 111.44,
+      "end": 111.84
+    },
+    {
+      "word": "low,",
+      "start_offset": 1398,
+      "end_offset": 1403,
+      "start": 111.84,
+      "end": 112.24000000000001
+    },
+    {
+      "word": "nowhere",
+      "start_offset": 1405,
+      "end_offset": 1412,
+      "start": 112.4,
+      "end": 112.96000000000001
+    },
+    {
+      "word": "to",
+      "start_offset": 1412,
+      "end_offset": 1413,
+      "start": 112.96000000000001,
+      "end": 113.04
+    },
+    {
+      "word": "go",
+      "start_offset": 1413,
+      "end_offset": 1416,
+      "start": 113.04,
+      "end": 113.28
+    },
+    {
+      "word": "And",
+      "start_offset": 1420,
+      "end_offset": 1422,
+      "start": 113.60000000000001,
+      "end": 113.76
+    },
+    {
+      "word": "you",
+      "start_offset": 1422,
+      "end_offset": 1425,
+      "start": 113.76,
+      "end": 114.0
+    },
+    {
+      "word": "bring",
+      "start_offset": 1425,
+      "end_offset": 1428,
+      "start": 114.0,
+      "end": 114.24000000000001
+    },
+    {
+      "word": "me",
+      "start_offset": 1428,
+      "end_offset": 1431,
+      "start": 114.24000000000001,
+      "end": 114.48
+    },
+    {
+      "word": "hope",
+      "start_offset": 1431,
+      "end_offset": 1434,
+      "start": 114.48,
+      "end": 114.72
+    },
+    {
+      "word": "now,",
+      "start_offset": 1435,
+      "end_offset": 1436,
+      "start": 114.8,
+      "end": 114.88
+    },
+    {
+      "word": "lover",
+      "start_offset": 1440,
+      "end_offset": 1444,
+      "start": 115.2,
+      "end": 115.52
+    },
+    {
+      "word": "And",
+      "start_offset": 1451,
+      "end_offset": 1452,
+      "start": 116.08,
+      "end": 116.16
+    },
+    {
+      "word": "I",
+      "start_offset": 1452,
+      "end_offset": 1453,
+      "start": 116.16,
+      "end": 116.24000000000001
+    },
+    {
+      "word": "was",
+      "start_offset": 1453,
+      "end_offset": 1456,
+      "start": 116.24000000000001,
+      "end": 116.48
+    },
+    {
+      "word": "insecure,",
+      "start_offset": 1456,
+      "end_offset": 1464,
+      "start": 116.48,
+      "end": 117.12
+    },
+    {
+      "word": "I",
+      "start_offset": 1467,
+      "end_offset": 1469,
+      "start": 117.36,
+      "end": 117.52
+    },
+    {
+      "word": "was",
+      "start_offset": 1469,
+      "end_offset": 1472,
+      "start": 117.52,
+      "end": 117.76
+    },
+    {
+      "word": "on",
+      "start_offset": 1472,
+      "end_offset": 1474,
+      "start": 117.76,
+      "end": 117.92
+    },
+    {
+      "word": "the",
+      "start_offset": 1474,
+      "end_offset": 1476,
+      "start": 117.92,
+      "end": 118.08
+    },
+    {
+      "word": "floor",
+      "start_offset": 1476,
+      "end_offset": 1481,
+      "start": 118.08,
+      "end": 118.48
+    },
+    {
+      "word": "And",
+      "start_offset": 1483,
+      "end_offset": 1485,
+      "start": 118.64,
+      "end": 118.8
+    },
+    {
+      "word": "you",
+      "start_offset": 1485,
+      "end_offset": 1487,
+      "start": 118.8,
+      "end": 118.96000000000001
+    },
+    {
+      "word": "lit",
+      "start_offset": 1487,
+      "end_offset": 1491,
+      "start": 118.96000000000001,
+      "end": 119.28
+    },
+    {
+      "word": "that",
+      "start_offset": 1491,
+      "end_offset": 1494,
+      "start": 119.28,
+      "end": 119.52
+    },
+    {
+      "word": "fire",
+      "start_offset": 1494,
+      "end_offset": 1498,
+      "start": 119.52,
+      "end": 119.84
+    },
+    {
+      "word": "I'm",
+      "start_offset": 1515,
+      "end_offset": 1519,
+      "start": 121.2,
+      "end": 121.52
+    },
+    {
+      "word": "talking",
+      "start_offset": 1519,
+      "end_offset": 1524,
+      "start": 121.52,
+      "end": 121.92
+    },
+    {
+      "word": "about",
+      "start_offset": 1526,
+      "end_offset": 1528,
+      "start": 122.08,
+      "end": 122.24000000000001
+    },
+    {
+      "word": "my",
+      "start_offset": 1531,
+      "end_offset": 1535,
+      "start": 122.48,
+      "end": 122.8
+    },
+    {
+      "word": "love",
+      "start_offset": 1535,
+      "end_offset": 1539,
+      "start": 122.8,
+      "end": 123.12
+    },
+    {
+      "word": "Yeah,",
+      "start_offset": 1575,
+      "end_offset": 1577,
+      "start": 126.0,
+      "end": 126.16
+    },
+    {
+      "word": "I'm",
+      "start_offset": 1578,
+      "end_offset": 1580,
+      "start": 126.24000000000001,
+      "end": 126.4
+    },
+    {
+      "word": "talking",
+      "start_offset": 1580,
+      "end_offset": 1585,
+      "start": 126.4,
+      "end": 126.8
+    },
+    {
+      "word": "about",
+      "start_offset": 1589,
+      "end_offset": 1591,
+      "start": 127.12,
+      "end": 127.28
+    },
+    {
+      "word": "my",
+      "start_offset": 1592,
+      "end_offset": 1594,
+      "start": 127.36,
+      "end": 127.52
+    },
+    {
+      "word": "love",
+      "start_offset": 1596,
+      "end_offset": 1598,
+      "start": 127.68,
+      "end": 127.84
+    },
+    {
+      "word": "Just",
+      "start_offset": 1608,
+      "end_offset": 1612,
+      "start": 128.64000000000001,
+      "end": 128.96
+    },
+    {
+      "word": "talking",
+      "start_offset": 1612,
+      "end_offset": 1618,
+      "start": 128.96,
+      "end": 129.44
+    },
+    {
+      "word": "about",
+      "start_offset": 1620,
+      "end_offset": 1623,
+      "start": 129.6,
+      "end": 129.84
+    },
+    {
+      "word": "my",
+      "start_offset": 1623,
+      "end_offset": 1627,
+      "start": 129.84,
+      "end": 130.16
+    },
+    {
+      "word": "love",
+      "start_offset": 1627,
+      "end_offset": 1629,
+      "start": 130.16,
+      "end": 130.32
+    },
+    {
+      "word": "I'm",
+      "start_offset": 1640,
+      "end_offset": 1644,
+      "start": 131.2,
+      "end": 131.52
+    },
+    {
+      "word": "talking",
+      "start_offset": 1644,
+      "end_offset": 1649,
+      "start": 131.52,
+      "end": 131.92000000000002
+    },
+    {
+      "word": "about",
+      "start_offset": 1649,
+      "end_offset": 1651,
+      "start": 131.92000000000002,
+      "end": 132.08
+    },
+    {
+      "word": "my",
+      "start_offset": 1655,
+      "end_offset": 1659,
+      "start": 132.4,
+      "end": 132.72
+    },
+    {
+      "word": "love",
+      "start_offset": 1659,
+      "end_offset": 1663,
+      "start": 132.72,
+      "end": 133.04
+    },
+    {
+      "word": "Yeah,",
+      "start_offset": 1700,
+      "end_offset": 1702,
+      "start": 136.0,
+      "end": 136.16
+    },
+    {
+      "word": "I'm",
+      "start_offset": 1703,
+      "end_offset": 1706,
+      "start": 136.24,
+      "end": 136.48
+    },
+    {
+      "word": "talking",
+      "start_offset": 1706,
+      "end_offset": 1710,
+      "start": 136.48,
+      "end": 136.8
+    },
+    {
+      "word": "about",
+      "start_offset": 1712,
+      "end_offset": 1714,
+      "start": 136.96,
+      "end": 137.12
+    },
+    {
+      "word": "my",
+      "start_offset": 1717,
+      "end_offset": 1719,
+      "start": 137.36,
+      "end": 137.52
+    },
+    {
+      "word": "love",
+      "start_offset": 1721,
+      "end_offset": 1725,
+      "start": 137.68,
+      "end": 138.0
+    },
+    {
+      "word": "And",
+      "start_offset": 1865,
+      "end_offset": 1867,
+      "start": 149.20000000000002,
+      "end": 149.36
+    },
+    {
+      "word": "I'm",
+      "start_offset": 1867,
+      "end_offset": 1871,
+      "start": 149.36,
+      "end": 149.68
+    },
+    {
+      "word": "just",
+      "start_offset": 1871,
+      "end_offset": 1874,
+      "start": 149.68,
+      "end": 149.92000000000002
+    },
+    {
+      "word": "like",
+      "start_offset": 1874,
+      "end_offset": 1877,
+      "start": 149.92000000000002,
+      "end": 150.16
+    },
+    {
+      "word": "love",
+      "start_offset": 1877,
+      "end_offset": 1881,
+      "start": 150.16,
+      "end": 150.48
+    },
+    {
+      "word": "Each",
+      "start_offset": 1886,
+      "end_offset": 1890,
+      "start": 150.88,
+      "end": 151.20000000000002
+    },
+    {
+      "word": "times",
+      "start_offset": 1892,
+      "end_offset": 1898,
+      "start": 151.36,
+      "end": 151.84
+    },
+    {
+      "word": "if",
+      "start_offset": 1902,
+      "end_offset": 1904,
+      "start": 152.16,
+      "end": 152.32
+    },
+    {
+      "word": "God",
+      "start_offset": 1906,
+      "end_offset": 1909,
+      "start": 152.48,
+      "end": 152.72
+    },
+    {
+      "word": "is",
+      "start_offset": 1912,
+      "end_offset": 1914,
+      "start": 152.96,
+      "end": 153.12
+    },
+    {
+      "word": "perplexed",
+      "start_offset": 1916,
+      "end_offset": 1926,
+      "start": 153.28,
+      "end": 154.08
+    },
+    {
+      "word": "It's",
+      "start_offset": 1929,
+      "end_offset": 1933,
+      "start": 154.32,
+      "end": 154.64000000000001
+    },
+    {
+      "word": "like",
+      "start_offset": 1933,
+      "end_offset": 1935,
+      "start": 154.64000000000001,
+      "end": 154.8
+    },
+    {
+      "word": "the",
+      "start_offset": 1935,
+      "end_offset": 1939,
+      "start": 154.8,
+      "end": 155.12
+    },
+    {
+      "word": "fear",
+      "start_offset": 1939,
+      "end_offset": 1944,
+      "start": 155.12,
+      "end": 155.52
+    },
+    {
+      "word": "is",
+      "start_offset": 1944,
+      "end_offset": 1946,
+      "start": 155.52,
+      "end": 155.68
+    },
+    {
+      "word": "driving",
+      "start_offset": 1947,
+      "end_offset": 1954,
+      "start": 155.76,
+      "end": 156.32
+    },
+    {
+      "word": "you",
+      "start_offset": 1954,
+      "end_offset": 1956,
+      "start": 156.32,
+      "end": 156.48
+    },
+    {
+      "word": "You",
+      "start_offset": 1960,
+      "end_offset": 1964,
+      "start": 156.8,
+      "end": 157.12
+    },
+    {
+      "word": "don't",
+      "start_offset": 1964,
+      "end_offset": 1971,
+      "start": 157.12,
+      "end": 157.68
+    },
+    {
+      "word": "know",
+      "start_offset": 1971,
+      "end_offset": 1975,
+      "start": 157.68,
+      "end": 158.0
+    },
+    {
+      "word": "what",
+      "start_offset": 1975,
+      "end_offset": 1979,
+      "start": 158.0,
+      "end": 158.32
+    },
+    {
+      "word": "comes",
+      "start_offset": 1979,
+      "end_offset": 1984,
+      "start": 158.32,
+      "end": 158.72
+    },
+    {
+      "word": "next",
+      "start_offset": 1984,
+      "end_offset": 1987,
+      "start": 158.72,
+      "end": 158.96
+    },
+    {
+      "word": "It's",
+      "start_offset": 1991,
+      "end_offset": 1995,
+      "start": 159.28,
+      "end": 159.6
+    },
+    {
+      "word": "just",
+      "start_offset": 1995,
+      "end_offset": 1998,
+      "start": 159.6,
+      "end": 159.84
+    },
+    {
+      "word": "like",
+      "start_offset": 1998,
+      "end_offset": 2002,
+      "start": 159.84,
+      "end": 160.16
+    },
+    {
+      "word": "loving",
+      "start_offset": 2002,
+      "end_offset": 2005,
+      "start": 160.16,
+      "end": 160.4
+    },
+    {
+      "word": "healing",
+      "start_offset": 2015,
+      "end_offset": 2025,
+      "start": 161.20000000000002,
+      "end": 162.0
+    },
+    {
+      "word": "That",
+      "start_offset": 2029,
+      "end_offset": 2033,
+      "start": 162.32,
+      "end": 162.64000000000001
+    },
+    {
+      "word": "spiritual",
+      "start_offset": 2033,
+      "end_offset": 2046,
+      "start": 162.64000000000001,
+      "end": 163.68
+    },
+    {
+      "word": "thing",
+      "start_offset": 2046,
+      "end_offset": 2050,
+      "start": 163.68,
+      "end": 164.0
+    },
+    {
+      "word": "It's",
+      "start_offset": 2054,
+      "end_offset": 2058,
+      "start": 164.32,
+      "end": 164.64000000000001
+    },
+    {
+      "word": "just",
+      "start_offset": 2058,
+      "end_offset": 2061,
+      "start": 164.64000000000001,
+      "end": 164.88
+    },
+    {
+      "word": "like",
+      "start_offset": 2061,
+      "end_offset": 2064,
+      "start": 164.88,
+      "end": 165.12
+    },
+    {
+      "word": "lover",
+      "start_offset": 2064,
+      "end_offset": 2068,
+      "start": 165.12,
+      "end": 165.44
+    },
+    {
+      "word": "You",
+      "start_offset": 2082,
+      "end_offset": 2085,
+      "start": 166.56,
+      "end": 166.8
+    },
+    {
+      "word": "make",
+      "start_offset": 2085,
+      "end_offset": 2089,
+      "start": 166.8,
+      "end": 167.12
+    },
+    {
+      "word": "my",
+      "start_offset": 2089,
+      "end_offset": 2093,
+      "start": 167.12,
+      "end": 167.44
+    },
+    {
+      "word": "heart",
+      "start_offset": 2093,
+      "end_offset": 2099,
+      "start": 167.44,
+      "end": 167.92000000000002
+    },
+    {
+      "word": "wanna",
+      "start_offset": 2099,
+      "end_offset": 2109,
+      "start": 167.92000000000002,
+      "end": 168.72
+    },
+    {
+      "word": "sing",
+      "start_offset": 2109,
+      "end_offset": 2117,
+      "start": 168.72,
+      "end": 169.36
+    },
+    {
+      "word": "for",
+      "start_offset": 2119,
+      "end_offset": 2122,
+      "start": 169.52,
+      "end": 169.76
+    },
+    {
+      "word": "you",
+      "start_offset": 2122,
+      "end_offset": 2124,
+      "start": 169.76,
+      "end": 169.92000000000002
+    },
+    {
+      "word": "I'm",
+      "start_offset": 2140,
+      "end_offset": 2144,
+      "start": 171.20000000000002,
+      "end": 171.52
+    },
+    {
+      "word": "talking",
+      "start_offset": 2144,
+      "end_offset": 2149,
+      "start": 171.52,
+      "end": 171.92000000000002
+    },
+    {
+      "word": "about",
+      "start_offset": 2151,
+      "end_offset": 2153,
+      "start": 172.08,
+      "end": 172.24
+    },
+    {
+      "word": "my",
+      "start_offset": 2155,
+      "end_offset": 2159,
+      "start": 172.4,
+      "end": 172.72
+    },
+    {
+      "word": "love",
+      "start_offset": 2159,
+      "end_offset": 2163,
+      "start": 172.72,
+      "end": 173.04
+    },
+    {
+      "word": "Yeah,",
+      "start_offset": 2201,
+      "end_offset": 2202,
+      "start": 176.08,
+      "end": 176.16
+    },
+    {
+      "word": "I'm",
+      "start_offset": 2203,
+      "end_offset": 2206,
+      "start": 176.24,
+      "end": 176.48
+    },
+    {
+      "word": "talking",
+      "start_offset": 2206,
+      "end_offset": 2212,
+      "start": 176.48,
+      "end": 176.96
+    },
+    {
+      "word": "about",
+      "start_offset": 2214,
+      "end_offset": 2216,
+      "start": 177.12,
+      "end": 177.28
+    },
+    {
+      "word": "my",
+      "start_offset": 2218,
+      "end_offset": 2221,
+      "start": 177.44,
+      "end": 177.68
+    },
+    {
+      "word": "love",
+      "start_offset": 2221,
+      "end_offset": 2223,
+      "start": 177.68,
+      "end": 177.84
+    },
+    {
+      "word": "Just",
+      "start_offset": 2233,
+      "end_offset": 2236,
+      "start": 178.64000000000001,
+      "end": 178.88
+    },
+    {
+      "word": "talking",
+      "start_offset": 2238,
+      "end_offset": 2243,
+      "start": 179.04,
+      "end": 179.44
+    },
+    {
+      "word": "about",
+      "start_offset": 2245,
+      "end_offset": 2247,
+      "start": 179.6,
+      "end": 179.76
+    },
+    {
+      "word": "my",
+      "start_offset": 2248,
+      "end_offset": 2251,
+      "start": 179.84,
+      "end": 180.08
+    },
+    {
+      "word": "love",
+      "start_offset": 2251,
+      "end_offset": 2253,
+      "start": 180.08,
+      "end": 180.24
+    },
+    {
+      "word": "I'm",
+      "start_offset": 2265,
+      "end_offset": 2269,
+      "start": 181.20000000000002,
+      "end": 181.52
+    },
+    {
+      "word": "talking",
+      "start_offset": 2269,
+      "end_offset": 2273,
+      "start": 181.52,
+      "end": 181.84
+    },
+    {
+      "word": "about",
+      "start_offset": 2275,
+      "end_offset": 2277,
+      "start": 182.0,
+      "end": 182.16
+    },
+    {
+      "word": "my",
+      "start_offset": 2280,
+      "end_offset": 2284,
+      "start": 182.4,
+      "end": 182.72
+    },
+    {
+      "word": "love",
+      "start_offset": 2284,
+      "end_offset": 2288,
+      "start": 182.72,
+      "end": 183.04
+    },
+    {
+      "word": "Just",
+      "start_offset": 2358,
+      "end_offset": 2360,
+      "start": 188.64000000000001,
+      "end": 188.8
+    },
+    {
+      "word": "talking",
+      "start_offset": 2362,
+      "end_offset": 2367,
+      "start": 188.96,
+      "end": 189.36
+    },
+    {
+      "word": "about",
+      "start_offset": 2369,
+      "end_offset": 2371,
+      "start": 189.52,
+      "end": 189.68
+    },
+    {
+      "word": "my",
+      "start_offset": 2373,
+      "end_offset": 2375,
+      "start": 189.84,
+      "end": 190.0
+    },
+    {
+      "word": "love",
+      "start_offset": 2377,
+      "end_offset": 2381,
+      "start": 190.16,
+      "end": 190.48
+    },
+    {
+      "word": "I'm",
+      "start_offset": 2390,
+      "end_offset": 2394,
+      "start": 191.20000000000002,
+      "end": 191.52
+    },
+    {
+      "word": "talking",
+      "start_offset": 2394,
+      "end_offset": 2399,
+      "start": 191.52,
+      "end": 191.92000000000002
+    },
+    {
+      "word": "about",
+      "start_offset": 2401,
+      "end_offset": 2403,
+      "start": 192.08,
+      "end": 192.24
+    },
+    {
+      "word": "my",
+      "start_offset": 2405,
+      "end_offset": 2409,
+      "start": 192.4,
+      "end": 192.72
+    },
+    {
+      "word": "love",
+      "start_offset": 2409,
+      "end_offset": 2413,
+      "start": 192.72,
+      "end": 193.04
+    },
+    {
+      "word": "Yeah,",
+      "start_offset": 2451,
+      "end_offset": 2452,
+      "start": 196.08,
+      "end": 196.16
+    },
+    {
+      "word": "I'm",
+      "start_offset": 2453,
+      "end_offset": 2456,
+      "start": 196.24,
+      "end": 196.48000000000002
+    },
+    {
+      "word": "talking",
+      "start_offset": 2456,
+      "end_offset": 2462,
+      "start": 196.48000000000002,
+      "end": 196.96
+    },
+    {
+      "word": "about",
+      "start_offset": 2464,
+      "end_offset": 2466,
+      "start": 197.12,
+      "end": 197.28
+    },
+    {
+      "word": "my",
+      "start_offset": 2468,
+      "end_offset": 2471,
+      "start": 197.44,
+      "end": 197.68
+    },
+    {
+      "word": "love",
+      "start_offset": 2471,
+      "end_offset": 2475,
+      "start": 197.68,
+      "end": 198.0
+    },
+    {
+      "word": "Just",
+      "start_offset": 2483,
+      "end_offset": 2486,
+      "start": 198.64000000000001,
+      "end": 198.88
+    },
+    {
+      "word": "talking",
+      "start_offset": 2488,
+      "end_offset": 2493,
+      "start": 199.04,
+      "end": 199.44
+    },
+    {
+      "word": "about",
+      "start_offset": 2495,
+      "end_offset": 2497,
+      "start": 199.6,
+      "end": 199.76
+    },
+    {
+      "word": "my",
+      "start_offset": 2498,
+      "end_offset": 2502,
+      "start": 199.84,
+      "end": 200.16
+    },
+    {
+      "word": "love",
+      "start_offset": 2502,
+      "end_offset": 2506,
+      "start": 200.16,
+      "end": 200.48000000000002
+    },
+    {
+      "word": "I'm",
+      "start_offset": 2515,
+      "end_offset": 2519,
+      "start": 201.20000000000002,
+      "end": 201.52
+    },
+    {
+      "word": "talking",
+      "start_offset": 2519,
+      "end_offset": 2524,
+      "start": 201.52,
+      "end": 201.92000000000002
+    },
+    {
+      "word": "about",
+      "start_offset": 2526,
+      "end_offset": 2528,
+      "start": 202.08,
+      "end": 202.24
+    },
+    {
+      "word": "my",
+      "start_offset": 2530,
+      "end_offset": 2534,
+      "start": 202.4,
+      "end": 202.72
+    },
+    {
+      "word": "love",
+      "start_offset": 2534,
+      "end_offset": 2538,
+      "start": 202.72,
+      "end": 203.04
+    },
+    {
+      "word": "Yeah,",
+      "start_offset": 2575,
+      "end_offset": 2577,
+      "start": 206.0,
+      "end": 206.16
+    },
+    {
+      "word": "I'm",
+      "start_offset": 2578,
+      "end_offset": 2581,
+      "start": 206.24,
+      "end": 206.48000000000002
+    },
+    {
+      "word": "talking",
+      "start_offset": 2581,
+      "end_offset": 2585,
+      "start": 206.48000000000002,
+      "end": 206.8
+    },
+    {
+      "word": "about",
+      "start_offset": 2587,
+      "end_offset": 2589,
+      "start": 206.96,
+      "end": 207.12
+    },
+    {
+      "word": "my",
+      "start_offset": 2592,
+      "end_offset": 2594,
+      "start": 207.36,
+      "end": 207.52
+    },
+    {
+      "word": "love",
+      "start_offset": 2596,
+      "end_offset": 2598,
+      "start": 207.68,
+      "end": 207.84
+    },
+    {
+      "word": "I'm",
+      "start_offset": 2640,
+      "end_offset": 2644,
+      "start": 211.20000000000002,
+      "end": 211.52
+    },
+    {
+      "word": "talking",
+      "start_offset": 2644,
+      "end_offset": 2649,
+      "start": 211.52,
+      "end": 211.92000000000002
+    },
+    {
+      "word": "about",
+      "start_offset": 2649,
+      "end_offset": 2651,
+      "start": 211.92000000000002,
+      "end": 212.08
+    },
+    {
+      "word": "my",
+      "start_offset": 2655,
+      "end_offset": 2659,
+      "start": 212.4,
+      "end": 212.72
+    },
+    {
+      "word": "love",
+      "start_offset": 2659,
+      "end_offset": 2663,
+      "start": 212.72,
+      "end": 213.04
+    }
+  ],
+  "segment": [
+    {
+      "segment": "Yeah, yeah, yeah, yeah We yeah, yeah, yeah, yeah It's just like lover Why we so strong together I'm like lover, oh Maybe we just birds of a feather It's like lover, oh yeah I'm the jealous type, but I'm like lover These emotions I know they're not right You got the fancy eyes I'm just like lover And I could fall for that smile I was feeling low, nowhere to go And you bring me hope now, lover And I was insecure, I was on the floor And you lit that fire I'm talking about my love Yeah, I'm talking about my love Just talking about my love I'm talking about my love Yeah, I'm talking about my love It's just that love What you gonna do with your life?",
+      "start_offset": 262,
+      "end_offset": 1171,
+      "start": 20.96,
+      "end": 93.68
+    },
+    {
+      "segment": "I'm just like lover, ooh I'm alive tonight I'm just like lover, oh Karma comes in a million different ways I'm just like lover Class feelings are shattered again And I'm like lover I was feeling low, nowhere to go And you bring me hope now, lover And I was insecure, I was on the floor And you lit that fire I'm talking about my love Yeah, I'm talking about my love Just talking about my love I'm talking about my love Yeah, I'm talking about my love And I'm just like love Each times if God is perplexed It's like the fear is driving you You don't know what comes next It's just like loving healing That spiritual thing It's just like lover You make my heart wanna sing for you I'm talking about my love Yeah, I'm talking about my love Just talking about my love I'm talking about my love Just talking about my love I'm talking about my love Yeah, I'm talking about my love Just talking about my love I'm talking about my love Yeah, I'm talking about my love I'm talking about my love",
+      "start_offset": 1179,
+      "end_offset": 2663,
+      "start": 94.32000000000001,
+      "end": 213.04
+    }
+  ]
+}

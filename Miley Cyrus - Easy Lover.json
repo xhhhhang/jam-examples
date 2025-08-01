@@ -1,0 +1,5463 @@
+{
+  "char": [
+    {
+      "char": [
+        "You"
+      ],
+      "start_offset": 118,
+      "end_offset": 120,
+      "start": 9.44,
+      "end": 9.6
+    },
+    {
+      "char": [
+        "'"
+      ],
+      "start_offset": 120,
+      "end_offset": 120,
+      "start": 9.6,
+      "end": 9.6
+    },
+    {
+      "char": [
+        "re"
+      ],
+      "start_offset": 122,
+      "end_offset": 122,
+      "start": 9.76,
+      "end": 9.76
+    },
+    {
+      "char": [
+        "my"
+      ],
+      "start_offset": 122,
+      "end_offset": 126,
+      "start": 9.76,
+      "end": 10.08
+    },
+    {
+      "char": [
+        "b"
+      ],
+      "start_offset": 126,
+      "end_offset": 130,
+      "start": 10.08,
+      "end": 10.4
+    },
+    {
+      "char": [
+        "ab"
+      ],
+      "start_offset": 130,
+      "end_offset": 134,
+      "start": 10.4,
+      "end": 10.72
+    },
+    {
+      "char": [
+        "y"
+      ],
+      "start_offset": 134,
+      "end_offset": 138,
+      "start": 10.72,
+      "end": 11.040000000000001
+    },
+    {
+      "char": [
+        "You"
+      ],
+      "start_offset": 153,
+      "end_offset": 155,
+      "start": 12.24,
+      "end": 12.4
+    },
+    {
+      "char": [
+        "'"
+      ],
+      "start_offset": 155,
+      "end_offset": 155,
+      "start": 12.4,
+      "end": 12.4
+    },
+    {
+      "char": [
+        "re"
+      ],
+      "start_offset": 156,
+      "end_offset": 158,
+      "start": 12.48,
+      "end": 12.64
+    },
+    {
+      "char": [
+        "the"
+      ],
+      "start_offset": 158,
+      "end_offset": 162,
+      "start": 12.64,
+      "end": 12.96
+    },
+    {
+      "char": [
+        "only"
+      ],
+      "start_offset": 162,
+      "end_offset": 165,
+      "start": 12.96,
+      "end": 13.200000000000001
+    },
+    {
+      "char": [
+        "one"
+      ],
+      "start_offset": 165,
+      "end_offset": 169,
+      "start": 13.200000000000001,
+      "end": 13.52
+    },
+    {
+      "char": [
+        "You"
+      ],
+      "start_offset": 173,
+      "end_offset": 175,
+      "start": 13.84,
+      "end": 14.0
+    },
+    {
+      "char": [
+        "d"
+      ],
+      "start_offset": 175,
+      "end_offset": 177,
+      "start": 14.0,
+      "end": 14.16
+    },
+    {
+      "char": [
+        "r"
+      ],
+      "start_offset": 177,
+      "end_offset": 178,
+      "start": 14.16,
+      "end": 14.24
+    },
+    {
+      "char": [
+        "ive"
+      ],
+      "start_offset": 178,
+      "end_offset": 180,
+      "start": 14.24,
+      "end": 14.4
+    },
+    {
+      "char": [
+        "me"
+      ],
+      "start_offset": 180,
+      "end_offset": 183,
+      "start": 14.4,
+      "end": 14.64
+    },
+    {
+      "char": [
+        "c"
+      ],
+      "start_offset": 183,
+      "end_offset": 184,
+      "start": 14.64,
+      "end": 14.72
+    },
+    {
+      "char": [
+        "ra"
+      ],
+      "start_offset": 184,
+      "end_offset": 186,
+      "start": 14.72,
+      "end": 14.88
+    },
+    {
+      "char": [
+        "z"
+      ],
+      "start_offset": 186,
+      "end_offset": 189,
+      "start": 14.88,
+      "end": 15.120000000000001
+    },
+    {
+      "char": [
+        "y"
+      ],
+      "start_offset": 189,
+      "end_offset": 193,
+      "start": 15.120000000000001,
+      "end": 15.44
+    },
+    {
+      "char": [
+        "But"
+      ],
+      "start_offset": 204,
+      "end_offset": 207,
+      "start": 16.32,
+      "end": 16.56
+    },
+    {
+      "char": [
+        "I"
+      ],
+      "start_offset": 207,
+      "end_offset": 208,
+      "start": 16.56,
+      "end": 16.64
+    },
+    {
+      "char": [
+        "still"
+      ],
+      "start_offset": 210,
+      "end_offset": 214,
+      "start": 16.8,
+      "end": 17.12
+    },
+    {
+      "char": [
+        "m"
+      ],
+      "start_offset": 214,
+      "end_offset": 216,
+      "start": 17.12,
+      "end": 17.28
+    },
+    {
+      "char": [
+        "iss"
+      ],
+      "start_offset": 216,
+      "end_offset": 219,
+      "start": 17.28,
+      "end": 17.52
+    },
+    {
+      "char": [
+        "you"
+      ],
+      "start_offset": 219,
+      "end_offset": 222,
+      "start": 17.52,
+      "end": 17.76
+    },
+    {
+      "char": [
+        "when"
+      ],
+      "start_offset": 222,
+      "end_offset": 225,
+      "start": 17.76,
+      "end": 18.0
+    },
+    {
+      "char": [
+        "you"
+      ],
+      "start_offset": 225,
+      "end_offset": 227,
+      "start": 18.0,
+      "end": 18.16
+    },
+    {
+      "char": [
+        "'"
+      ],
+      "start_offset": 227,
+      "end_offset": 227,
+      "start": 18.16,
+      "end": 18.16
+    },
+    {
+      "char": [
+        "re"
+      ],
+      "start_offset": 228,
+      "end_offset": 232,
+      "start": 18.240000000000002,
+      "end": 18.56
+    },
+    {
+      "char": [
+        "g"
+      ],
+      "start_offset": 232,
+      "end_offset": 236,
+      "start": 18.56,
+      "end": 18.88
+    },
+    {
+      "char": [
+        "one"
+      ],
+      "start_offset": 236,
+      "end_offset": 239,
+      "start": 18.88,
+      "end": 19.12
+    },
+    {
+      "char": [
+        "E"
+      ],
+      "start_offset": 251,
+      "end_offset": 254,
+      "start": 20.080000000000002,
+      "end": 20.32
+    },
+    {
+      "char": [
+        "very"
+      ],
+      "start_offset": 254,
+      "end_offset": 257,
+      "start": 20.32,
+      "end": 20.56
+    },
+    {
+      "char": [
+        "se"
+      ],
+      "start_offset": 257,
+      "end_offset": 261,
+      "start": 20.56,
+      "end": 20.88
+    },
+    {
+      "char": [
+        "cond"
+      ],
+      "start_offset": 261,
+      "end_offset": 265,
+      "start": 20.88,
+      "end": 21.2
+    },
+    {
+      "char": [
+        ","
+      ],
+      "start_offset": 265,
+      "end_offset": 265,
+      "start": 21.2,
+      "end": 21.2
+    },
+    {
+      "char": [
+        "every"
+      ],
+      "start_offset": 273,
+      "end_offset": 277,
+      "start": 21.84,
+      "end": 22.16
+    },
+    {
+      "char": [
+        "h"
+      ],
+      "start_offset": 277,
+      "end_offset": 281,
+      "start": 22.16,
+      "end": 22.48
+    },
+    {
+      "char": [
+        "our"
+      ],
+      "start_offset": 281,
+      "end_offset": 285,
+      "start": 22.48,
+      "end": 22.8
+    },
+    {
+      "char": [
+        "It"
+      ],
+      "start_offset": 344,
+      "end_offset": 345,
+      "start": 27.52,
+      "end": 27.6
+    },
+    {
+      "char": [
+        "'"
+      ],
+      "start_offset": 345,
+      "end_offset": 345,
+      "start": 27.6,
+      "end": 27.6
+    },
+    {
+      "char": [
+        "s"
+      ],
+      "start_offset": 346,
+      "end_offset": 348,
+      "start": 27.68,
+      "end": 27.84
+    },
+    {
+      "char": [
+        "in"
+      ],
+      "start_offset": 348,
+      "end_offset": 351,
+      "start": 27.84,
+      "end": 28.080000000000002
+    },
+    {
+      "char": [
+        "your"
+      ],
+      "start_offset": 351,
+      "end_offset": 355,
+      "start": 28.080000000000002,
+      "end": 28.400000000000002
+    },
+    {
+      "char": [
+        "n"
+      ],
+      "start_offset": 355,
+      "end_offset": 359,
+      "start": 28.400000000000002,
+      "end": 28.72
+    },
+    {
+      "char": [
+        "at"
+      ],
+      "start_offset": 359,
+      "end_offset": 363,
+      "start": 28.72,
+      "end": 29.04
+    },
+    {
+      "char": [
+        "ure"
+      ],
+      "start_offset": 363,
+      "end_offset": 367,
+      "start": 29.04,
+      "end": 29.36
+    },
+    {
+      "char": [
+        "To"
+      ],
+      "start_offset": 382,
+      "end_offset": 385,
+      "start": 30.560000000000002,
+      "end": 30.8
+    },
+    {
+      "char": [
+        "l"
+      ],
+      "start_offset": 385,
+      "end_offset": 388,
+      "start": 30.8,
+      "end": 31.04
+    },
+    {
+      "char": [
+        "ight"
+      ],
+      "start_offset": 388,
+      "end_offset": 391,
+      "start": 31.04,
+      "end": 31.28
+    },
+    {
+      "char": [
+        "me"
+      ],
+      "start_offset": 391,
+      "end_offset": 394,
+      "start": 31.28,
+      "end": 31.52
+    },
+    {
+      "char": [
+        "up"
+      ],
+      "start_offset": 394,
+      "end_offset": 398,
+      "start": 31.52,
+      "end": 31.84
+    },
+    {
+      "char": [
+        "I"
+      ],
+      "start_offset": 402,
+      "end_offset": 405,
+      "start": 32.160000000000004,
+      "end": 32.4
+    },
+    {
+      "char": [
+        "love"
+      ],
+      "start_offset": 405,
+      "end_offset": 408,
+      "start": 32.4,
+      "end": 32.64
+    },
+    {
+      "char": [
+        "to"
+      ],
+      "start_offset": 408,
+      "end_offset": 411,
+      "start": 32.64,
+      "end": 32.88
+    },
+    {
+      "char": [
+        "h"
+      ],
+      "start_offset": 411,
+      "end_offset": 414,
+      "start": 32.88,
+      "end": 33.12
+    },
+    {
+      "char": [
+        "ate"
+      ],
+      "start_offset": 414,
+      "end_offset": 417,
+      "start": 33.12,
+      "end": 33.36
+    },
+    {
+      "char": [
+        "you"
+      ],
+      "start_offset": 417,
+      "end_offset": 419,
+      "start": 33.36,
+      "end": 33.52
+    },
+    {
+      "char": [
+        "But"
+      ],
+      "start_offset": 433,
+      "end_offset": 436,
+      "start": 34.64,
+      "end": 34.88
+    },
+    {
+      "char": [
+        "I"
+      ],
+      "start_offset": 436,
+      "end_offset": 438,
+      "start": 34.88,
+      "end": 35.04
+    },
+    {
+      "char": [
+        "can"
+      ],
+      "start_offset": 438,
+      "end_offset": 440,
+      "start": 35.04,
+      "end": 35.2
+    },
+    {
+      "char": [
+        "'"
+      ],
+      "start_offset": 440,
+      "end_offset": 440,
+      "start": 35.2,
+      "end": 35.2
+    },
+    {
+      "char": [
+        "t"
+      ],
+      "start_offset": 442,
+      "end_offset": 443,
+      "start": 35.36,
+      "end": 35.44
+    },
+    {
+      "char": [
+        "st"
+      ],
+      "start_offset": 443,
+      "end_offset": 445,
+      "start": 35.44,
+      "end": 35.6
+    },
+    {
+      "char": [
+        "and"
+      ],
+      "start_offset": 445,
+      "end_offset": 448,
+      "start": 35.6,
+      "end": 35.84
+    },
+    {
+      "char": [
+        "it"
+      ],
+      "start_offset": 448,
+      "end_offset": 450,
+      "start": 35.84,
+      "end": 36.0
+    },
+    {
+      "char": [
+        "when"
+      ],
+      "start_offset": 450,
+      "end_offset": 453,
+      "start": 36.0,
+      "end": 36.24
+    },
+    {
+      "char": [
+        "you"
+      ],
+      "start_offset": 453,
+      "end_offset": 455,
+      "start": 36.24,
+      "end": 36.4
+    },
+    {
+      "char": [
+        "'"
+      ],
+      "start_offset": 455,
+      "end_offset": 455,
+      "start": 36.4,
+      "end": 36.4
+    },
+    {
+      "char": [
+        "re"
+      ],
+      "start_offset": 457,
+      "end_offset": 460,
+      "start": 36.56,
+      "end": 36.800000000000004
+    },
+    {
+      "char": [
+        "g"
+      ],
+      "start_offset": 460,
+      "end_offset": 464,
+      "start": 36.800000000000004,
+      "end": 37.12
+    },
+    {
+      "char": [
+        "one"
+      ],
+      "start_offset": 464,
+      "end_offset": 468,
+      "start": 37.12,
+      "end": 37.44
+    },
+    {
+      "char": [
+        "So"
+      ],
+      "start_offset": 479,
+      "end_offset": 483,
+      "start": 38.32,
+      "end": 38.64
+    },
+    {
+      "char": [
+        "I"
+      ],
+      "start_offset": 483,
+      "end_offset": 487,
+      "start": 38.64,
+      "end": 38.96
+    },
+    {
+      "char": [
+        "call"
+      ],
+      "start_offset": 487,
+      "end_offset": 491,
+      "start": 38.96,
+      "end": 39.28
+    },
+    {
+      "char": [
+        "you"
+      ],
+      "start_offset": 491,
+      "end_offset": 495,
+      "start": 39.28,
+      "end": 39.6
+    },
+    {
+      "char": [
+        "on"
+      ],
+      "start_offset": 495,
+      "end_offset": 499,
+      "start": 39.6,
+      "end": 39.92
+    },
+    {
+      "char": [
+        "ce"
+      ],
+      "start_offset": 499,
+      "end_offset": 503,
+      "start": 39.92,
+      "end": 40.24
+    },
+    {
+      "char": [
+        "every"
+      ],
+      "start_offset": 503,
+      "end_offset": 507,
+      "start": 40.24,
+      "end": 40.56
+    },
+    {
+      "char": [
+        "h"
+      ],
+      "start_offset": 507,
+      "end_offset": 511,
+      "start": 40.56,
+      "end": 40.88
+    },
+    {
+      "char": [
+        "our"
+      ],
+      "start_offset": 511,
+      "end_offset": 515,
+      "start": 40.88,
+      "end": 41.2
+    },
+    {
+      "char": [
+        "You"
+      ],
+      "start_offset": 558,
+      "end_offset": 562,
+      "start": 44.64,
+      "end": 44.96
+    },
+    {
+      "char": [
+        "got"
+      ],
+      "start_offset": 562,
+      "end_offset": 566,
+      "start": 44.96,
+      "end": 45.28
+    },
+    {
+      "char": [
+        "the"
+      ],
+      "start_offset": 566,
+      "end_offset": 570,
+      "start": 45.28,
+      "end": 45.6
+    },
+    {
+      "char": [
+        "love"
+      ],
+      "start_offset": 570,
+      "end_offset": 574,
+      "start": 45.6,
+      "end": 45.92
+    },
+    {
+      "char": [
+        "I"
+      ],
+      "start_offset": 578,
+      "end_offset": 580,
+      "start": 46.24,
+      "end": 46.4
+    },
+    {
+      "char": [
+        "always"
+      ],
+      "start_offset": 587,
+      "end_offset": 591,
+      "start": 46.96,
+      "end": 47.28
+    },
+    {
+      "char": [
+        "need"
+      ],
+      "start_offset": 595,
+      "end_offset": 598,
+      "start": 47.6,
+      "end": 47.84
+    },
+    {
+      "char": [
+        "T"
+      ],
+      "start_offset": 613,
+      "end_offset": 615,
+      "start": 49.04,
+      "end": 49.2
+    },
+    {
+      "char": [
+        "im"
+      ],
+      "start_offset": 615,
+      "end_offset": 616,
+      "start": 49.2,
+      "end": 49.28
+    },
+    {
+      "char": [
+        "e"
+      ],
+      "start_offset": 618,
+      "end_offset": 619,
+      "start": 49.44,
+      "end": 49.52
+    },
+    {
+      "char": [
+        "made"
+      ],
+      "start_offset": 620,
+      "end_offset": 621,
+      "start": 49.6,
+      "end": 49.68
+    },
+    {
+      "char": [
+        "of"
+      ],
+      "start_offset": 623,
+      "end_offset": 625,
+      "start": 49.84,
+      "end": 50.0
+    },
+    {
+      "char": [
+        "h"
+      ],
+      "start_offset": 625,
+      "end_offset": 627,
+      "start": 50.0,
+      "end": 50.160000000000004
+    },
+    {
+      "char": [
+        "ors"
+      ],
+      "start_offset": 627,
+      "end_offset": 629,
+      "start": 50.160000000000004,
+      "end": 50.32
+    },
+    {
+      "char": [
+        "es"
+      ],
+      "start_offset": 629,
+      "end_offset": 631,
+      "start": 50.32,
+      "end": 50.480000000000004
+    },
+    {
+      "char": [
+        "and"
+      ],
+      "start_offset": 634,
+      "end_offset": 636,
+      "start": 50.72,
+      "end": 50.88
+    },
+    {
+      "char": [
+        "still"
+      ],
+      "start_offset": 640,
+      "end_offset": 644,
+      "start": 51.2,
+      "end": 51.52
+    },
+    {
+      "char": [
+        "would"
+      ],
+      "start_offset": 646,
+      "end_offset": 648,
+      "start": 51.68,
+      "end": 51.84
+    },
+    {
+      "char": [
+        "l"
+      ],
+      "start_offset": 653,
+      "end_offset": 655,
+      "start": 52.24,
+      "end": 52.4
+    },
+    {
+      "char": [
+        "ea"
+      ],
+      "start_offset": 655,
+      "end_offset": 658,
+      "start": 52.4,
+      "end": 52.64
+    },
+    {
+      "char": [
+        "ve"
+      ],
+      "start_offset": 658,
+      "end_offset": 660,
+      "start": 52.64,
+      "end": 52.800000000000004
+    },
+    {
+      "char": [
+        "But"
+      ],
+      "start_offset": 670,
+      "end_offset": 672,
+      "start": 53.6,
+      "end": 53.76
+    },
+    {
+      "char": [
+        "you"
+      ],
+      "start_offset": 672,
+      "end_offset": 674,
+      "start": 53.76,
+      "end": 53.92
+    },
+    {
+      "char": [
+        "'"
+      ],
+      "start_offset": 674,
+      "end_offset": 674,
+      "start": 53.92,
+      "end": 53.92
+    },
+    {
+      "char": [
+        "re"
+      ],
+      "start_offset": 676,
+      "end_offset": 676,
+      "start": 54.08,
+      "end": 54.08
+    },
+    {
+      "char": [
+        "not"
+      ],
+      "start_offset": 676,
+      "end_offset": 679,
+      "start": 54.08,
+      "end": 54.32
+    },
+    {
+      "char": [
+        "an"
+      ],
+      "start_offset": 679,
+      "end_offset": 681,
+      "start": 54.32,
+      "end": 54.480000000000004
+    },
+    {
+      "char": [
+        "e"
+      ],
+      "start_offset": 685,
+      "end_offset": 688,
+      "start": 54.800000000000004,
+      "end": 55.04
+    },
+    {
+      "char": [
+        "as"
+      ],
+      "start_offset": 707,
+      "end_offset": 711,
+      "start": 56.56,
+      "end": 56.88
+    },
+    {
+      "char": [
+        "y"
+      ],
+      "start_offset": 735,
+      "end_offset": 739,
+      "start": 58.800000000000004,
+      "end": 59.120000000000005
+    },
+    {
+      "char": [
+        "lo"
+      ],
+      "start_offset": 739,
+      "end_offset": 743,
+      "start": 59.120000000000005,
+      "end": 59.44
+    },
+    {
+      "char": [
+        "ver"
+      ],
+      "start_offset": 743,
+      "end_offset": 746,
+      "start": 59.44,
+      "end": 59.68
+    },
+    {
+      "char": [
+        "You"
+      ],
+      "start_offset": 804,
+      "end_offset": 806,
+      "start": 64.32000000000001,
+      "end": 64.48
+    },
+    {
+      "char": [
+        "'"
+      ],
+      "start_offset": 806,
+      "end_offset": 806,
+      "start": 64.48,
+      "end": 64.48
+    },
+    {
+      "char": [
+        "re"
+      ],
+      "start_offset": 808,
+      "end_offset": 808,
+      "start": 64.64,
+      "end": 64.64
+    },
+    {
+      "char": [
+        "a"
+      ],
+      "start_offset": 808,
+      "end_offset": 811,
+      "start": 64.64,
+      "end": 64.88
+    },
+    {
+      "char": [
+        "w"
+      ],
+      "start_offset": 811,
+      "end_offset": 815,
+      "start": 64.88,
+      "end": 65.2
+    },
+    {
+      "char": [
+        "ild"
+      ],
+      "start_offset": 815,
+      "end_offset": 819,
+      "start": 65.2,
+      "end": 65.52
+    },
+    {
+      "char": [
+        "f"
+      ],
+      "start_offset": 819,
+      "end_offset": 823,
+      "start": 65.52,
+      "end": 65.84
+    },
+    {
+      "char": [
+        "ire"
+      ],
+      "start_offset": 823,
+      "end_offset": 827,
+      "start": 65.84,
+      "end": 66.16
+    },
+    {
+      "char": [
+        "And"
+      ],
+      "start_offset": 839,
+      "end_offset": 842,
+      "start": 67.12,
+      "end": 67.36
+    },
+    {
+      "char": [
+        "I"
+      ],
+      "start_offset": 842,
+      "end_offset": 843,
+      "start": 67.36,
+      "end": 67.44
+    },
+    {
+      "char": [
+        "'"
+      ],
+      "start_offset": 843,
+      "end_offset": 843,
+      "start": 67.44,
+      "end": 67.44
+    },
+    {
+      "char": [
+        "m"
+      ],
+      "start_offset": 844,
+      "end_offset": 844,
+      "start": 67.52,
+      "end": 67.52
+    },
+    {
+      "char": [
+        "in"
+      ],
+      "start_offset": 844,
+      "end_offset": 847,
+      "start": 67.52,
+      "end": 67.76
+    },
+    {
+      "char": [
+        "your"
+      ],
+      "start_offset": 847,
+      "end_offset": 850,
+      "start": 67.76,
+      "end": 68.0
+    },
+    {
+      "char": [
+        "p"
+      ],
+      "start_offset": 850,
+      "end_offset": 854,
+      "start": 68.0,
+      "end": 68.32000000000001
+    },
+    {
+      "char": [
+        "ath"
+      ],
+      "start_offset": 854,
+      "end_offset": 858,
+      "start": 68.32000000000001,
+      "end": 68.64
+    },
+    {
+      "char": [
+        "I"
+      ],
+      "start_offset": 862,
+      "end_offset": 863,
+      "start": 68.96000000000001,
+      "end": 69.04
+    },
+    {
+      "char": [
+        "'"
+      ],
+      "start_offset": 863,
+      "end_offset": 863,
+      "start": 69.04,
+      "end": 69.04
+    },
+    {
+      "char": [
+        "ve"
+      ],
+      "start_offset": 865,
+      "end_offset": 868,
+      "start": 69.2,
+      "end": 69.44
+    },
+    {
+      "char": [
+        "dec"
+      ],
+      "start_offset": 868,
+      "end_offset": 872,
+      "start": 69.44,
+      "end": 69.76
+    },
+    {
+      "char": [
+        "id"
+      ],
+      "start_offset": 872,
+      "end_offset": 876,
+      "start": 69.76,
+      "end": 70.08
+    },
+    {
+      "char": [
+        "ed"
+      ],
+      "start_offset": 876,
+      "end_offset": 878,
+      "start": 70.08,
+      "end": 70.24
+    },
+    {
+      "char": [
+        "I"
+      ],
+      "start_offset": 880,
+      "end_offset": 883,
+      "start": 70.4,
+      "end": 70.64
+    },
+    {
+      "char": [
+        "w"
+      ],
+      "start_offset": 883,
+      "end_offset": 886,
+      "start": 70.64,
+      "end": 70.88
+    },
+    {
+      "char": [
+        "an"
+      ],
+      "start_offset": 886,
+      "end_offset": 889,
+      "start": 70.88,
+      "end": 71.12
+    },
+    {
+      "char": [
+        "na"
+      ],
+      "start_offset": 889,
+      "end_offset": 893,
+      "start": 71.12,
+      "end": 71.44
+    },
+    {
+      "char": [
+        "keep"
+      ],
+      "start_offset": 893,
+      "end_offset": 896,
+      "start": 71.44,
+      "end": 71.68
+    },
+    {
+      "char": [
+        "on"
+      ],
+      "start_offset": 896,
+      "end_offset": 899,
+      "start": 71.68,
+      "end": 71.92
+    },
+    {
+      "char": [
+        "d"
+      ],
+      "start_offset": 899,
+      "end_offset": 901,
+      "start": 71.92,
+      "end": 72.08
+    },
+    {
+      "char": [
+        "an"
+      ],
+      "start_offset": 901,
+      "end_offset": 903,
+      "start": 72.08,
+      "end": 72.24
+    },
+    {
+      "char": [
+        "c"
+      ],
+      "start_offset": 903,
+      "end_offset": 906,
+      "start": 72.24,
+      "end": 72.48
+    },
+    {
+      "char": [
+        "ing"
+      ],
+      "start_offset": 906,
+      "end_offset": 909,
+      "start": 72.48,
+      "end": 72.72
+    },
+    {
+      "char": [
+        "in"
+      ],
+      "start_offset": 909,
+      "end_offset": 912,
+      "start": 72.72,
+      "end": 72.96000000000001
+    },
+    {
+      "char": [
+        "the"
+      ],
+      "start_offset": 912,
+      "end_offset": 916,
+      "start": 72.96000000000001,
+      "end": 73.28
+    },
+    {
+      "char": [
+        "as"
+      ],
+      "start_offset": 916,
+      "end_offset": 920,
+      "start": 73.28,
+      "end": 73.60000000000001
+    },
+    {
+      "char": [
+        "h"
+      ],
+      "start_offset": 920,
+      "end_offset": 923,
+      "start": 73.60000000000001,
+      "end": 73.84
+    },
+    {
+      "char": [
+        "es"
+      ],
+      "start_offset": 923,
+      "end_offset": 926,
+      "start": 73.84,
+      "end": 74.08
+    },
+    {
+      "char": [
+        "And"
+      ],
+      "start_offset": 934,
+      "end_offset": 937,
+      "start": 74.72,
+      "end": 74.96000000000001
+    },
+    {
+      "char": [
+        "so"
+      ],
+      "start_offset": 937,
+      "end_offset": 938,
+      "start": 74.96000000000001,
+      "end": 75.04
+    },
+    {
+      "char": [
+        "I"
+      ],
+      "start_offset": 941,
+      "end_offset": 945,
+      "start": 75.28,
+      "end": 75.60000000000001
+    },
+    {
+      "char": [
+        "call"
+      ],
+      "start_offset": 945,
+      "end_offset": 949,
+      "start": 75.60000000000001,
+      "end": 75.92
+    },
+    {
+      "char": [
+        "L"
+      ],
+      "start_offset": 956,
+      "end_offset": 958,
+      "start": 76.48,
+      "end": 76.64
+    },
+    {
+      "char": [
+        "et"
+      ],
+      "start_offset": 958,
+      "end_offset": 960,
+      "start": 76.64,
+      "end": 76.8
+    },
+    {
+      "char": [
+        "it"
+      ],
+      "start_offset": 960,
+      "end_offset": 961,
+      "start": 76.8,
+      "end": 76.88
+    },
+    {
+      "char": [
+        "B"
+      ],
+      "start_offset": 963,
+      "end_offset": 965,
+      "start": 77.04,
+      "end": 77.2
+    },
+    {
+      "char": [
+        "ar"
+      ],
+      "start_offset": 968,
+      "end_offset": 972,
+      "start": 77.44,
+      "end": 77.76
+    },
+    {
+      "char": [
+        "You"
+      ],
+      "start_offset": 1015,
+      "end_offset": 1016,
+      "start": 81.2,
+      "end": 81.28
+    },
+    {
+      "char": [
+        "got"
+      ],
+      "start_offset": 1019,
+      "end_offset": 1023,
+      "start": 81.52,
+      "end": 81.84
+    },
+    {
+      "char": [
+        "the"
+      ],
+      "start_offset": 1023,
+      "end_offset": 1027,
+      "start": 81.84,
+      "end": 82.16
+    },
+    {
+      "char": [
+        "love"
+      ],
+      "start_offset": 1027,
+      "end_offset": 1031,
+      "start": 82.16,
+      "end": 82.48
+    },
+    {
+      "char": [
+        "I"
+      ],
+      "start_offset": 1035,
+      "end_offset": 1039,
+      "start": 82.8,
+      "end": 83.12
+    },
+    {
+      "char": [
+        "always"
+      ],
+      "start_offset": 1043,
+      "end_offset": 1047,
+      "start": 83.44,
+      "end": 83.76
+    },
+    {
+      "char": [
+        "need"
+      ],
+      "start_offset": 1055,
+      "end_offset": 1059,
+      "start": 84.4,
+      "end": 84.72
+    },
+    {
+      "char": [
+        "T"
+      ],
+      "start_offset": 1070,
+      "end_offset": 1072,
+      "start": 85.60000000000001,
+      "end": 85.76
+    },
+    {
+      "char": [
+        "im"
+      ],
+      "start_offset": 1072,
+      "end_offset": 1073,
+      "start": 85.76,
+      "end": 85.84
+    },
+    {
+      "char": [
+        "e"
+      ],
+      "start_offset": 1075,
+      "end_offset": 1076,
+      "start": 86.0,
+      "end": 86.08
+    },
+    {
+      "char": [
+        "made"
+      ],
+      "start_offset": 1077,
+      "end_offset": 1078,
+      "start": 86.16,
+      "end": 86.24
+    },
+    {
+      "char": [
+        "of"
+      ],
+      "start_offset": 1080,
+      "end_offset": 1082,
+      "start": 86.4,
+      "end": 86.56
+    },
+    {
+      "char": [
+        "h"
+      ],
+      "start_offset": 1082,
+      "end_offset": 1084,
+      "start": 86.56,
+      "end": 86.72
+    },
+    {
+      "char": [
+        "ors"
+      ],
+      "start_offset": 1084,
+      "end_offset": 1086,
+      "start": 86.72,
+      "end": 86.88
+    },
+    {
+      "char": [
+        "es"
+      ],
+      "start_offset": 1086,
+      "end_offset": 1088,
+      "start": 86.88,
+      "end": 87.04
+    },
+    {
+      "char": [
+        "and"
+      ],
+      "start_offset": 1092,
+      "end_offset": 1094,
+      "start": 87.36,
+      "end": 87.52
+    },
+    {
+      "char": [
+        "still"
+      ],
+      "start_offset": 1096,
+      "end_offset": 1098,
+      "start": 87.68,
+      "end": 87.84
+    },
+    {
+      "char": [
+        "would"
+      ],
+      "start_offset": 1104,
+      "end_offset": 1106,
+      "start": 88.32000000000001,
+      "end": 88.48
+    },
+    {
+      "char": [
+        "l"
+      ],
+      "start_offset": 1111,
+      "end_offset": 1114,
+      "start": 88.88,
+      "end": 89.12
+    },
+    {
+      "char": [
+        "ea"
+      ],
+      "start_offset": 1114,
+      "end_offset": 1116,
+      "start": 89.12,
+      "end": 89.28
+    },
+    {
+      "char": [
+        "ve"
+      ],
+      "start_offset": 1116,
+      "end_offset": 1116,
+      "start": 89.28,
+      "end": 89.28
+    },
+    {
+      "char": [
+        "But"
+      ],
+      "start_offset": 1127,
+      "end_offset": 1130,
+      "start": 90.16,
+      "end": 90.4
+    },
+    {
+      "char": [
+        "you"
+      ],
+      "start_offset": 1130,
+      "end_offset": 1131,
+      "start": 90.4,
+      "end": 90.48
+    },
+    {
+      "char": [
+        "'"
+      ],
+      "start_offset": 1131,
+      "end_offset": 1131,
+      "start": 90.48,
+      "end": 90.48
+    },
+    {
+      "char": [
+        "re"
+      ],
+      "start_offset": 1132,
+      "end_offset": 1134,
+      "start": 90.56,
+      "end": 90.72
+    },
+    {
+      "char": [
+        "not"
+      ],
+      "start_offset": 1134,
+      "end_offset": 1137,
+      "start": 90.72,
+      "end": 90.96000000000001
+    },
+    {
+      "char": [
+        "an"
+      ],
+      "start_offset": 1137,
+      "end_offset": 1139,
+      "start": 90.96000000000001,
+      "end": 91.12
+    },
+    {
+      "char": [
+        "e"
+      ],
+      "start_offset": 1142,
+      "end_offset": 1145,
+      "start": 91.36,
+      "end": 91.60000000000001
+    },
+    {
+      "char": [
+        "as"
+      ],
+      "start_offset": 1169,
+      "end_offset": 1172,
+      "start": 93.52,
+      "end": 93.76
+    },
+    {
+      "char": [
+        "y"
+      ],
+      "start_offset": 1190,
+      "end_offset": 1193,
+      "start": 95.2,
+      "end": 95.44
+    },
+    {
+      "char": [
+        "lo"
+      ],
+      "start_offset": 1196,
+      "end_offset": 1200,
+      "start": 95.68,
+      "end": 96.0
+    },
+    {
+      "char": [
+        "ver"
+      ],
+      "start_offset": 1200,
+      "end_offset": 1203,
+      "start": 96.0,
+      "end": 96.24000000000001
+    },
+    {
+      "char": [
+        "No"
+      ],
+      "start_offset": 1259,
+      "end_offset": 1262,
+      "start": 100.72,
+      "end": 100.96000000000001
+    },
+    {
+      "char": [
+        ","
+      ],
+      "start_offset": 1262,
+      "end_offset": 1262,
+      "start": 100.96000000000001,
+      "end": 100.96000000000001
+    },
+    {
+      "char": [
+        "I"
+      ],
+      "start_offset": 1263,
+      "end_offset": 1265,
+      "start": 101.04,
+      "end": 101.2
+    },
+    {
+      "char": [
+        "just"
+      ],
+      "start_offset": 1265,
+      "end_offset": 1268,
+      "start": 101.2,
+      "end": 101.44
+    },
+    {
+      "char": [
+        "can"
+      ],
+      "start_offset": 1268,
+      "end_offset": 1269,
+      "start": 101.44,
+      "end": 101.52
+    },
+    {
+      "char": [
+        "'"
+      ],
+      "start_offset": 1269,
+      "end_offset": 1269,
+      "start": 101.52,
+      "end": 101.52
+    },
+    {
+      "char": [
+        "t"
+      ],
+      "start_offset": 1270,
+      "end_offset": 1272,
+      "start": 101.60000000000001,
+      "end": 101.76
+    },
+    {
+      "char": [
+        "give"
+      ],
+      "start_offset": 1272,
+      "end_offset": 1274,
+      "start": 101.76,
+      "end": 101.92
+    },
+    {
+      "char": [
+        "you"
+      ],
+      "start_offset": 1275,
+      "end_offset": 1276,
+      "start": 102.0,
+      "end": 102.08
+    },
+    {
+      "char": [
+        "No"
+      ],
+      "start_offset": 1282,
+      "end_offset": 1284,
+      "start": 102.56,
+      "end": 102.72
+    },
+    {
+      "char": [
+        "I"
+      ],
+      "start_offset": 1285,
+      "end_offset": 1287,
+      "start": 102.8,
+      "end": 102.96000000000001
+    },
+    {
+      "char": [
+        "just"
+      ],
+      "start_offset": 1287,
+      "end_offset": 1289,
+      "start": 102.96000000000001,
+      "end": 103.12
+    },
+    {
+      "char": [
+        "can"
+      ],
+      "start_offset": 1289,
+      "end_offset": 1291,
+      "start": 103.12,
+      "end": 103.28
+    },
+    {
+      "char": [
+        "'"
+      ],
+      "start_offset": 1291,
+      "end_offset": 1291,
+      "start": 103.28,
+      "end": 103.28
+    },
+    {
+      "char": [
+        "t"
+      ],
+      "start_offset": 1293,
+      "end_offset": 1293,
+      "start": 103.44,
+      "end": 103.44
+    },
+    {
+      "char": [
+        "give"
+      ],
+      "start_offset": 1293,
+      "end_offset": 1296,
+      "start": 103.44,
+      "end": 103.68
+    },
+    {
+      "char": [
+        "you"
+      ],
+      "start_offset": 1296,
+      "end_offset": 1299,
+      "start": 103.68,
+      "end": 103.92
+    },
+    {
+      "char": [
+        "up"
+      ],
+      "start_offset": 1299,
+      "end_offset": 1303,
+      "start": 103.92,
+      "end": 104.24000000000001
+    },
+    {
+      "char": [
+        "No"
+      ],
+      "start_offset": 1317,
+      "end_offset": 1319,
+      "start": 105.36,
+      "end": 105.52
+    },
+    {
+      "char": [
+        ","
+      ],
+      "start_offset": 1319,
+      "end_offset": 1319,
+      "start": 105.52,
+      "end": 105.52
+    },
+    {
+      "char": [
+        "I"
+      ],
+      "start_offset": 1320,
+      "end_offset": 1322,
+      "start": 105.60000000000001,
+      "end": 105.76
+    },
+    {
+      "char": [
+        "just"
+      ],
+      "start_offset": 1322,
+      "end_offset": 1325,
+      "start": 105.76,
+      "end": 106.0
+    },
+    {
+      "char": [
+        "can"
+      ],
+      "start_offset": 1325,
+      "end_offset": 1326,
+      "start": 106.0,
+      "end": 106.08
+    },
+    {
+      "char": [
+        "'"
+      ],
+      "start_offset": 1326,
+      "end_offset": 1326,
+      "start": 106.08,
+      "end": 106.08
+    },
+    {
+      "char": [
+        "t"
+      ],
+      "start_offset": 1327,
+      "end_offset": 1329,
+      "start": 106.16,
+      "end": 106.32000000000001
+    },
+    {
+      "char": [
+        "give"
+      ],
+      "start_offset": 1329,
+      "end_offset": 1331,
+      "start": 106.32000000000001,
+      "end": 106.48
+    },
+    {
+      "char": [
+        "you"
+      ],
+      "start_offset": 1332,
+      "end_offset": 1333,
+      "start": 106.56,
+      "end": 106.64
+    },
+    {
+      "char": [
+        "No"
+      ],
+      "start_offset": 1339,
+      "end_offset": 1341,
+      "start": 107.12,
+      "end": 107.28
+    },
+    {
+      "char": [
+        "I"
+      ],
+      "start_offset": 1342,
+      "end_offset": 1344,
+      "start": 107.36,
+      "end": 107.52
+    },
+    {
+      "char": [
+        "just"
+      ],
+      "start_offset": 1344,
+      "end_offset": 1346,
+      "start": 107.52,
+      "end": 107.68
+    },
+    {
+      "char": [
+        "can"
+      ],
+      "start_offset": 1346,
+      "end_offset": 1348,
+      "start": 107.68,
+      "end": 107.84
+    },
+    {
+      "char": [
+        "'"
+      ],
+      "start_offset": 1348,
+      "end_offset": 1348,
+      "start": 107.84,
+      "end": 107.84
+    },
+    {
+      "char": [
+        "t"
+      ],
+      "start_offset": 1350,
+      "end_offset": 1350,
+      "start": 108.0,
+      "end": 108.0
+    },
+    {
+      "char": [
+        "give"
+      ],
+      "start_offset": 1350,
+      "end_offset": 1352,
+      "start": 108.0,
+      "end": 108.16
+    },
+    {
+      "char": [
+        "you"
+      ],
+      "start_offset": 1353,
+      "end_offset": 1354,
+      "start": 108.24000000000001,
+      "end": 108.32000000000001
+    },
+    {
+      "char": [
+        "up"
+      ],
+      "start_offset": 1355,
+      "end_offset": 1358,
+      "start": 108.4,
+      "end": 108.64
+    },
+    {
+      "char": [
+        "But"
+      ],
+      "start_offset": 1362,
+      "end_offset": 1364,
+      "start": 108.96000000000001,
+      "end": 109.12
+    },
+    {
+      "char": [
+        "you"
+      ],
+      "start_offset": 1364,
+      "end_offset": 1365,
+      "start": 109.12,
+      "end": 109.2
+    },
+    {
+      "char": [
+        "'"
+      ],
+      "start_offset": 1365,
+      "end_offset": 1365,
+      "start": 109.2,
+      "end": 109.2
+    },
+    {
+      "char": [
+        "re"
+      ],
+      "start_offset": 1367,
+      "end_offset": 1367,
+      "start": 109.36,
+      "end": 109.36
+    },
+    {
+      "char": [
+        "not"
+      ],
+      "start_offset": 1367,
+      "end_offset": 1369,
+      "start": 109.36,
+      "end": 109.52
+    },
+    {
+      "char": [
+        "an"
+      ],
+      "start_offset": 1369,
+      "end_offset": 1371,
+      "start": 109.52,
+      "end": 109.68
+    },
+    {
+      "char": [
+        "e"
+      ],
+      "start_offset": 1373,
+      "end_offset": 1376,
+      "start": 109.84,
+      "end": 110.08
+    },
+    {
+      "char": [
+        "as"
+      ],
+      "start_offset": 1403,
+      "end_offset": 1406,
+      "start": 112.24000000000001,
+      "end": 112.48
+    },
+    {
+      "char": [
+        "y"
+      ],
+      "start_offset": 1420,
+      "end_offset": 1424,
+      "start": 113.60000000000001,
+      "end": 113.92
+    },
+    {
+      "char": [
+        "lo"
+      ],
+      "start_offset": 1424,
+      "end_offset": 1428,
+      "start": 113.92,
+      "end": 114.24000000000001
+    },
+    {
+      "char": [
+        "ver"
+      ],
+      "start_offset": 1428,
+      "end_offset": 1431,
+      "start": 114.24000000000001,
+      "end": 114.48
+    },
+    {
+      "char": [
+        "You"
+      ],
+      "start_offset": 1492,
+      "end_offset": 1494,
+      "start": 119.36,
+      "end": 119.52
+    },
+    {
+      "char": [
+        "got"
+      ],
+      "start_offset": 1494,
+      "end_offset": 1496,
+      "start": 119.52,
+      "end": 119.68
+    },
+    {
+      "char": [
+        "the"
+      ],
+      "start_offset": 1496,
+      "end_offset": 1499,
+      "start": 119.68,
+      "end": 119.92
+    },
+    {
+      "char": [
+        "love"
+      ],
+      "start_offset": 1499,
+      "end_offset": 1502,
+      "start": 119.92,
+      "end": 120.16
+    },
+    {
+      "char": [
+        "I"
+      ],
+      "start_offset": 1504,
+      "end_offset": 1508,
+      "start": 120.32000000000001,
+      "end": 120.64
+    },
+    {
+      "char": [
+        "always"
+      ],
+      "start_offset": 1508,
+      "end_offset": 1512,
+      "start": 120.64,
+      "end": 120.96000000000001
+    },
+    {
+      "char": [
+        "need"
+      ],
+      "start_offset": 1512,
+      "end_offset": 1515,
+      "start": 120.96000000000001,
+      "end": 121.2
+    },
+    {
+      "char": [
+        "T"
+      ],
+      "start_offset": 1547,
+      "end_offset": 1548,
+      "start": 123.76,
+      "end": 123.84
+    },
+    {
+      "char": [
+        "im"
+      ],
+      "start_offset": 1549,
+      "end_offset": 1550,
+      "start": 123.92,
+      "end": 124.0
+    },
+    {
+      "char": [
+        "e"
+      ],
+      "start_offset": 1550,
+      "end_offset": 1551,
+      "start": 124.0,
+      "end": 124.08
+    },
+    {
+      "char": [
+        "made"
+      ],
+      "start_offset": 1552,
+      "end_offset": 1553,
+      "start": 124.16,
+      "end": 124.24000000000001
+    },
+    {
+      "char": [
+        "a"
+      ],
+      "start_offset": 1554,
+      "end_offset": 1555,
+      "start": 124.32000000000001,
+      "end": 124.4
+    },
+    {
+      "char": [
+        "h"
+      ],
+      "start_offset": 1556,
+      "end_offset": 1557,
+      "start": 124.48,
+      "end": 124.56
+    },
+    {
+      "char": [
+        "or"
+      ],
+      "start_offset": 1557,
+      "end_offset": 1558,
+      "start": 124.56,
+      "end": 124.64
+    },
+    {
+      "char": [
+        "se"
+      ],
+      "start_offset": 1558,
+      "end_offset": 1558,
+      "start": 124.64,
+      "end": 124.64
+    },
+    {
+      "char": [
+        "and"
+      ],
+      "start_offset": 1559,
+      "end_offset": 1560,
+      "start": 124.72,
+      "end": 124.8
+    },
+    {
+      "char": [
+        "I"
+      ],
+      "start_offset": 1561,
+      "end_offset": 1563,
+      "start": 124.88000000000001,
+      "end": 125.04
+    },
+    {
+      "char": [
+        "still"
+      ],
+      "start_offset": 1563,
+      "end_offset": 1566,
+      "start": 125.04,
+      "end": 125.28
+    },
+    {
+      "char": [
+        "would"
+      ],
+      "start_offset": 1566,
+      "end_offset": 1568,
+      "start": 125.28,
+      "end": 125.44
+    },
+    {
+      "char": [
+        "l"
+      ],
+      "start_offset": 1569,
+      "end_offset": 1571,
+      "start": 125.52,
+      "end": 125.68
+    },
+    {
+      "char": [
+        "ea"
+      ],
+      "start_offset": 1571,
+      "end_offset": 1573,
+      "start": 125.68,
+      "end": 125.84
+    },
+    {
+      "char": [
+        "ve"
+      ],
+      "start_offset": 1573,
+      "end_offset": 1573,
+      "start": 125.84,
+      "end": 125.84
+    },
+    {
+      "char": [
+        "you"
+      ],
+      "start_offset": 1573,
+      "end_offset": 1574,
+      "start": 125.84,
+      "end": 125.92
+    },
+    {
+      "char": [
+        "But"
+      ],
+      "start_offset": 1590,
+      "end_offset": 1592,
+      "start": 127.2,
+      "end": 127.36
+    },
+    {
+      "char": [
+        "you"
+      ],
+      "start_offset": 1592,
+      "end_offset": 1593,
+      "start": 127.36,
+      "end": 127.44
+    },
+    {
+      "char": [
+        "'"
+      ],
+      "start_offset": 1593,
+      "end_offset": 1593,
+      "start": 127.44,
+      "end": 127.44
+    },
+    {
+      "char": [
+        "re"
+      ],
+      "start_offset": 1594,
+      "end_offset": 1595,
+      "start": 127.52,
+      "end": 127.60000000000001
+    },
+    {
+      "char": [
+        "not"
+      ],
+      "start_offset": 1595,
+      "end_offset": 1597,
+      "start": 127.60000000000001,
+      "end": 127.76
+    },
+    {
+      "char": [
+        "an"
+      ],
+      "start_offset": 1597,
+      "end_offset": 1599,
+      "start": 127.76,
+      "end": 127.92
+    },
+    {
+      "char": [
+        "e"
+      ],
+      "start_offset": 1602,
+      "end_offset": 1605,
+      "start": 128.16,
+      "end": 128.4
+    },
+    {
+      "char": [
+        "as"
+      ],
+      "start_offset": 1605,
+      "end_offset": 1609,
+      "start": 128.4,
+      "end": 128.72
+    },
+    {
+      "char": [
+        "y"
+      ],
+      "start_offset": 1609,
+      "end_offset": 1612,
+      "start": 128.72,
+      "end": 128.96
+    },
+    {
+      "char": [
+        "lo"
+      ],
+      "start_offset": 1653,
+      "end_offset": 1657,
+      "start": 132.24,
+      "end": 132.56
+    },
+    {
+      "char": [
+        "ver"
+      ],
+      "start_offset": 1657,
+      "end_offset": 1660,
+      "start": 132.56,
+      "end": 132.8
+    },
+    {
+      "char": [
+        "You"
+      ],
+      "start_offset": 1700,
+      "end_offset": 1701,
+      "start": 136.0,
+      "end": 136.08
+    },
+    {
+      "char": [
+        "'"
+      ],
+      "start_offset": 1701,
+      "end_offset": 1701,
+      "start": 136.08,
+      "end": 136.08
+    },
+    {
+      "char": [
+        "ll"
+      ],
+      "start_offset": 1703,
+      "end_offset": 1705,
+      "start": 136.24,
+      "end": 136.4
+    },
+    {
+      "char": [
+        "make"
+      ],
+      "start_offset": 1705,
+      "end_offset": 1709,
+      "start": 136.4,
+      "end": 136.72
+    },
+    {
+      "char": [
+        "it"
+      ],
+      "start_offset": 1709,
+      "end_offset": 1712,
+      "start": 136.72,
+      "end": 136.96
+    },
+    {
+      "char": [
+        "h"
+      ],
+      "start_offset": 1712,
+      "end_offset": 1716,
+      "start": 136.96,
+      "end": 137.28
+    },
+    {
+      "char": [
+        "ard"
+      ],
+      "start_offset": 1716,
+      "end_offset": 1720,
+      "start": 137.28,
+      "end": 137.6
+    },
+    {
+      "char": [
+        "to"
+      ],
+      "start_offset": 1720,
+      "end_offset": 1724,
+      "start": 137.6,
+      "end": 137.92000000000002
+    },
+    {
+      "char": [
+        "t"
+      ],
+      "start_offset": 1724,
+      "end_offset": 1727,
+      "start": 137.92000000000002,
+      "end": 138.16
+    },
+    {
+      "char": [
+        "ou"
+      ],
+      "start_offset": 1727,
+      "end_offset": 1730,
+      "start": 138.16,
+      "end": 138.4
+    },
+    {
+      "char": [
+        "ch"
+      ],
+      "start_offset": 1730,
+      "end_offset": 1732,
+      "start": 138.4,
+      "end": 138.56
+    },
+    {
+      "char": [
+        "her"
+      ],
+      "start_offset": 1734,
+      "end_offset": 1737,
+      "start": 138.72,
+      "end": 138.96
+    },
+    {
+      "char": [
+        "any"
+      ],
+      "start_offset": 1759,
+      "end_offset": 1761,
+      "start": 140.72,
+      "end": 140.88
+    },
+    {
+      "char": [
+        "thing"
+      ],
+      "start_offset": 1763,
+      "end_offset": 1765,
+      "start": 141.04,
+      "end": 141.20000000000002
+    },
+    {
+      "char": [
+        "go"
+      ],
+      "start_offset": 1769,
+      "end_offset": 1773,
+      "start": 141.52,
+      "end": 141.84
+    },
+    {
+      "char": [
+        "es"
+      ],
+      "start_offset": 1773,
+      "end_offset": 1776,
+      "start": 141.84,
+      "end": 142.08
+    },
+    {
+      "char": [
+        "when"
+      ],
+      "start_offset": 1776,
+      "end_offset": 1779,
+      "start": 142.08,
+      "end": 142.32
+    },
+    {
+      "char": [
+        "we"
+      ],
+      "start_offset": 1779,
+      "end_offset": 1781,
+      "start": 142.32,
+      "end": 142.48
+    },
+    {
+      "char": [
+        "'"
+      ],
+      "start_offset": 1781,
+      "end_offset": 1781,
+      "start": 142.48,
+      "end": 142.48
+    },
+    {
+      "char": [
+        "re"
+      ],
+      "start_offset": 1782,
+      "end_offset": 1785,
+      "start": 142.56,
+      "end": 142.8
+    },
+    {
+      "char": [
+        "under"
+      ],
+      "start_offset": 1785,
+      "end_offset": 1789,
+      "start": 142.8,
+      "end": 143.12
+    },
+    {
+      "char": [
+        "the"
+      ],
+      "start_offset": 1792,
+      "end_offset": 1796,
+      "start": 143.36,
+      "end": 143.68
+    },
+    {
+      "char": [
+        "c"
+      ],
+      "start_offset": 1796,
+      "end_offset": 1798,
+      "start": 143.68,
+      "end": 143.84
+    },
+    {
+      "char": [
+        "u"
+      ],
+      "start_offset": 1798,
+      "end_offset": 1800,
+      "start": 143.84,
+      "end": 144.0
+    },
+    {
+      "char": [
+        "p"
+      ],
+      "start_offset": 1800,
+      "end_offset": 1802,
+      "start": 144.0,
+      "end": 144.16
+    },
+    {
+      "char": [
+        "s"
+      ],
+      "start_offset": 1802,
+      "end_offset": 1804,
+      "start": 144.16,
+      "end": 144.32
+    },
+    {
+      "char": [
+        "But"
+      ],
+      "start_offset": 1819,
+      "end_offset": 1821,
+      "start": 145.52,
+      "end": 145.68
+    },
+    {
+      "char": [
+        "you"
+      ],
+      "start_offset": 1821,
+      "end_offset": 1822,
+      "start": 145.68,
+      "end": 145.76
+    },
+    {
+      "char": [
+        "'"
+      ],
+      "start_offset": 1822,
+      "end_offset": 1822,
+      "start": 145.76,
+      "end": 145.76
+    },
+    {
+      "char": [
+        "re"
+      ],
+      "start_offset": 1823,
+      "end_offset": 1824,
+      "start": 145.84,
+      "end": 145.92000000000002
+    },
+    {
+      "char": [
+        "not"
+      ],
+      "start_offset": 1824,
+      "end_offset": 1826,
+      "start": 145.92000000000002,
+      "end": 146.08
+    },
+    {
+      "char": [
+        "an"
+      ],
+      "start_offset": 1826,
+      "end_offset": 1828,
+      "start": 146.08,
+      "end": 146.24
+    },
+    {
+      "char": [
+        "e"
+      ],
+      "start_offset": 1831,
+      "end_offset": 1834,
+      "start": 146.48,
+      "end": 146.72
+    },
+    {
+      "char": [
+        "as"
+      ],
+      "start_offset": 1845,
+      "end_offset": 1846,
+      "start": 147.6,
+      "end": 147.68
+    },
+    {
+      "char": [
+        "y"
+      ],
+      "start_offset": 1846,
+      "end_offset": 1849,
+      "start": 147.68,
+      "end": 147.92000000000002
+    },
+    {
+      "char": [
+        "lo"
+      ],
+      "start_offset": 1881,
+      "end_offset": 1885,
+      "start": 150.48,
+      "end": 150.8
+    },
+    {
+      "char": [
+        "ver"
+      ],
+      "start_offset": 1885,
+      "end_offset": 1888,
+      "start": 150.8,
+      "end": 151.04
+    },
+    {
+      "char": [
+        "No"
+      ],
+      "start_offset": 1945,
+      "end_offset": 1947,
+      "start": 155.6,
+      "end": 155.76
+    },
+    {
+      "char": [
+        ","
+      ],
+      "start_offset": 1947,
+      "end_offset": 1947,
+      "start": 155.76,
+      "end": 155.76
+    },
+    {
+      "char": [
+        "I"
+      ],
+      "start_offset": 1949,
+      "end_offset": 1950,
+      "start": 155.92000000000002,
+      "end": 156.0
+    },
+    {
+      "char": [
+        "just"
+      ],
+      "start_offset": 1950,
+      "end_offset": 1953,
+      "start": 156.0,
+      "end": 156.24
+    },
+    {
+      "char": [
+        "can"
+      ],
+      "start_offset": 1953,
+      "end_offset": 1955,
+      "start": 156.24,
+      "end": 156.4
+    },
+    {
+      "char": [
+        "'"
+      ],
+      "start_offset": 1955,
+      "end_offset": 1955,
+      "start": 156.4,
+      "end": 156.4
+    },
+    {
+      "char": [
+        "t"
+      ],
+      "start_offset": 1957,
+      "end_offset": 1957,
+      "start": 156.56,
+      "end": 156.56
+    },
+    {
+      "char": [
+        "give"
+      ],
+      "start_offset": 1957,
+      "end_offset": 1959,
+      "start": 156.56,
+      "end": 156.72
+    },
+    {
+      "char": [
+        "up"
+      ],
+      "start_offset": 1962,
+      "end_offset": 1963,
+      "start": 156.96,
+      "end": 157.04
+    },
+    {
+      "char": [
+        "No"
+      ],
+      "start_offset": 1967,
+      "end_offset": 1969,
+      "start": 157.36,
+      "end": 157.52
+    },
+    {
+      "char": [
+        ","
+      ],
+      "start_offset": 1969,
+      "end_offset": 1969,
+      "start": 157.52,
+      "end": 157.52
+    },
+    {
+      "char": [
+        "I"
+      ],
+      "start_offset": 1971,
+      "end_offset": 1972,
+      "start": 157.68,
+      "end": 157.76
+    },
+    {
+      "char": [
+        "just"
+      ],
+      "start_offset": 1972,
+      "end_offset": 1974,
+      "start": 157.76,
+      "end": 157.92000000000002
+    },
+    {
+      "char": [
+        "can"
+      ],
+      "start_offset": 1974,
+      "end_offset": 1976,
+      "start": 157.92000000000002,
+      "end": 158.08
+    },
+    {
+      "char": [
+        "'"
+      ],
+      "start_offset": 1976,
+      "end_offset": 1976,
+      "start": 158.08,
+      "end": 158.08
+    },
+    {
+      "char": [
+        "t"
+      ],
+      "start_offset": 1977,
+      "end_offset": 1979,
+      "start": 158.16,
+      "end": 158.32
+    },
+    {
+      "char": [
+        "give"
+      ],
+      "start_offset": 1979,
+      "end_offset": 1981,
+      "start": 158.32,
+      "end": 158.48
+    },
+    {
+      "char": [
+        "you"
+      ],
+      "start_offset": 1981,
+      "end_offset": 1983,
+      "start": 158.48,
+      "end": 158.64000000000001
+    },
+    {
+      "char": [
+        "up"
+      ],
+      "start_offset": 1983,
+      "end_offset": 1985,
+      "start": 158.64000000000001,
+      "end": 158.8
+    },
+    {
+      "char": [
+        "No"
+      ],
+      "start_offset": 2003,
+      "end_offset": 2004,
+      "start": 160.24,
+      "end": 160.32
+    },
+    {
+      "char": [
+        ","
+      ],
+      "start_offset": 2004,
+      "end_offset": 2004,
+      "start": 160.32,
+      "end": 160.32
+    },
+    {
+      "char": [
+        "I"
+      ],
+      "start_offset": 2006,
+      "end_offset": 2008,
+      "start": 160.48,
+      "end": 160.64000000000001
+    },
+    {
+      "char": [
+        "just"
+      ],
+      "start_offset": 2008,
+      "end_offset": 2011,
+      "start": 160.64000000000001,
+      "end": 160.88
+    },
+    {
+      "char": [
+        "can"
+      ],
+      "start_offset": 2011,
+      "end_offset": 2012,
+      "start": 160.88,
+      "end": 160.96
+    },
+    {
+      "char": [
+        "'"
+      ],
+      "start_offset": 2012,
+      "end_offset": 2012,
+      "start": 160.96,
+      "end": 160.96
+    },
+    {
+      "char": [
+        "t"
+      ],
+      "start_offset": 2013,
+      "end_offset": 2015,
+      "start": 161.04,
+      "end": 161.20000000000002
+    },
+    {
+      "char": [
+        "give"
+      ],
+      "start_offset": 2015,
+      "end_offset": 2017,
+      "start": 161.20000000000002,
+      "end": 161.36
+    },
+    {
+      "char": [
+        "up"
+      ],
+      "start_offset": 2019,
+      "end_offset": 2021,
+      "start": 161.52,
+      "end": 161.68
+    },
+    {
+      "char": [
+        "No"
+      ],
+      "start_offset": 2025,
+      "end_offset": 2027,
+      "start": 162.0,
+      "end": 162.16
+    },
+    {
+      "char": [
+        ","
+      ],
+      "start_offset": 2027,
+      "end_offset": 2027,
+      "start": 162.16,
+      "end": 162.16
+    },
+    {
+      "char": [
+        "I"
+      ],
+      "start_offset": 2028,
+      "end_offset": 2029,
+      "start": 162.24,
+      "end": 162.32
+    },
+    {
+      "char": [
+        "just"
+      ],
+      "start_offset": 2029,
+      "end_offset": 2032,
+      "start": 162.32,
+      "end": 162.56
+    },
+    {
+      "char": [
+        "can"
+      ],
+      "start_offset": 2032,
+      "end_offset": 2033,
+      "start": 162.56,
+      "end": 162.64000000000001
+    },
+    {
+      "char": [
+        "'"
+      ],
+      "start_offset": 2033,
+      "end_offset": 2033,
+      "start": 162.64000000000001,
+      "end": 162.64000000000001
+    },
+    {
+      "char": [
+        "t"
+      ],
+      "start_offset": 2034,
+      "end_offset": 2036,
+      "start": 162.72,
+      "end": 162.88
+    },
+    {
+      "char": [
+        "give"
+      ],
+      "start_offset": 2036,
+      "end_offset": 2038,
+      "start": 162.88,
+      "end": 163.04
+    },
+    {
+      "char": [
+        "you"
+      ],
+      "start_offset": 2038,
+      "end_offset": 2040,
+      "start": 163.04,
+      "end": 163.20000000000002
+    },
+    {
+      "char": [
+        "up"
+      ],
+      "start_offset": 2040,
+      "end_offset": 2040,
+      "start": 163.20000000000002,
+      "end": 163.20000000000002
+    },
+    {
+      "char": [
+        "But"
+      ],
+      "start_offset": 2047,
+      "end_offset": 2049,
+      "start": 163.76,
+      "end": 163.92000000000002
+    },
+    {
+      "char": [
+        "you"
+      ],
+      "start_offset": 2049,
+      "end_offset": 2050,
+      "start": 163.92000000000002,
+      "end": 164.0
+    },
+    {
+      "char": [
+        "'"
+      ],
+      "start_offset": 2050,
+      "end_offset": 2050,
+      "start": 164.0,
+      "end": 164.0
+    },
+    {
+      "char": [
+        "re"
+      ],
+      "start_offset": 2051,
+      "end_offset": 2052,
+      "start": 164.08,
+      "end": 164.16
+    },
+    {
+      "char": [
+        "not"
+      ],
+      "start_offset": 2052,
+      "end_offset": 2054,
+      "start": 164.16,
+      "end": 164.32
+    },
+    {
+      "char": [
+        "an"
+      ],
+      "start_offset": 2054,
+      "end_offset": 2056,
+      "start": 164.32,
+      "end": 164.48
+    },
+    {
+      "char": [
+        "e"
+      ],
+      "start_offset": 2059,
+      "end_offset": 2062,
+      "start": 164.72,
+      "end": 164.96
+    },
+    {
+      "char": [
+        "as"
+      ],
+      "start_offset": 2062,
+      "end_offset": 2065,
+      "start": 164.96,
+      "end": 165.20000000000002
+    },
+    {
+      "char": [
+        "y"
+      ],
+      "start_offset": 2105,
+      "end_offset": 2109,
+      "start": 168.4,
+      "end": 168.72
+    },
+    {
+      "char": [
+        "lo"
+      ],
+      "start_offset": 2109,
+      "end_offset": 2112,
+      "start": 168.72,
+      "end": 168.96
+    },
+    {
+      "char": [
+        "ver"
+      ],
+      "start_offset": 2112,
+      "end_offset": 2114,
+      "start": 168.96,
+      "end": 169.12
+    },
+    {
+      "char": [
+        "J"
+      ],
+      "start_offset": 2122,
+      "end_offset": 2123,
+      "start": 169.76,
+      "end": 169.84
+    },
+    {
+      "char": [
+        "ust"
+      ],
+      "start_offset": 2123,
+      "end_offset": 2125,
+      "start": 169.84,
+      "end": 170.0
+    },
+    {
+      "char": [
+        "can"
+      ],
+      "start_offset": 2125,
+      "end_offset": 2126,
+      "start": 170.0,
+      "end": 170.08
+    },
+    {
+      "char": [
+        "'"
+      ],
+      "start_offset": 2126,
+      "end_offset": 2126,
+      "start": 170.08,
+      "end": 170.08
+    },
+    {
+      "char": [
+        "t"
+      ],
+      "start_offset": 2127,
+      "end_offset": 2129,
+      "start": 170.16,
+      "end": 170.32
+    },
+    {
+      "char": [
+        "give"
+      ],
+      "start_offset": 2129,
+      "end_offset": 2131,
+      "start": 170.32,
+      "end": 170.48
+    },
+    {
+      "char": [
+        "up"
+      ],
+      "start_offset": 2133,
+      "end_offset": 2134,
+      "start": 170.64000000000001,
+      "end": 170.72
+    },
+    {
+      "char": [
+        "No"
+      ],
+      "start_offset": 2139,
+      "end_offset": 2141,
+      "start": 171.12,
+      "end": 171.28
+    },
+    {
+      "char": [
+        ","
+      ],
+      "start_offset": 2141,
+      "end_offset": 2141,
+      "start": 171.28,
+      "end": 171.28
+    },
+    {
+      "char": [
+        "I"
+      ],
+      "start_offset": 2142,
+      "end_offset": 2143,
+      "start": 171.36,
+      "end": 171.44
+    },
+    {
+      "char": [
+        "just"
+      ],
+      "start_offset": 2143,
+      "end_offset": 2146,
+      "start": 171.44,
+      "end": 171.68
+    },
+    {
+      "char": [
+        "can"
+      ],
+      "start_offset": 2146,
+      "end_offset": 2147,
+      "start": 171.68,
+      "end": 171.76
+    },
+    {
+      "char": [
+        "'"
+      ],
+      "start_offset": 2147,
+      "end_offset": 2147,
+      "start": 171.76,
+      "end": 171.76
+    },
+    {
+      "char": [
+        "t"
+      ],
+      "start_offset": 2148,
+      "end_offset": 2150,
+      "start": 171.84,
+      "end": 172.0
+    },
+    {
+      "char": [
+        "give"
+      ],
+      "start_offset": 2150,
+      "end_offset": 2153,
+      "start": 172.0,
+      "end": 172.24
+    },
+    {
+      "char": [
+        "you"
+      ],
+      "start_offset": 2153,
+      "end_offset": 2156,
+      "start": 172.24,
+      "end": 172.48
+    },
+    {
+      "char": [
+        "up"
+      ],
+      "start_offset": 2156,
+      "end_offset": 2160,
+      "start": 172.48,
+      "end": 172.8
+    },
+    {
+      "char": [
+        "No"
+      ],
+      "start_offset": 2174,
+      "end_offset": 2176,
+      "start": 173.92000000000002,
+      "end": 174.08
+    },
+    {
+      "char": [
+        ","
+      ],
+      "start_offset": 2176,
+      "end_offset": 2176,
+      "start": 174.08,
+      "end": 174.08
+    },
+    {
+      "char": [
+        "I"
+      ],
+      "start_offset": 2177,
+      "end_offset": 2179,
+      "start": 174.16,
+      "end": 174.32
+    },
+    {
+      "char": [
+        "just"
+      ],
+      "start_offset": 2179,
+      "end_offset": 2182,
+      "start": 174.32,
+      "end": 174.56
+    },
+    {
+      "char": [
+        "can"
+      ],
+      "start_offset": 2182,
+      "end_offset": 2183,
+      "start": 174.56,
+      "end": 174.64000000000001
+    },
+    {
+      "char": [
+        "'"
+      ],
+      "start_offset": 2183,
+      "end_offset": 2183,
+      "start": 174.64000000000001,
+      "end": 174.64000000000001
+    },
+    {
+      "char": [
+        "t"
+      ],
+      "start_offset": 2184,
+      "end_offset": 2186,
+      "start": 174.72,
+      "end": 174.88
+    },
+    {
+      "char": [
+        "give"
+      ],
+      "start_offset": 2186,
+      "end_offset": 2188,
+      "start": 174.88,
+      "end": 175.04
+    },
+    {
+      "char": [
+        "up"
+      ],
+      "start_offset": 2190,
+      "end_offset": 2191,
+      "start": 175.20000000000002,
+      "end": 175.28
+    },
+    {
+      "char": [
+        "No"
+      ],
+      "start_offset": 2196,
+      "end_offset": 2198,
+      "start": 175.68,
+      "end": 175.84
+    },
+    {
+      "char": [
+        "I"
+      ],
+      "start_offset": 2199,
+      "end_offset": 2201,
+      "start": 175.92000000000002,
+      "end": 176.08
+    },
+    {
+      "char": [
+        "just"
+      ],
+      "start_offset": 2201,
+      "end_offset": 2203,
+      "start": 176.08,
+      "end": 176.24
+    },
+    {
+      "char": [
+        "can"
+      ],
+      "start_offset": 2203,
+      "end_offset": 2205,
+      "start": 176.24,
+      "end": 176.4
+    },
+    {
+      "char": [
+        "'"
+      ],
+      "start_offset": 2205,
+      "end_offset": 2205,
+      "start": 176.4,
+      "end": 176.4
+    },
+    {
+      "char": [
+        "t"
+      ],
+      "start_offset": 2206,
+      "end_offset": 2208,
+      "start": 176.48,
+      "end": 176.64000000000001
+    },
+    {
+      "char": [
+        "give"
+      ],
+      "start_offset": 2208,
+      "end_offset": 2210,
+      "start": 176.64000000000001,
+      "end": 176.8
+    },
+    {
+      "char": [
+        "you"
+      ],
+      "start_offset": 2210,
+      "end_offset": 2211,
+      "start": 176.8,
+      "end": 176.88
+    },
+    {
+      "char": [
+        "up"
+      ],
+      "start_offset": 2211,
+      "end_offset": 2212,
+      "start": 176.88,
+      "end": 176.96
+    },
+    {
+      "char": [
+        "But"
+      ],
+      "start_offset": 2219,
+      "end_offset": 2221,
+      "start": 177.52,
+      "end": 177.68
+    },
+    {
+      "char": [
+        "you"
+      ],
+      "start_offset": 2221,
+      "end_offset": 2222,
+      "start": 177.68,
+      "end": 177.76
+    },
+    {
+      "char": [
+        "'"
+      ],
+      "start_offset": 2222,
+      "end_offset": 2222,
+      "start": 177.76,
+      "end": 177.76
+    },
+    {
+      "char": [
+        "re"
+      ],
+      "start_offset": 2224,
+      "end_offset": 2224,
+      "start": 177.92000000000002,
+      "end": 177.92000000000002
+    },
+    {
+      "char": [
+        "not"
+      ],
+      "start_offset": 2224,
+      "end_offset": 2226,
+      "start": 177.92000000000002,
+      "end": 178.08
+    },
+    {
+      "char": [
+        "an"
+      ],
+      "start_offset": 2226,
+      "end_offset": 2229,
+      "start": 178.08,
+      "end": 178.32
+    },
+    {
+      "char": [
+        "e"
+      ],
+      "start_offset": 2229,
+      "end_offset": 2231,
+      "start": 178.32,
+      "end": 178.48
+    },
+    {
+      "char": [
+        "as"
+      ],
+      "start_offset": 2234,
+      "end_offset": 2238,
+      "start": 178.72,
+      "end": 179.04
+    },
+    {
+      "char": [
+        "y"
+      ],
+      "start_offset": 2276,
+      "end_offset": 2280,
+      "start": 182.08,
+      "end": 182.4
+    },
+    {
+      "char": [
+        "lo"
+      ],
+      "start_offset": 2280,
+      "end_offset": 2284,
+      "start": 182.4,
+      "end": 182.72
+    },
+    {
+      "char": [
+        "ver"
+      ],
+      "start_offset": 2284,
+      "end_offset": 2287,
+      "start": 182.72,
+      "end": 182.96
+    }
+  ],
+  "word": [
+    {
+      "word": "You're",
+      "start_offset": 118,
+      "end_offset": 122,
+      "start": 9.44,
+      "end": 9.76
+    },
+    {
+      "word": "my",
+      "start_offset": 122,
+      "end_offset": 126,
+      "start": 9.76,
+      "end": 10.08
+    },
+    {
+      "word": "baby",
+      "start_offset": 126,
+      "end_offset": 138,
+      "start": 10.08,
+      "end": 11.040000000000001
+    },
+    {
+      "word": "You're",
+      "start_offset": 153,
+      "end_offset": 158,
+      "start": 12.24,
+      "end": 12.64
+    },
+    {
+      "word": "the",
+      "start_offset": 158,
+      "end_offset": 162,
+      "start": 12.64,
+      "end": 12.96
+    },
+    {
+      "word": "only",
+      "start_offset": 162,
+      "end_offset": 165,
+      "start": 12.96,
+      "end": 13.200000000000001
+    },
+    {
+      "word": "one",
+      "start_offset": 165,
+      "end_offset": 169,
+      "start": 13.200000000000001,
+      "end": 13.52
+    },
+    {
+      "word": "You",
+      "start_offset": 173,
+      "end_offset": 175,
+      "start": 13.84,
+      "end": 14.0
+    },
+    {
+      "word": "drive",
+      "start_offset": 175,
+      "end_offset": 180,
+      "start": 14.0,
+      "end": 14.4
+    },
+    {
+      "word": "me",
+      "start_offset": 180,
+      "end_offset": 183,
+      "start": 14.4,
+      "end": 14.64
+    },
+    {
+      "word": "crazy",
+      "start_offset": 183,
+      "end_offset": 193,
+      "start": 14.64,
+      "end": 15.44
+    },
+    {
+      "word": "But",
+      "start_offset": 204,
+      "end_offset": 207,
+      "start": 16.32,
+      "end": 16.56
+    },
+    {
+      "word": "I",
+      "start_offset": 207,
+      "end_offset": 208,
+      "start": 16.56,
+      "end": 16.64
+    },
+    {
+      "word": "still",
+      "start_offset": 210,
+      "end_offset": 214,
+      "start": 16.8,
+      "end": 17.12
+    },
+    {
+      "word": "miss",
+      "start_offset": 214,
+      "end_offset": 219,
+      "start": 17.12,
+      "end": 17.52
+    },
+    {
+      "word": "you",
+      "start_offset": 219,
+      "end_offset": 222,
+      "start": 17.52,
+      "end": 17.76
+    },
+    {
+      "word": "when",
+      "start_offset": 222,
+      "end_offset": 225,
+      "start": 17.76,
+      "end": 18.0
+    },
+    {
+      "word": "you're",
+      "start_offset": 225,
+      "end_offset": 232,
+      "start": 18.0,
+      "end": 18.56
+    },
+    {
+      "word": "gone",
+      "start_offset": 232,
+      "end_offset": 239,
+      "start": 18.56,
+      "end": 19.12
+    },
+    {
+      "word": "Every",
+      "start_offset": 251,
+      "end_offset": 257,
+      "start": 20.080000000000002,
+      "end": 20.56
+    },
+    {
+      "word": "second,",
+      "start_offset": 257,
+      "end_offset": 265,
+      "start": 20.56,
+      "end": 21.2
+    },
+    {
+      "word": "every",
+      "start_offset": 273,
+      "end_offset": 277,
+      "start": 21.84,
+      "end": 22.16
+    },
+    {
+      "word": "hour",
+      "start_offset": 277,
+      "end_offset": 285,
+      "start": 22.16,
+      "end": 22.8
+    },
+    {
+      "word": "It's",
+      "start_offset": 344,
+      "end_offset": 348,
+      "start": 27.52,
+      "end": 27.84
+    },
+    {
+      "word": "in",
+      "start_offset": 348,
+      "end_offset": 351,
+      "start": 27.84,
+      "end": 28.080000000000002
+    },
+    {
+      "word": "your",
+      "start_offset": 351,
+      "end_offset": 355,
+      "start": 28.080000000000002,
+      "end": 28.400000000000002
+    },
+    {
+      "word": "nature",
+      "start_offset": 355,
+      "end_offset": 367,
+      "start": 28.400000000000002,
+      "end": 29.36
+    },
+    {
+      "word": "To",
+      "start_offset": 382,
+      "end_offset": 385,
+      "start": 30.560000000000002,
+      "end": 30.8
+    },
+    {
+      "word": "light",
+      "start_offset": 385,
+      "end_offset": 391,
+      "start": 30.8,
+      "end": 31.28
+    },
+    {
+      "word": "me",
+      "start_offset": 391,
+      "end_offset": 394,
+      "start": 31.28,
+      "end": 31.52
+    },
+    {
+      "word": "up",
+      "start_offset": 394,
+      "end_offset": 398,
+      "start": 31.52,
+      "end": 31.84
+    },
+    {
+      "word": "I",
+      "start_offset": 402,
+      "end_offset": 405,
+      "start": 32.160000000000004,
+      "end": 32.4
+    },
+    {
+      "word": "love",
+      "start_offset": 405,
+      "end_offset": 408,
+      "start": 32.4,
+      "end": 32.64
+    },
+    {
+      "word": "to",
+      "start_offset": 408,
+      "end_offset": 411,
+      "start": 32.64,
+      "end": 32.88
+    },
+    {
+      "word": "hate",
+      "start_offset": 411,
+      "end_offset": 417,
+      "start": 32.88,
+      "end": 33.36
+    },
+    {
+      "word": "you",
+      "start_offset": 417,
+      "end_offset": 419,
+      "start": 33.36,
+      "end": 33.52
+    },
+    {
+      "word": "But",
+      "start_offset": 433,
+      "end_offset": 436,
+      "start": 34.64,
+      "end": 34.88
+    },
+    {
+      "word": "I",
+      "start_offset": 436,
+      "end_offset": 438,
+      "start": 34.88,
+      "end": 35.04
+    },
+    {
+      "word": "can't",
+      "start_offset": 438,
+      "end_offset": 443,
+      "start": 35.04,
+      "end": 35.44
+    },
+    {
+      "word": "stand",
+      "start_offset": 443,
+      "end_offset": 448,
+      "start": 35.44,
+      "end": 35.84
+    },
+    {
+      "word": "it",
+      "start_offset": 448,
+      "end_offset": 450,
+      "start": 35.84,
+      "end": 36.0
+    },
+    {
+      "word": "when",
+      "start_offset": 450,
+      "end_offset": 453,
+      "start": 36.0,
+      "end": 36.24
+    },
+    {
+      "word": "you're",
+      "start_offset": 453,
+      "end_offset": 460,
+      "start": 36.24,
+      "end": 36.800000000000004
+    },
+    {
+      "word": "gone",
+      "start_offset": 460,
+      "end_offset": 468,
+      "start": 36.800000000000004,
+      "end": 37.44
+    },
+    {
+      "word": "So",
+      "start_offset": 479,
+      "end_offset": 483,
+      "start": 38.32,
+      "end": 38.64
+    },
+    {
+      "word": "I",
+      "start_offset": 483,
+      "end_offset": 487,
+      "start": 38.64,
+      "end": 38.96
+    },
+    {
+      "word": "call",
+      "start_offset": 487,
+      "end_offset": 491,
+      "start": 38.96,
+      "end": 39.28
+    },
+    {
+      "word": "you",
+      "start_offset": 491,
+      "end_offset": 495,
+      "start": 39.28,
+      "end": 39.6
+    },
+    {
+      "word": "once",
+      "start_offset": 495,
+      "end_offset": 503,
+      "start": 39.6,
+      "end": 40.24
+    },
+    {
+      "word": "every",
+      "start_offset": 503,
+      "end_offset": 507,
+      "start": 40.24,
+      "end": 40.56
+    },
+    {
+      "word": "hour",
+      "start_offset": 507,
+      "end_offset": 515,
+      "start": 40.56,
+      "end": 41.2
+    },
+    {
+      "word": "You",
+      "start_offset": 558,
+      "end_offset": 562,
+      "start": 44.64,
+      "end": 44.96
+    },
+    {
+      "word": "got",
+      "start_offset": 562,
+      "end_offset": 566,
+      "start": 44.96,
+      "end": 45.28
+    },
+    {
+      "word": "the",
+      "start_offset": 566,
+      "end_offset": 570,
+      "start": 45.28,
+      "end": 45.6
+    },
+    {
+      "word": "love",
+      "start_offset": 570,
+      "end_offset": 574,
+      "start": 45.6,
+      "end": 45.92
+    },
+    {
+      "word": "I",
+      "start_offset": 578,
+      "end_offset": 580,
+      "start": 46.24,
+      "end": 46.4
+    },
+    {
+      "word": "always",
+      "start_offset": 587,
+      "end_offset": 591,
+      "start": 46.96,
+      "end": 47.28
+    },
+    {
+      "word": "need",
+      "start_offset": 595,
+      "end_offset": 598,
+      "start": 47.6,
+      "end": 47.84
+    },
+    {
+      "word": "Time",
+      "start_offset": 613,
+      "end_offset": 619,
+      "start": 49.04,
+      "end": 49.52
+    },
+    {
+      "word": "made",
+      "start_offset": 620,
+      "end_offset": 621,
+      "start": 49.6,
+      "end": 49.68
+    },
+    {
+      "word": "of",
+      "start_offset": 623,
+      "end_offset": 625,
+      "start": 49.84,
+      "end": 50.0
+    },
+    {
+      "word": "horses",
+      "start_offset": 625,
+      "end_offset": 631,
+      "start": 50.0,
+      "end": 50.480000000000004
+    },
+    {
+      "word": "and",
+      "start_offset": 634,
+      "end_offset": 636,
+      "start": 50.72,
+      "end": 50.88
+    },
+    {
+      "word": "still",
+      "start_offset": 640,
+      "end_offset": 644,
+      "start": 51.2,
+      "end": 51.52
+    },
+    {
+      "word": "would",
+      "start_offset": 646,
+      "end_offset": 648,
+      "start": 51.68,
+      "end": 51.84
+    },
+    {
+      "word": "leave",
+      "start_offset": 653,
+      "end_offset": 660,
+      "start": 52.24,
+      "end": 52.800000000000004
+    },
+    {
+      "word": "But",
+      "start_offset": 670,
+      "end_offset": 672,
+      "start": 53.6,
+      "end": 53.76
+    },
+    {
+      "word": "you're",
+      "start_offset": 672,
+      "end_offset": 676,
+      "start": 53.76,
+      "end": 54.08
+    },
+    {
+      "word": "not",
+      "start_offset": 676,
+      "end_offset": 679,
+      "start": 54.08,
+      "end": 54.32
+    },
+    {
+      "word": "an",
+      "start_offset": 679,
+      "end_offset": 681,
+      "start": 54.32,
+      "end": 54.480000000000004
+    },
+    {
+      "word": "easy",
+      "start_offset": 685,
+      "end_offset": 739,
+      "start": 54.800000000000004,
+      "end": 59.120000000000005
+    },
+    {
+      "word": "lover",
+      "start_offset": 739,
+      "end_offset": 746,
+      "start": 59.120000000000005,
+      "end": 59.68
+    },
+    {
+      "word": "You're",
+      "start_offset": 804,
+      "end_offset": 808,
+      "start": 64.32000000000001,
+      "end": 64.64
+    },
+    {
+      "word": "a",
+      "start_offset": 808,
+      "end_offset": 811,
+      "start": 64.64,
+      "end": 64.88
+    },
+    {
+      "word": "wildfire",
+      "start_offset": 811,
+      "end_offset": 827,
+      "start": 64.88,
+      "end": 66.16
+    },
+    {
+      "word": "And",
+      "start_offset": 839,
+      "end_offset": 842,
+      "start": 67.12,
+      "end": 67.36
+    },
+    {
+      "word": "I'm",
+      "start_offset": 842,
+      "end_offset": 844,
+      "start": 67.36,
+      "end": 67.52
+    },
+    {
+      "word": "in",
+      "start_offset": 844,
+      "end_offset": 847,
+      "start": 67.52,
+      "end": 67.76
+    },
+    {
+      "word": "your",
+      "start_offset": 847,
+      "end_offset": 850,
+      "start": 67.76,
+      "end": 68.0
+    },
+    {
+      "word": "path",
+      "start_offset": 850,
+      "end_offset": 858,
+      "start": 68.0,
+      "end": 68.64
+    },
+    {
+      "word": "I've",
+      "start_offset": 862,
+      "end_offset": 868,
+      "start": 68.96000000000001,
+      "end": 69.44
+    },
+    {
+      "word": "decided",
+      "start_offset": 868,
+      "end_offset": 878,
+      "start": 69.44,
+      "end": 70.24
+    },
+    {
+      "word": "I",
+      "start_offset": 880,
+      "end_offset": 883,
+      "start": 70.4,
+      "end": 70.64
+    },
+    {
+      "word": "wanna",
+      "start_offset": 883,
+      "end_offset": 893,
+      "start": 70.64,
+      "end": 71.44
+    },
+    {
+      "word": "keep",
+      "start_offset": 893,
+      "end_offset": 896,
+      "start": 71.44,
+      "end": 71.68
+    },
+    {
+      "word": "on",
+      "start_offset": 896,
+      "end_offset": 899,
+      "start": 71.68,
+      "end": 71.92
+    },
+    {
+      "word": "dancing",
+      "start_offset": 899,
+      "end_offset": 909,
+      "start": 71.92,
+      "end": 72.72
+    },
+    {
+      "word": "in",
+      "start_offset": 909,
+      "end_offset": 912,
+      "start": 72.72,
+      "end": 72.96000000000001
+    },
+    {
+      "word": "the",
+      "start_offset": 912,
+      "end_offset": 916,
+      "start": 72.96000000000001,
+      "end": 73.28
+    },
+    {
+      "word": "ashes",
+      "start_offset": 916,
+      "end_offset": 926,
+      "start": 73.28,
+      "end": 74.08
+    },
+    {
+      "word": "And",
+      "start_offset": 934,
+      "end_offset": 937,
+      "start": 74.72,
+      "end": 74.96000000000001
+    },
+    {
+      "word": "so",
+      "start_offset": 937,
+      "end_offset": 938,
+      "start": 74.96000000000001,
+      "end": 75.04
+    },
+    {
+      "word": "I",
+      "start_offset": 941,
+      "end_offset": 945,
+      "start": 75.28,
+      "end": 75.60000000000001
+    },
+    {
+      "word": "call",
+      "start_offset": 945,
+      "end_offset": 949,
+      "start": 75.60000000000001,
+      "end": 75.92
+    },
+    {
+      "word": "Let",
+      "start_offset": 956,
+      "end_offset": 960,
+      "start": 76.48,
+      "end": 76.8
+    },
+    {
+      "word": "it",
+      "start_offset": 960,
+      "end_offset": 961,
+      "start": 76.8,
+      "end": 76.88
+    },
+    {
+      "word": "Bar",
+      "start_offset": 963,
+      "end_offset": 972,
+      "start": 77.04,
+      "end": 77.76
+    },
+    {
+      "word": "You",
+      "start_offset": 1015,
+      "end_offset": 1016,
+      "start": 81.2,
+      "end": 81.28
+    },
+    {
+      "word": "got",
+      "start_offset": 1019,
+      "end_offset": 1023,
+      "start": 81.52,
+      "end": 81.84
+    },
+    {
+      "word": "the",
+      "start_offset": 1023,
+      "end_offset": 1027,
+      "start": 81.84,
+      "end": 82.16
+    },
+    {
+      "word": "love",
+      "start_offset": 1027,
+      "end_offset": 1031,
+      "start": 82.16,
+      "end": 82.48
+    },
+    {
+      "word": "I",
+      "start_offset": 1035,
+      "end_offset": 1039,
+      "start": 82.8,
+      "end": 83.12
+    },
+    {
+      "word": "always",
+      "start_offset": 1043,
+      "end_offset": 1047,
+      "start": 83.44,
+      "end": 83.76
+    },
+    {
+      "word": "need",
+      "start_offset": 1055,
+      "end_offset": 1059,
+      "start": 84.4,
+      "end": 84.72
+    },
+    {
+      "word": "Time",
+      "start_offset": 1070,
+      "end_offset": 1076,
+      "start": 85.60000000000001,
+      "end": 86.08
+    },
+    {
+      "word": "made",
+      "start_offset": 1077,
+      "end_offset": 1078,
+      "start": 86.16,
+      "end": 86.24
+    },
+    {
+      "word": "of",
+      "start_offset": 1080,
+      "end_offset": 1082,
+      "start": 86.4,
+      "end": 86.56
+    },
+    {
+      "word": "horses",
+      "start_offset": 1082,
+      "end_offset": 1088,
+      "start": 86.56,
+      "end": 87.04
+    },
+    {
+      "word": "and",
+      "start_offset": 1092,
+      "end_offset": 1094,
+      "start": 87.36,
+      "end": 87.52
+    },
+    {
+      "word": "still",
+      "start_offset": 1096,
+      "end_offset": 1098,
+      "start": 87.68,
+      "end": 87.84
+    },
+    {
+      "word": "would",
+      "start_offset": 1104,
+      "end_offset": 1106,
+      "start": 88.32000000000001,
+      "end": 88.48
+    },
+    {
+      "word": "leave",
+      "start_offset": 1111,
+      "end_offset": 1116,
+      "start": 88.88,
+      "end": 89.28
+    },
+    {
+      "word": "But",
+      "start_offset": 1127,
+      "end_offset": 1130,
+      "start": 90.16,
+      "end": 90.4
+    },
+    {
+      "word": "you're",
+      "start_offset": 1130,
+      "end_offset": 1134,
+      "start": 90.4,
+      "end": 90.72
+    },
+    {
+      "word": "not",
+      "start_offset": 1134,
+      "end_offset": 1137,
+      "start": 90.72,
+      "end": 90.96000000000001
+    },
+    {
+      "word": "an",
+      "start_offset": 1137,
+      "end_offset": 1139,
+      "start": 90.96000000000001,
+      "end": 91.12
+    },
+    {
+      "word": "easy",
+      "start_offset": 1142,
+      "end_offset": 1193,
+      "start": 91.36,
+      "end": 95.44
+    },
+    {
+      "word": "lover",
+      "start_offset": 1196,
+      "end_offset": 1203,
+      "start": 95.68,
+      "end": 96.24000000000001
+    },
+    {
+      "word": "No,",
+      "start_offset": 1259,
+      "end_offset": 1262,
+      "start": 100.72,
+      "end": 100.96000000000001
+    },
+    {
+      "word": "I",
+      "start_offset": 1263,
+      "end_offset": 1265,
+      "start": 101.04,
+      "end": 101.2
+    },
+    {
+      "word": "just",
+      "start_offset": 1265,
+      "end_offset": 1268,
+      "start": 101.2,
+      "end": 101.44
+    },
+    {
+      "word": "can't",
+      "start_offset": 1268,
+      "end_offset": 1272,
+      "start": 101.44,
+      "end": 101.76
+    },
+    {
+      "word": "give",
+      "start_offset": 1272,
+      "end_offset": 1274,
+      "start": 101.76,
+      "end": 101.92
+    },
+    {
+      "word": "you",
+      "start_offset": 1275,
+      "end_offset": 1276,
+      "start": 102.0,
+      "end": 102.08
+    },
+    {
+      "word": "No",
+      "start_offset": 1282,
+      "end_offset": 1284,
+      "start": 102.56,
+      "end": 102.72
+    },
+    {
+      "word": "I",
+      "start_offset": 1285,
+      "end_offset": 1287,
+      "start": 102.8,
+      "end": 102.96000000000001
+    },
+    {
+      "word": "just",
+      "start_offset": 1287,
+      "end_offset": 1289,
+      "start": 102.96000000000001,
+      "end": 103.12
+    },
+    {
+      "word": "can't",
+      "start_offset": 1289,
+      "end_offset": 1293,
+      "start": 103.12,
+      "end": 103.44
+    },
+    {
+      "word": "give",
+      "start_offset": 1293,
+      "end_offset": 1296,
+      "start": 103.44,
+      "end": 103.68
+    },
+    {
+      "word": "you",
+      "start_offset": 1296,
+      "end_offset": 1299,
+      "start": 103.68,
+      "end": 103.92
+    },
+    {
+      "word": "up",
+      "start_offset": 1299,
+      "end_offset": 1303,
+      "start": 103.92,
+      "end": 104.24000000000001
+    },
+    {
+      "word": "No,",
+      "start_offset": 1317,
+      "end_offset": 1319,
+      "start": 105.36,
+      "end": 105.52
+    },
+    {
+      "word": "I",
+      "start_offset": 1320,
+      "end_offset": 1322,
+      "start": 105.60000000000001,
+      "end": 105.76
+    },
+    {
+      "word": "just",
+      "start_offset": 1322,
+      "end_offset": 1325,
+      "start": 105.76,
+      "end": 106.0
+    },
+    {
+      "word": "can't",
+      "start_offset": 1325,
+      "end_offset": 1329,
+      "start": 106.0,
+      "end": 106.32000000000001
+    },
+    {
+      "word": "give",
+      "start_offset": 1329,
+      "end_offset": 1331,
+      "start": 106.32000000000001,
+      "end": 106.48
+    },
+    {
+      "word": "you",
+      "start_offset": 1332,
+      "end_offset": 1333,
+      "start": 106.56,
+      "end": 106.64
+    },
+    {
+      "word": "No",
+      "start_offset": 1339,
+      "end_offset": 1341,
+      "start": 107.12,
+      "end": 107.28
+    },
+    {
+      "word": "I",
+      "start_offset": 1342,
+      "end_offset": 1344,
+      "start": 107.36,
+      "end": 107.52
+    },
+    {
+      "word": "just",
+      "start_offset": 1344,
+      "end_offset": 1346,
+      "start": 107.52,
+      "end": 107.68
+    },
+    {
+      "word": "can't",
+      "start_offset": 1346,
+      "end_offset": 1350,
+      "start": 107.68,
+      "end": 108.0
+    },
+    {
+      "word": "give",
+      "start_offset": 1350,
+      "end_offset": 1352,
+      "start": 108.0,
+      "end": 108.16
+    },
+    {
+      "word": "you",
+      "start_offset": 1353,
+      "end_offset": 1354,
+      "start": 108.24000000000001,
+      "end": 108.32000000000001
+    },
+    {
+      "word": "up",
+      "start_offset": 1355,
+      "end_offset": 1358,
+      "start": 108.4,
+      "end": 108.64
+    },
+    {
+      "word": "But",
+      "start_offset": 1362,
+      "end_offset": 1364,
+      "start": 108.96000000000001,
+      "end": 109.12
+    },
+    {
+      "word": "you're",
+      "start_offset": 1364,
+      "end_offset": 1367,
+      "start": 109.12,
+      "end": 109.36
+    },
+    {
+      "word": "not",
+      "start_offset": 1367,
+      "end_offset": 1369,
+      "start": 109.36,
+      "end": 109.52
+    },
+    {
+      "word": "an",
+      "start_offset": 1369,
+      "end_offset": 1371,
+      "start": 109.52,
+      "end": 109.68
+    },
+    {
+      "word": "easy",
+      "start_offset": 1373,
+      "end_offset": 1424,
+      "start": 109.84,
+      "end": 113.92
+    },
+    {
+      "word": "lover",
+      "start_offset": 1424,
+      "end_offset": 1431,
+      "start": 113.92,
+      "end": 114.48
+    },
+    {
+      "word": "You",
+      "start_offset": 1492,
+      "end_offset": 1494,
+      "start": 119.36,
+      "end": 119.52
+    },
+    {
+      "word": "got",
+      "start_offset": 1494,
+      "end_offset": 1496,
+      "start": 119.52,
+      "end": 119.68
+    },
+    {
+      "word": "the",
+      "start_offset": 1496,
+      "end_offset": 1499,
+      "start": 119.68,
+      "end": 119.92
+    },
+    {
+      "word": "love",
+      "start_offset": 1499,
+      "end_offset": 1502,
+      "start": 119.92,
+      "end": 120.16
+    },
+    {
+      "word": "I",
+      "start_offset": 1504,
+      "end_offset": 1508,
+      "start": 120.32000000000001,
+      "end": 120.64
+    },
+    {
+      "word": "always",
+      "start_offset": 1508,
+      "end_offset": 1512,
+      "start": 120.64,
+      "end": 120.96000000000001
+    },
+    {
+      "word": "need",
+      "start_offset": 1512,
+      "end_offset": 1515,
+      "start": 120.96000000000001,
+      "end": 121.2
+    },
+    {
+      "word": "Time",
+      "start_offset": 1547,
+      "end_offset": 1551,
+      "start": 123.76,
+      "end": 124.08
+    },
+    {
+      "word": "made",
+      "start_offset": 1552,
+      "end_offset": 1553,
+      "start": 124.16,
+      "end": 124.24000000000001
+    },
+    {
+      "word": "a",
+      "start_offset": 1554,
+      "end_offset": 1555,
+      "start": 124.32000000000001,
+      "end": 124.4
+    },
+    {
+      "word": "horse",
+      "start_offset": 1556,
+      "end_offset": 1558,
+      "start": 124.48,
+      "end": 124.64
+    },
+    {
+      "word": "and",
+      "start_offset": 1559,
+      "end_offset": 1560,
+      "start": 124.72,
+      "end": 124.8
+    },
+    {
+      "word": "I",
+      "start_offset": 1561,
+      "end_offset": 1563,
+      "start": 124.88000000000001,
+      "end": 125.04
+    },
+    {
+      "word": "still",
+      "start_offset": 1563,
+      "end_offset": 1566,
+      "start": 125.04,
+      "end": 125.28
+    },
+    {
+      "word": "would",
+      "start_offset": 1566,
+      "end_offset": 1568,
+      "start": 125.28,
+      "end": 125.44
+    },
+    {
+      "word": "leave",
+      "start_offset": 1569,
+      "end_offset": 1573,
+      "start": 125.52,
+      "end": 125.84
+    },
+    {
+      "word": "you",
+      "start_offset": 1573,
+      "end_offset": 1574,
+      "start": 125.84,
+      "end": 125.92
+    },
+    {
+      "word": "But",
+      "start_offset": 1590,
+      "end_offset": 1592,
+      "start": 127.2,
+      "end": 127.36
+    },
+    {
+      "word": "you're",
+      "start_offset": 1592,
+      "end_offset": 1595,
+      "start": 127.36,
+      "end": 127.60000000000001
+    },
+    {
+      "word": "not",
+      "start_offset": 1595,
+      "end_offset": 1597,
+      "start": 127.60000000000001,
+      "end": 127.76
+    },
+    {
+      "word": "an",
+      "start_offset": 1597,
+      "end_offset": 1599,
+      "start": 127.76,
+      "end": 127.92
+    },
+    {
+      "word": "easy",
+      "start_offset": 1602,
+      "end_offset": 1612,
+      "start": 128.16,
+      "end": 128.96
+    },
+    {
+      "word": "lover",
+      "start_offset": 1653,
+      "end_offset": 1660,
+      "start": 132.24,
+      "end": 132.8
+    },
+    {
+      "word": "You'll",
+      "start_offset": 1700,
+      "end_offset": 1705,
+      "start": 136.0,
+      "end": 136.4
+    },
+    {
+      "word": "make",
+      "start_offset": 1705,
+      "end_offset": 1709,
+      "start": 136.4,
+      "end": 136.72
+    },
+    {
+      "word": "it",
+      "start_offset": 1709,
+      "end_offset": 1712,
+      "start": 136.72,
+      "end": 136.96
+    },
+    {
+      "word": "hard",
+      "start_offset": 1712,
+      "end_offset": 1720,
+      "start": 136.96,
+      "end": 137.6
+    },
+    {
+      "word": "to",
+      "start_offset": 1720,
+      "end_offset": 1724,
+      "start": 137.6,
+      "end": 137.92000000000002
+    },
+    {
+      "word": "touch",
+      "start_offset": 1724,
+      "end_offset": 1732,
+      "start": 137.92000000000002,
+      "end": 138.56
+    },
+    {
+      "word": "her",
+      "start_offset": 1734,
+      "end_offset": 1737,
+      "start": 138.72,
+      "end": 138.96
+    },
+    {
+      "word": "anything",
+      "start_offset": 1759,
+      "end_offset": 1765,
+      "start": 140.72,
+      "end": 141.20000000000002
+    },
+    {
+      "word": "goes",
+      "start_offset": 1769,
+      "end_offset": 1776,
+      "start": 141.52,
+      "end": 142.08
+    },
+    {
+      "word": "when",
+      "start_offset": 1776,
+      "end_offset": 1779,
+      "start": 142.08,
+      "end": 142.32
+    },
+    {
+      "word": "we're",
+      "start_offset": 1779,
+      "end_offset": 1785,
+      "start": 142.32,
+      "end": 142.8
+    },
+    {
+      "word": "under",
+      "start_offset": 1785,
+      "end_offset": 1789,
+      "start": 142.8,
+      "end": 143.12
+    },
+    {
+      "word": "the",
+      "start_offset": 1792,
+      "end_offset": 1796,
+      "start": 143.36,
+      "end": 143.68
+    },
+    {
+      "word": "cups",
+      "start_offset": 1796,
+      "end_offset": 1804,
+      "start": 143.68,
+      "end": 144.32
+    },
+    {
+      "word": "But",
+      "start_offset": 1819,
+      "end_offset": 1821,
+      "start": 145.52,
+      "end": 145.68
+    },
+    {
+      "word": "you're",
+      "start_offset": 1821,
+      "end_offset": 1824,
+      "start": 145.68,
+      "end": 145.92000000000002
+    },
+    {
+      "word": "not",
+      "start_offset": 1824,
+      "end_offset": 1826,
+      "start": 145.92000000000002,
+      "end": 146.08
+    },
+    {
+      "word": "an",
+      "start_offset": 1826,
+      "end_offset": 1828,
+      "start": 146.08,
+      "end": 146.24
+    },
+    {
+      "word": "easy",
+      "start_offset": 1831,
+      "end_offset": 1849,
+      "start": 146.48,
+      "end": 147.92000000000002
+    },
+    {
+      "word": "lover",
+      "start_offset": 1881,
+      "end_offset": 1888,
+      "start": 150.48,
+      "end": 151.04
+    },
+    {
+      "word": "No,",
+      "start_offset": 1945,
+      "end_offset": 1947,
+      "start": 155.6,
+      "end": 155.76
+    },
+    {
+      "word": "I",
+      "start_offset": 1949,
+      "end_offset": 1950,
+      "start": 155.92000000000002,
+      "end": 156.0
+    },
+    {
+      "word": "just",
+      "start_offset": 1950,
+      "end_offset": 1953,
+      "start": 156.0,
+      "end": 156.24
+    },
+    {
+      "word": "can't",
+      "start_offset": 1953,
+      "end_offset": 1957,
+      "start": 156.24,
+      "end": 156.56
+    },
+    {
+      "word": "give",
+      "start_offset": 1957,
+      "end_offset": 1959,
+      "start": 156.56,
+      "end": 156.72
+    },
+    {
+      "word": "up",
+      "start_offset": 1962,
+      "end_offset": 1963,
+      "start": 156.96,
+      "end": 157.04
+    },
+    {
+      "word": "No,",
+      "start_offset": 1967,
+      "end_offset": 1969,
+      "start": 157.36,
+      "end": 157.52
+    },
+    {
+      "word": "I",
+      "start_offset": 1971,
+      "end_offset": 1972,
+      "start": 157.68,
+      "end": 157.76
+    },
+    {
+      "word": "just",
+      "start_offset": 1972,
+      "end_offset": 1974,
+      "start": 157.76,
+      "end": 157.92000000000002
+    },
+    {
+      "word": "can't",
+      "start_offset": 1974,
+      "end_offset": 1979,
+      "start": 157.92000000000002,
+      "end": 158.32
+    },
+    {
+      "word": "give",
+      "start_offset": 1979,
+      "end_offset": 1981,
+      "start": 158.32,
+      "end": 158.48
+    },
+    {
+      "word": "you",
+      "start_offset": 1981,
+      "end_offset": 1983,
+      "start": 158.48,
+      "end": 158.64000000000001
+    },
+    {
+      "word": "up",
+      "start_offset": 1983,
+      "end_offset": 1985,
+      "start": 158.64000000000001,
+      "end": 158.8
+    },
+    {
+      "word": "No,",
+      "start_offset": 2003,
+      "end_offset": 2004,
+      "start": 160.24,
+      "end": 160.32
+    },
+    {
+      "word": "I",
+      "start_offset": 2006,
+      "end_offset": 2008,
+      "start": 160.48,
+      "end": 160.64000000000001
+    },
+    {
+      "word": "just",
+      "start_offset": 2008,
+      "end_offset": 2011,
+      "start": 160.64000000000001,
+      "end": 160.88
+    },
+    {
+      "word": "can't",
+      "start_offset": 2011,
+      "end_offset": 2015,
+      "start": 160.88,
+      "end": 161.20000000000002
+    },
+    {
+      "word": "give",
+      "start_offset": 2015,
+      "end_offset": 2017,
+      "start": 161.20000000000002,
+      "end": 161.36
+    },
+    {
+      "word": "up",
+      "start_offset": 2019,
+      "end_offset": 2021,
+      "start": 161.52,
+      "end": 161.68
+    },
+    {
+      "word": "No,",
+      "start_offset": 2025,
+      "end_offset": 2027,
+      "start": 162.0,
+      "end": 162.16
+    },
+    {
+      "word": "I",
+      "start_offset": 2028,
+      "end_offset": 2029,
+      "start": 162.24,
+      "end": 162.32
+    },
+    {
+      "word": "just",
+      "start_offset": 2029,
+      "end_offset": 2032,
+      "start": 162.32,
+      "end": 162.56
+    },
+    {
+      "word": "can't",
+      "start_offset": 2032,
+      "end_offset": 2036,
+      "start": 162.56,
+      "end": 162.88
+    },
+    {
+      "word": "give",
+      "start_offset": 2036,
+      "end_offset": 2038,
+      "start": 162.88,
+      "end": 163.04
+    },
+    {
+      "word": "you",
+      "start_offset": 2038,
+      "end_offset": 2040,
+      "start": 163.04,
+      "end": 163.20000000000002
+    },
+    {
+      "word": "up",
+      "start_offset": 2040,
+      "end_offset": 2040,
+      "start": 163.20000000000002,
+      "end": 163.20000000000002
+    },
+    {
+      "word": "But",
+      "start_offset": 2047,
+      "end_offset": 2049,
+      "start": 163.76,
+      "end": 163.92000000000002
+    },
+    {
+      "word": "you're",
+      "start_offset": 2049,
+      "end_offset": 2052,
+      "start": 163.92000000000002,
+      "end": 164.16
+    },
+    {
+      "word": "not",
+      "start_offset": 2052,
+      "end_offset": 2054,
+      "start": 164.16,
+      "end": 164.32
+    },
+    {
+      "word": "an",
+      "start_offset": 2054,
+      "end_offset": 2056,
+      "start": 164.32,
+      "end": 164.48
+    },
+    {
+      "word": "easy",
+      "start_offset": 2059,
+      "end_offset": 2109,
+      "start": 164.72,
+      "end": 168.72
+    },
+    {
+      "word": "lover",
+      "start_offset": 2109,
+      "end_offset": 2114,
+      "start": 168.72,
+      "end": 169.12
+    },
+    {
+      "word": "Just",
+      "start_offset": 2122,
+      "end_offset": 2125,
+      "start": 169.76,
+      "end": 170.0
+    },
+    {
+      "word": "can't",
+      "start_offset": 2125,
+      "end_offset": 2129,
+      "start": 170.0,
+      "end": 170.32
+    },
+    {
+      "word": "give",
+      "start_offset": 2129,
+      "end_offset": 2131,
+      "start": 170.32,
+      "end": 170.48
+    },
+    {
+      "word": "up",
+      "start_offset": 2133,
+      "end_offset": 2134,
+      "start": 170.64000000000001,
+      "end": 170.72
+    },
+    {
+      "word": "No,",
+      "start_offset": 2139,
+      "end_offset": 2141,
+      "start": 171.12,
+      "end": 171.28
+    },
+    {
+      "word": "I",
+      "start_offset": 2142,
+      "end_offset": 2143,
+      "start": 171.36,
+      "end": 171.44
+    },
+    {
+      "word": "just",
+      "start_offset": 2143,
+      "end_offset": 2146,
+      "start": 171.44,
+      "end": 171.68
+    },
+    {
+      "word": "can't",
+      "start_offset": 2146,
+      "end_offset": 2150,
+      "start": 171.68,
+      "end": 172.0
+    },
+    {
+      "word": "give",
+      "start_offset": 2150,
+      "end_offset": 2153,
+      "start": 172.0,
+      "end": 172.24
+    },
+    {
+      "word": "you",
+      "start_offset": 2153,
+      "end_offset": 2156,
+      "start": 172.24,
+      "end": 172.48
+    },
+    {
+      "word": "up",
+      "start_offset": 2156,
+      "end_offset": 2160,
+      "start": 172.48,
+      "end": 172.8
+    },
+    {
+      "word": "No,",
+      "start_offset": 2174,
+      "end_offset": 2176,
+      "start": 173.92000000000002,
+      "end": 174.08
+    },
+    {
+      "word": "I",
+      "start_offset": 2177,
+      "end_offset": 2179,
+      "start": 174.16,
+      "end": 174.32
+    },
+    {
+      "word": "just",
+      "start_offset": 2179,
+      "end_offset": 2182,
+      "start": 174.32,
+      "end": 174.56
+    },
+    {
+      "word": "can't",
+      "start_offset": 2182,
+      "end_offset": 2186,
+      "start": 174.56,
+      "end": 174.88
+    },
+    {
+      "word": "give",
+      "start_offset": 2186,
+      "end_offset": 2188,
+      "start": 174.88,
+      "end": 175.04
+    },
+    {
+      "word": "up",
+      "start_offset": 2190,
+      "end_offset": 2191,
+      "start": 175.20000000000002,
+      "end": 175.28
+    },
+    {
+      "word": "No",
+      "start_offset": 2196,
+      "end_offset": 2198,
+      "start": 175.68,
+      "end": 175.84
+    },
+    {
+      "word": "I",
+      "start_offset": 2199,
+      "end_offset": 2201,
+      "start": 175.92000000000002,
+      "end": 176.08
+    },
+    {
+      "word": "just",
+      "start_offset": 2201,
+      "end_offset": 2203,
+      "start": 176.08,
+      "end": 176.24
+    },
+    {
+      "word": "can't",
+      "start_offset": 2203,
+      "end_offset": 2208,
+      "start": 176.24,
+      "end": 176.64000000000001
+    },
+    {
+      "word": "give",
+      "start_offset": 2208,
+      "end_offset": 2210,
+      "start": 176.64000000000001,
+      "end": 176.8
+    },
+    {
+      "word": "you",
+      "start_offset": 2210,
+      "end_offset": 2211,
+      "start": 176.8,
+      "end": 176.88
+    },
+    {
+      "word": "up",
+      "start_offset": 2211,
+      "end_offset": 2212,
+      "start": 176.88,
+      "end": 176.96
+    },
+    {
+      "word": "But",
+      "start_offset": 2219,
+      "end_offset": 2221,
+      "start": 177.52,
+      "end": 177.68
+    },
+    {
+      "word": "you're",
+      "start_offset": 2221,
+      "end_offset": 2224,
+      "start": 177.68,
+      "end": 177.92000000000002
+    },
+    {
+      "word": "not",
+      "start_offset": 2224,
+      "end_offset": 2226,
+      "start": 177.92000000000002,
+      "end": 178.08
+    },
+    {
+      "word": "an",
+      "start_offset": 2226,
+      "end_offset": 2229,
+      "start": 178.08,
+      "end": 178.32
+    },
+    {
+      "word": "easy",
+      "start_offset": 2229,
+      "end_offset": 2280,
+      "start": 178.32,
+      "end": 182.4
+    },
+    {
+      "word": "lover",
+      "start_offset": 2280,
+      "end_offset": 2287,
+      "start": 182.4,
+      "end": 182.96
+    }
+  ],
+  "segment": [
+    {
+      "segment": "You're my baby You're the only one You drive me crazy But I still miss you when you're gone Every second, every hour It's in your nature To light me up I love to hate you But I can't stand it when you're gone So I call you once every hour You got the love I always need Time made of horses and still would leave But you're not an easy lover You're a wildfire And I'm in your path I've decided I wanna keep on dancing in the ashes And so I call Let it Bar You got the love I always need Time made of horses and still would leave But you're not an easy lover No, I just can't give you No I just can't give you up No, I just can't give you No I just can't give you up But you're not an easy lover You got the love I always need Time made a horse and I still would leave you But you're not an easy lover You'll make it hard to touch her anything goes when we're under the cups But you're not an easy lover No, I just can't give up No, I just can't give you up No, I just can't give up No, I just can't give you up But you're not an easy lover Just can't give up No, I just can't give you up No, I just can't give up No I just can't give you up But you're not an easy lover",
+      "start_offset": 118,
+      "end_offset": 2287,
+      "start": 9.44,
+      "end": 182.96
+    }
+  ]
+}
