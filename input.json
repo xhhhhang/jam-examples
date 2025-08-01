@@ -1,83 +1,69 @@
 [
     {
-        "id": "Hybrid Minds, Brodie - Heroin",
+        "id": "Heroin - Hybrid Minds, Brodie",
         "audio_path": "examples/Hybrid Minds, Brodie - Heroin.mp3",
         "lrc_path": "examples/Hybrid Minds, Brodie - Heroin.json",
         "duration": 182,
         "bpm": 176
     },
     {
-        "id": "Kwengface - Parallel Theory",
+        "id": "Parallel Theory - Kwengface",
         "audio_path": "examples/Kwengface - Parallel Theory.mp3",
         "lrc_path": "examples/Kwengface - Parallel Theory.json",
         "duration": 153,
         "bpm": 95
     },
     {
-        "id": "Jade Bird - Avalanche",
+        "id": "Avalanche - Jade Bird",
         "audio_path": "examples/Jade Bird - Avalanche.mp3",
         "lrc_path": "examples/Jade Bird - Avalanche.json",
         "duration": 151,
         "bpm": 171
     },
     {
-        "id": "Kwengface - Parallel Theory",
-        "audio_path": "examples/Kwengface - Parallel Theory.mp3",
-        "lrc_path": "examples/Kwengface - Parallel Theory.json",
-        "duration": 153,
-        "bpm": 95
-    },
-    {
-        "id": "Jade Bird - Avalanche",
-        "audio_path": "examples/Jade Bird - Avalanche.mp3",
-        "lrc_path": "examples/Jade Bird - Avalanche.json",
-        "duration": 151,
-        "bpm": 171
-    },
-    {
-        "id": "Rizzle Kicks, Rachel Chinouriri - Follow Excitement!",
+        "id": "Follow Excitement! - Rizzle Kicks, Rachel Chinouriri",
         "audio_path": "examples/Rizzle Kicks, Rachel Chinouriri - Follow Excitement!.mp3",
         "lrc_path": "examples/Rizzle Kicks, Rachel Chinouriri - Follow Excitement!.json",
         "duration": 148,
         "bpm": 105
     },
     {
-        "id": "Liang Lawrence - A Day Off In Margaritaville",
+        "id": "A Day Off In Margaritaville - Liang Lawrence",
         "audio_path": "examples/Liang Lawrence - A Day Off In Margaritaville.mp3",
         "lrc_path": "examples/Liang Lawrence - A Day Off In Margaritaville.json",
         "duration": 172,
         "bpm": 98
     },
     {
-        "id": "quinnie - paper doll",
+        "id": "paper doll - quinnie",
         "audio_path": "examples/quinnie - paper doll.mp3",
         "lrc_path": "examples/quinnie - paper doll.json",
         "duration": 195,
         "bpm": 120
     },
     {
-        "id": "Richard Ashcroft - Lover",
+        "id": "Lover - Richard Ashcroft",
         "audio_path": "examples/Richard Ashcroft - Lover.mp3",
         "lrc_path": "examples/Richard Ashcroft - Lover.json",
         "duration": 220,
         "bpm": 95
     },
     {
-        "id": "Miley Cyrus - Easy Lover",
+        "id": "Easy Lover - Miley Cyrus",
         "audio_path": "examples/Miley Cyrus - Easy Lover.mp3",
         "lrc_path": "examples/Miley Cyrus - Easy Lover.json",
         "duration": 186,
         "bpm": 107
     },
     {
-        "id": "Waylon Wyatt - Sincerely, Your Son",
+        "id": "Sincerely, Your Son - Waylon Wyatt",
         "audio_path": "examples/Waylon Wyatt - Sincerely, Your Son.mp3",
         "lrc_path": "examples/Waylon Wyatt - Sincerely, Your Son.json",
         "duration": 229,
         "bpm": 87
     },
     {
-        "id": "Conan Gray - This Song",
+        "id": "This Song - Conan Gray",
         "audio_path": "examples/Conan Gray - This Song.mp3",
         "lrc_path": "examples/Conan Gray - This Song.json",
         "duration": 213,
